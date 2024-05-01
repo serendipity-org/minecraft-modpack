@@ -1,6 +1,6 @@
 name = "Remove Reloading Screen"
 filename = "Rrls-3.2.0-1.20.1-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
