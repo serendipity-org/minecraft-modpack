@@ -4,3 +4,4 @@
 - Cobblemon
 - Storage
 - Simply Swords
+- Recipes with same crafting
