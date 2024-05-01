@@ -3,11 +3,11 @@ filename = "Rrls-3.2.0-1.20.1-fabric.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/ZP7xHXtw/versions/FYj53ir3/Rrls-3.2.0-1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "1cf8d8af6ac5ae5f0c219531d4a6818059d5f1ee"
-mode = "metadata:curseforge"
+hash = "0eaf7135dd4c1ecfffc9ea849817247d6e66c569"
 
 [update]
-[update.curseforge]
-file-id = 4734076
-project-id = 833233
+[update.modrinth]
+mod-id = "ZP7xHXtw"
+version = "FYj53ir3"

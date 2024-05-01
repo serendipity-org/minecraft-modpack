@@ -2,8 +2,8 @@
   "name": "serendipity-modpack",
   "module": "pack.toml",
   "scripts": {
-    "add": "./bin/packwiz.exe curseforge install",
-    "add:mr": "./bin/packwiz.exe modrinth install",
+    "add": "./bin/packwiz.exe modrinth install",
+    "add:cf": "./bin/packwiz.exe curseforge install",
     "dev": "./bin/packwiz.exe serve",
     "refresh": "./bin/packwiz.exe refresh",
     "rm": "./bin/packwiz.exe remove",
