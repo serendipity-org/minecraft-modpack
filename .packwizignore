@@ -1,0 +1,9 @@
+/bin/packwiz-installer-bootstrap.jar
+
+README.md
+
+package.json
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb

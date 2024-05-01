@@ -1,0 +1,13 @@
+name = "Serendipity Modpack"
+author = "Javinyx"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d36925b3bd56f0a333ebf62408f20f413801017f7a9df53cf24eb5a8aeb7d66"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.1"
