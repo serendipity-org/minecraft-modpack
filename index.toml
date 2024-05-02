@@ -157,6 +157,14 @@ file = "config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
+file = "config/ftbquests/quests/.gitkeep"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ftbxmodcompat.snbt"
+hash = "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76"
+
+[[files]]
 file = "config/getittogetherdrops.json5"
 hash = "ac29e3d3ea80eb7799d49a2f727942c5438b88f01d0a3acbeb0a763b091a5486"
 
@@ -491,6 +499,11 @@ hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "8661452972ef497ed18fc5ef81e3ab8aababe1e40ece7df049dd47c77e7b52e0"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -566,11 +579,6 @@ hash = "bf9a869e30efcecfc9c1e548ea48054a15271d57aa7448346b8e6342d6a37baa"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "f0d5bb9a6a02189f5098fe0a66e44734b904fddab81a072f9d8f4ab41ec68bfe"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
@@ -598,6 +606,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "72a3735d583544a0d2ceb43b43426d4cda9bf099097216e9824f12272a973025"
 metafile = true
 
 [[files]]
@@ -631,11 +644,6 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
-file = "mods/cut-through.pw.toml"
-hash = "e519048f1be3e12f717e5f812b0c407d01f1c178951468638581af2d19f6c689"
-metafile = true
-
-[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "4e11e7949c85f2e32d3b717f0b1cb2b1e34c93c214c1fd745411018bc9386679"
 metafile = true
@@ -663,11 +671,6 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
-metafile = true
-
-[[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "c5c117ae3bd6b2c5f3a3191bff7569117565393706d04ef7b6edc3f39c6e6e09"
 metafile = true
 
 [[files]]
@@ -798,6 +801,41 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "21e853b1851eef59d29d7adb662e36fbbf2cd51bf0ec2d6d657b1af826816b86"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "a1b0cc10058f3edaf9f39424d39cc910a535c5006f57c85834cff0ce7a86fd44"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "e643012515e7d49d5b162da782b68eb6bab50dc482d3db1eb1efed46ad95178c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "7fe7ae62d557bf5410707a5f8e9b52d4db812ba5a3d2013d21e9729484b5f648"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "561148f4edbf3e020fa82268ab0895e34008ebff9b120e7b070a6a26f1e262de"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "3a656f50cf2dcee674133bf1d021bb3d977fcb41df6c72ae9e1472955ab1fb45"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "c0e10c55e13ac8c7857eda2bd3b28cb40f073e70443c08d7192f5dc0fecaa608"
 metafile = true
 
 [[files]]
@@ -1088,6 +1126,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "ef84d9a7ee3b67688643b6f9a8d03f6e8211adbf4b0fbe62f4ed5982da29c453"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]

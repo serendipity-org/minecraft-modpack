@@ -8,6 +8,7 @@
 - Recipes with same crafting
 - Chunky and Chunky Border
 - Villages
+- Emotes
 - Configure Item Obliterator
 - Configure Log Begone
 - Eating Animation doesn't work with resource pack
@@ -23,6 +24,14 @@
 - cull less leaves?
 - slimy floor?
 - show me your skin?
+- Achievements Optimizer
+- FTB Quest Optimizer
+- Re evaluate do a barrel roll
+
+## Combat Mods
+
+- Combat Roll
+- Better Combat
 
 ## Content Mods
 
