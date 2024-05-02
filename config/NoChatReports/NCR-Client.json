@@ -9,7 +9,7 @@
     "hideSigningRequestMessage": true,
     "hideSystemMessageIndicators": true,
     "hideWarningToast": true,
-    "removeTelemetryButton": false,
+    "removeTelemetryButton": true,
     "showNCRButton": false,
     "showReloadButton": false,
     "showServerSafety": true,
