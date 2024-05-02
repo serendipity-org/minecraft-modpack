@@ -65,6 +65,10 @@ file = "config/capes.json5"
 hash = "95391c7ebc92b338683bfa27292b2ed797046627c6699e2a4d74ece7ebefd3f5"
 
 [[files]]
+file = "config/cavedust.json"
+hash = "de84c6c3f138ecb4faeb7a0d707475ba73b17f6e181b5878c526eae8409da190"
+
+[[files]]
 file = "config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
@@ -452,6 +456,11 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
 file = "mods/axolotl-bucket-fix.pw.toml"
 hash = "da70e08f6ed19b62b544bbf09b64968c161151b149f4f1231073ad2f29697471"
 metafile = true
@@ -537,8 +546,18 @@ hash = "d4573994cc4cde3f3067ef31ea61b12418663502f6edac74ae2b113ae1828d2d"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
+metafile = true
+
+[[files]]
+file = "mods/chat-impressive-animation.pw.toml"
+hash = "aa20b025073fa928d391fb2cd0d0dac5931ec428f6cbf02d021fcd0494aa05ae"
 metafile = true
 
 [[files]]
@@ -554,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
 
 [[files]]
@@ -607,6 +631,11 @@ hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "e519048f1be3e12f717e5f812b0c407d01f1c178951468638581af2d19f6c689"
+metafile = true
+
+[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "4e11e7949c85f2e32d3b717f0b1cb2b1e34c93c214c1fd745411018bc9386679"
 metafile = true
@@ -629,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "8cf3cb810d9ed5a3f2b7fffeb49d8072b758ad276699d593bb94a49c0975a17a"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
 metafile = true
 
 [[files]]
@@ -659,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
 
 [[files]]
@@ -722,6 +761,11 @@ hash = "92f94f9773950de6a7c63e5421542d96a8ca6d1689e291bcfd94d6d88be0b8a1"
 metafile = true
 
 [[files]]
+file = "mods/fastanim.pw.toml"
+hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
+metafile = true
+
+[[files]]
 file = "mods/fastchest.pw.toml"
 hash = "ab077148b7f94640f5887a274349c740043f08b864d20e66ddc3fedf3ea03c77"
 metafile = true
@@ -734,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "234b120426975554aa7f9e49788c7a3ddb0d32e538f4ca102791549dec23c42b"
 metafile = true
 
 [[files]]
@@ -777,6 +826,11 @@ hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
+metafile = true
+
+[[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "12f236d2a2baa1e1f75628a5cc20eae9caf207861fe957dfdf8907dcca50b1d6"
 metafile = true
@@ -804,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
+metafile = true
+
+[[files]]
+file = "mods/invmove.pw.toml"
+hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
 metafile = true
 
 [[files]]
@@ -939,6 +998,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "86a9c0b8a721fd8396af88c3b0a304f8cddaff42b7b27c192a5c88277664df9b"
 metafile = true
 
 [[files]]
@@ -1137,6 +1201,11 @@ hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
 
 [[files]]
+file = "mods/stendhal.pw.toml"
+hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "b25dcfe10e77071dea13e6134feb21ae84711bc201fa64a11d467b97d57f0314"
 metafile = true
@@ -1144,6 +1213,11 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "263bf7a6be51bb4154f866d3ec0e57bb52d4109c9f0d0e0c81d31d55ceb08c61"
+metafile = true
+
+[[files]]
+file = "mods/talkbubbles.pw.toml"
+hash = "5956607e8d1d115911e16b8f074b85340f974779c72a10b348a7211ba94d8fa9"
 metafile = true
 
 [[files]]

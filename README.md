@@ -1,6 +1,7 @@
 # serendipity-modpack
 
-## To add:
+## To add
+
 - Cobblemon
 - Storage
 - Simply Swords
@@ -18,28 +19,13 @@
 - chat bubbles
 - rpg series
 - Simple RPC vs CraftPresence?
-
-- auth me
-- auudio
-- cave dust
-- clean cut
-- clear despawn
-- craftpresence
 - crafting tweaks
-- dismount entity
-- enhanced attack indicator
-- fastanim
-- feytweaks
-- highlight
-- invmove
-- monsters in the closet
-- cull less leaves
-- slimy floor
-- show me your skin
-- stendhal
+- cull less leaves?
+- slimy floor?
+- show me your skin?
 
 ## Content Mods
+
 - Dark Paintings
-- 
 
 `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar http://localhost:8080/pack.toml`
