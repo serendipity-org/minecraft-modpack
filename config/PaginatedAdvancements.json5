@@ -1,0 +1,12 @@
+{
+    "FadeOutBackgroundOnAdvancementHover": false,
+    "LastSelectedTab": "",
+    "MaxCriterionEntries": 6,
+    "PinnedTabs": [],
+    "PinningEnabled": false,
+    "SaveLastSelectedTab": false,
+    "ShowAdvancementIDInDebugTooltip": false,
+    "ShowDebugInfo": "ALWAYS",
+    "SpacingBetweenHorizontalTabs": 4,
+    "SpacingBetweenPinnedTabs": 2
+}

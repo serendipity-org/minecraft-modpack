@@ -1,0 +1,14 @@
+{
+    "main_menu": {
+        "bottom_right": [
+            {
+                "clickEvent": {
+                    "action": "open_url",
+                    "value": "https://serendipityodv.it"
+                },
+                "color": "red",
+                "text": "Serendipity Modpack"
+            }
+        ]
+    }
+}

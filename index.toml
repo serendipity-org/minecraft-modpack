@@ -2,19 +2,67 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "32dc5f1d73b05e70f3fc5a18f58c5d81a095484a0f93a1da6d1883966ff4e296"
+hash = "86139b663e1aeea12027dee6df93bb5476307c034380d0ac677ac4d2a1e8d7a4"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "e27c2f0f90688468a961261a599a53f8fee6ffee3ce4d38860a89e4aad9954f8"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "f1a0186f270f585256ecb5295c4097145ad607affbf66497dd8a200eb754d4b9"
+
+[[files]]
+file = "config/PaginatedAdvancements.json5"
+hash = "1bc9772d81bad2fd8100999eb91b94e7d91bbeab6b79331632ee8fb3e56bc480"
 
 [[files]]
 file = "config/badoptimizations.txt"
 hash = "6a26c41385d6d79a0430ab91270c3e64d03576233f4a66f3b9761ffb37247fb5"
 
 [[files]]
+file = "config/borderlessmining.json"
+hash = "f6a449e2e945d4176d5b906e88ae88d91d3d7efd9cdf425f738d168e1bffce9c"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "ef89208ceaf8a1fa0bc3a32bc8883fea5fc344b4b07300caeede7b010b14a19c"
 
 [[files]]
+file = "config/capes.json5"
+hash = "95391c7ebc92b338683bfa27292b2ed797046627c6699e2a4d74ece7ebefd3f5"
+
+[[files]]
+file = "config/cem.conf"
+hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "8a22e7d07fc554d39da9cb838aa89cc4a84dd7e41e8bebfd226f6becc32eb344"
+
+[[files]]
+file = "config/debugify.json"
+hash = "c181e56fed92ca44ff0bb22b8bb8f855ce435d91de0789d99802622ccf2c7665"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "5c382c6311708fe49c37d223dd9640bb1f749688e75a88624000a98cd685bff6"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "3b81b4a9848c5e323c37318538d7002adac25b32fb90b17c71d2100562642281"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
+
+[[files]]
+file = "config/fabrishot.properties"
+hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
+
+[[files]]
+file = "config/fastquit.toml"
+hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -25,16 +73,44 @@ file = "config/immediatelyfast.json"
 hash = "599a72271ffbc5bd0b77688513073b351f41d77bc11b8c8cc25a541336c1ee15"
 
 [[files]]
+file = "config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "beb900ab21d38410a8d22d6a1655964dbb6c425d7d766f4336b83bc47d4f2cc6"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "9a6a542c364d7e342820e12480784a10ffba62d1cc81f3aa76ec31e66934ec56"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "6ab49a0625298647b32a4a7a44b188cba86d519130895fe5a7976799a2490be5"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "438b7fccec32322a0f9f2ce69db8f512e87f2901004d4e32a9e9b00e10c6ab75"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "d102a5c1a09e930514963193b3a4e473930e0aacd067b23f2b03e2943346d938"
+
+[[files]]
 file = "config/moreculling.toml"
-hash = "f7d5fc07567a7f19b0b587d1f9ebe824b3345739bdf5b1379b8fb4292a99fec4"
+hash = "0a973745584bcf11b133ee3d3b95afa92583d820488e471c7560047005703058"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "bf989a8493d02f52fa5492c3abc0698ecdb99c8aea109c5a12655b4dd21b008a"
+
+[[files]]
+file = "config/rrls.toml"
+hash = "ade080447491d2a630c65b7343df636833f8283fe5af9db74b51c4e122bf0550"
 
 [[files]]
 file = "config/sodium-options.json"

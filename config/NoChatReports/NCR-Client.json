@@ -1,5 +1,19 @@
 {
-  "showNCRButton": false,
-  "showReloadButton": false,
-  "verifiedIconEnabled": false
+    "alwaysHideReportButton": false,
+    "defaultSigningMode": "ON_DEMAND",
+    "demandOnServer": false,
+    "disableTelemetry": false,
+    "enableMod": true,
+    "hideInsecureMessageIndicators": true,
+    "hideModifiedMessageIndicators": false,
+    "hideSigningRequestMessage": true,
+    "hideSystemMessageIndicators": true,
+    "hideWarningToast": true,
+    "removeTelemetryButton": false,
+    "showNCRButton": false,
+    "showReloadButton": false,
+    "showServerSafety": true,
+    "skipRealmsWarning": true,
+    "skipSigningWarning": true,
+    "verifiedIconEnabled": false
 }
