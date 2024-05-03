@@ -270,11 +270,6 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -391,9 +386,4 @@ hash = "ac9ce490284e5604c5e7390427b2bfc91629d5bbcdddf87f3df0f690e6eb34ad"
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "7397c48f14c1a403ebce969a660029e984cee96c899f7794f815dd7706b3d623"
 metafile = true
