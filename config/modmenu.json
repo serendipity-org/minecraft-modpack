@@ -10,15 +10,7 @@
     "easter_eggs": false,
     "game_menu_button_style": "replace_bugs",
     "hidden_configs": [],
-    "hidden_mods": [
-        "citresewn-defaults",
-        "indium",
-        "minecraft",
-        "puzzle-base",
-        "puzzle-gui",
-        "puzzle-models",
-        "puzzle-splashscreen"
-    ],
+    "hidden_mods": [],
     "hide_badges": true,
     "hide_config_buttons": false,
     "hide_mod_credits": true,
