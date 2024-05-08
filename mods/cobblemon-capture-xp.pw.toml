@@ -1,0 +1,13 @@
+name = "Cobblemon Capture XP"
+filename = "cobblemon-capturexp-1.4-fabric-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LBl4Qguc/versions/EHJteu1u/cobblemon-capturexp-1.4-fabric-1.0.2.jar"
+hash-format = "sha1"
+hash = "65f9b09bdfaa9d2c60059deddc9fd0d585194f1d"
+
+[update]
+[update.modrinth]
+mod-id = "LBl4Qguc"
+version = "EHJteu1u"

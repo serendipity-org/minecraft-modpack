@@ -1,0 +1,13 @@
+name = "Generational PCs"
+filename = "GesteeysPCVariants_v1.2_1.20.1_fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rPusDq97/versions/crWcJGhK/GesteeysPCVariants_v1.2_1.20.1_fabric.jar"
+hash-format = "sha1"
+hash = "962e21b950e15b4fce84f1dbd19c406ecc2ae385"
+
+[update]
+[update.modrinth]
+mod-id = "rPusDq97"
+version = "crWcJGhK"
