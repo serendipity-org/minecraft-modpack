@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+hash = "01e3cf922e35555215f12b60b835735309bb4d2894b4d2c832d1ac81bd74ef75"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-contraption-creatures.pw.toml"
-hash = "328cf50c4a4411330ed44ac30a60fb7d60005a2401dec6c8142931c6f88ad5e9"
+hash = "6fddb29ff2686641fc62bc4370858e745dc258ae9516e810f679c1bf3db42dff"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -788,7 +788,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
+hash = "9ed18369fbabb887d04cf9eeb7027cd0f52158cff74aa0a3f6d009f9d96ab974"
 metafile = true
 
 [[files]]
@@ -943,7 +943,7 @@ metafile = true
 
 [[files]]
 file = "mods/nethers-delight-refabricated.pw.toml"
-hash = "69cb3cb75351f7cf847ff8d5e506eda84f8355ed407f1e83e4c207691a69066b"
+hash = "e21766103599b503f698329c942557594f9ddc0e72b838deb79a672d0bf208b3"
 metafile = true
 
 [[files]]
@@ -1173,7 +1173,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "1d5a3eafbecc4f6cef6622f5f45abf1d3b616bea44668f1dc58c5952cf16ab89"
+hash = "464da9e6fdad7a92ea6001e5cd28303e62468d573f0a184d3ec4dc639ae5a7e2"
 metafile = true
 
 [[files]]
@@ -1198,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+hash = "0dfc437b6a74265d48e4b563dde1ddecf40c202a73f963d6a94bd27a552ac0dd"
 metafile = true
 
 [[files]]
@@ -1218,4 +1218,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/toms-create-storage.pw.toml"
 hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
