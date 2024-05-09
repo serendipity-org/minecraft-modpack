@@ -1,0 +1,13 @@
+name = "Create: Diesel Generators [Fabric]"
+filename = "creatediselgenerators-1.2.3h.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/reiRz8zO/versions/nUSVLLH9/creatediselgenerators-1.2.3h.jar"
+hash-format = "sha1"
+hash = "b554589743844654bcae4713938e9d2d7a0d3ddb"
+
+[update]
+[update.modrinth]
+mod-id = "reiRz8zO"
+version = "nUSVLLH9"

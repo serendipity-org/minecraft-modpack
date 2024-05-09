@@ -1,0 +1,13 @@
+name = "Create : Contraption Creatures"
+filename = "createcontraptioncreatures-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AWlGyzzT/versions/eTtnUEHQ/createcontraptioncreatures-1.0.0.jar"
+hash-format = "sha1"
+hash = "601fb5d22de0f62cce98193e2f2535e33284016f"
+
+[update]
+[update.modrinth]
+mod-id = "AWlGyzzT"
+version = "eTtnUEHQ"

@@ -4,7 +4,7 @@
   "scripts": {
     "add": "./bin/packwiz.exe modrinth install",
     "add:cf": "./bin/packwiz.exe curseforge install",
-    "dev": "./bin/packwiz.exe serve",
+    "dev": "bun refresh && ./bin/packwiz.exe serve",
     "refresh": "./bin/packwiz.exe refresh",
     "rm": "./bin/packwiz.exe remove",
     "up": "./bin/packwiz.exe update",
