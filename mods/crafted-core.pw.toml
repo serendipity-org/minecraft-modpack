@@ -1,0 +1,13 @@
+name = "crafted-core"
+filename = "craftedcore-4.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/Ha5fdbX4/craftedcore-4.1-fabric.jar"
+hash-format = "sha1"
+hash = "effff60afab2bfde2d6dc69acd32360d76416ef9"
+
+[update]
+[update.modrinth]
+mod-id = "Dg7PHdkJ"
+version = "Ha5fdbX4"

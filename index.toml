@@ -432,6 +432,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "332c163d0e76195b02594e0e85dec1159a1ac218cf58aa6a17ad050c328c43fa"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "c480162771b5b34cad0d07c9657dc353ce6c075c9fd7d3ab504363b7853f96ce"
 metafile = true
@@ -699,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/generational-pcs.pw.toml"
 hash = "d04a09934fee324fc62b5259889450f27bef39acbac91b02e72971231faa6ba4"
+metafile = true
+
+[[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "bf17abdea9733df28d9510e22d9a1043c1ed9e2424d7371da9d219d8beef1bdf"
 metafile = true
 
 [[files]]
@@ -1037,6 +1047,11 @@ hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
 metafile = true
 
 [[files]]
+file = "mods/remorphed.pw.toml"
+hash = "8d8b1b652b30a965e11d31bf63ed82bba1d967fd326adf86733d1fdf60904408"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -1169,6 +1184,11 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "61c7c7bd7e1a25700ee3c1fcdfa3ab177436194a2bf5f1290115f2b2d9d287f1"
 metafile = true
 
 [[files]]
