@@ -1,0 +1,13 @@
+name = "OPAL Shaders"
+filename = "OPAL_v1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w8N6pbsN/versions/z8yK8Vt1/OPAL_v1.0.0.zip"
+hash-format = "sha1"
+hash = "bac3c376318921694821246c8fde5368da5fd552"
+
+[update]
+[update.modrinth]
+mod-id = "w8N6pbsN"
+version = "z8yK8Vt1"
