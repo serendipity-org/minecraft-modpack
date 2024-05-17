@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "01e3cf922e35555215f12b60b835735309bb4d2894b4d2c832d1ac81bd74ef75"
+hash = "7c2ab658cec86b2c7a64cb9778d3b7d038153ea049c25a70718f1d8bb6eb690f"
 metafile = true
 
 [[files]]
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "689adb1cb4a1738cd1883da0d7e583ec3e598e8b137f889f8451de0f9d760aa9"
+hash = "535d8eaff4400f4750c1ee7aeb5ca741ade391ecef5bf25bf80517bac1dc83b1"
 metafile = true
 
 [[files]]
@@ -362,58 +362,8 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "4eaf3d0c3d2bf0900120d0b56feeda8b8398eb9cf36224a63e398854cada5f6e"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-fight-or-flight.pw.toml"
-hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-integrations.pw.toml"
-hash = "14813a51c44e37a6db1df2cef9649369745788af302a292cc8e89c9664bb44d1"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "6833aa9e60d97f5eef743bd6606d3b863fae4a43bbc0c9e4132a9f5317e1ab81"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-quests.pw.toml"
-hash = "b29c2675b9c7805c1dc4154a8c2c3a0c586b4355090473c2b2119e345a3773a3"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "a88f225aa052c1fe254caec81f9f5a498b315b7b2666e9ec2b05725af2fdb600"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-whiteout.pw.toml"
-hash = "34ed5c34a43d4121158df26e66781de731e0ca9aeaf821bf0f5fd52d1f89749b"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "272b13df72b20273dee42882fb856b7168a74db9f998935d6f239a2ddce982a5"
-metafile = true
-
-[[files]]
-file = "mods/cobblemore.pw.toml"
-hash = "5606aa597af501acbd3c92d7667be23725c00292c7a32e3ad9c6c55d777f2c96"
-metafile = true
-
-[[files]]
-file = "mods/cobblepedia.pw.toml"
-hash = "a9fd46050fd6ebd562892be00e158441b5a27e3d38416465b9100a2ab684697f"
-metafile = true
-
-[[files]]
-file = "mods/cobbreeding.pw.toml"
-hash = "e5fd5728108d8349722b6f344b7be7bc115557a5f6c66fb6645ce65f8e58ed4c"
+hash = "36299637ce982a725c707948f980dc15decb7120efc117297a4c8178d49878bd"
 metafile = true
 
 [[files]]
@@ -429,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "332c163d0e76195b02594e0e85dec1159a1ac218cf58aa6a17ad050c328c43fa"
 metafile = true
 
 [[files]]
@@ -448,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
-hash = "9462561132da414ba644e378483a43997ed8ada344f940e8c6df174c501d06a2"
+hash = "c444817bb4da81488458646b19c2c4ad49284d9a99961a61958628c71c0dfced"
 metafile = true
 
 [[files]]
@@ -473,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
@@ -699,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/generational-pcs.pw.toml"
 hash = "d04a09934fee324fc62b5259889450f27bef39acbac91b02e72971231faa6ba4"
+metafile = true
+
+[[files]]
+file = "mods/genshin-instruments.pw.toml"
+hash = "bf17abdea9733df28d9510e22d9a1043c1ed9e2424d7371da9d219d8beef1bdf"
 metafile = true
 
 [[files]]
@@ -1023,7 +983,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
+hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
 metafile = true
 
 [[files]]
@@ -1034,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+metafile = true
+
+[[files]]
+file = "mods/remorphed.pw.toml"
+hash = "8d8b1b652b30a965e11d31bf63ed82bba1d967fd326adf86733d1fdf60904408"
 metafile = true
 
 [[files]]
@@ -1172,6 +1137,11 @@ hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
 metafile = true
 
 [[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "61c7c7bd7e1a25700ee3c1fcdfa3ab177436194a2bf5f1290115f2b2d9d287f1"
+metafile = true
+
+[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "464da9e6fdad7a92ea6001e5cd28303e62468d573f0a184d3ec4dc639ae5a7e2"
 metafile = true
@@ -1193,7 +1163,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
+hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
@@ -1217,10 +1187,15 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
+hash = "b4110ca093569b5df0f4f74651f3ec241f11f1ab24ce1ecb15bdb7e8a4f6972c"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/opal-shaders.pw.toml"
+hash = "9e99a56e407b10983897e56498e48a0727ca0f1c1f73cdcc2f67e1f4599dcbfd"
 metafile = true
