@@ -1,0 +1,13 @@
+name = "Delete Worlds To Trash"
+filename = "DeleteWorldsToTrash-v8.0.0-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7diJQfvM/versions/Ee8hSsMe/DeleteWorldsToTrash-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "c91d818afa01a221e93717e3f7e08cc066c55cf5"
+
+[update]
+[update.modrinth]
+mod-id = "7diJQfvM"
+version = "Ee8hSsMe"
