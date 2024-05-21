@@ -22,6 +22,4 @@ earlyWindowControl = true
 maxThreads = -1
 #Squir?
 earlyWindowSquir = false
-#Whether to show CPU usage stats in early window
-earlyWindowShowCPU = false
 

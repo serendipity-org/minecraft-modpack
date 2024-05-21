@@ -1,20 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
-file = "bin/packwiz-linux"
-hash = "4e65fd8b5146a6880680a97d9b28407d8605c9e6cf61a3b186838b82a85c75ff"
-
-[[files]]
-file = "bin/packwiz-macos"
-hash = "0fd93198bd5d28025ee92a7e39aa5294964748fdde736ecd1aa9903d13f01ff0"
-
-[[files]]
-file = "favicon.ico"
-hash = "07897adf1067f54419673071e2bd0960426878edab631c2922fa07bee644dd05"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d0578c8686aa8e24f7ba2660cb771baf27b04ae33521c686aec67ff622f1fbb1"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/armortip.pw.toml"
+hash = "0f325b8d1330e6d84b9467ee59acfefa1c8433a41e04eea5be25ec3d75354b07"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
+metafile = true
+
+[[files]]
+file = "mods/auto-third-person.pw.toml"
+hash = "4d803109d48909f2d08bc3b97946a8614499de851deb30a764b2745961f23ab6"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
 
 [[files]]
@@ -40,6 +53,21 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
+metafile = true
+
+[[files]]
+file = "mods/minecraft_autotools.pw.toml"
+hash = "e3ceca456a6aead74df27f700bca0ef75c039a372d0e78a701443441b356748c"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "e513f146124930d8d2c9ae3c192fb399129efa16bb844140124c5b8da6ff8558"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
 
 [[files]]
