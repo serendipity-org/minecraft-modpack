@@ -31,6 +31,11 @@ hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "1447df8a4bd1fd2cce2ae71f900f3d1f1626baa2fe37c877cef19549a4101c36"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "70cb54081f56a748b298a87d1825bac70405d4b4a28c4a4f18228691930baa34"
 metafile = true
@@ -67,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+hash = "a7ba514a40fce692ccd896b49727ff1db3975aa284a2adf3c04f9dd7b6fdc82f"
 metafile = true
 
 [[files]]
@@ -88,6 +93,26 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "e831528e2efb10f189ff2601bf5b7ee3e1ac138554a661878458bd2931377358"
+metafile = true
+
+[[files]]
+file = "mods/clean-tooltips.pw.toml"
+hash = "24b5105d130d8073077f41a2d3ccd1119d9d6aea0c12c8b0b37a8411db22ae36"
+metafile = true
+
+[[files]]
+file = "mods/cleardespawn.pw.toml"
+hash = "cc273b2754a713b68314feb5d89e0a80ba3e43fb2b89e571dc308daf31b97e8d"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "e690e6f1d8e2706e4289bd4123afad0caf6406455f5afd5c9c0fa272e3c8a06c"
 metafile = true
 
 [[files]]
