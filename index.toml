@@ -9,10 +9,6 @@ file = "bin/packwiz-macos"
 hash = "0fd93198bd5d28025ee92a7e39aa5294964748fdde736ecd1aa9903d13f01ff0"
 
 [[files]]
-file = "config/options.txt"
-hash = "962ac538f0397f8ea87a4adb085ed1a99f31d2f148032e17c554a68fd871ed05"
-
-[[files]]
 file = "favicon.ico"
 hash = "07897adf1067f54419673071e2bd0960426878edab631c2922fa07bee644dd05"
 
