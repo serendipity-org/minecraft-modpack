@@ -12,7 +12,7 @@
 	preferLowDurability = true
 	#Autotools will try to always get a tool with Fortune for gravel and leaves
 	alwaysPreferFortune = true
-	# 
+	#
 	#AutoTools only tries to get a new tool if it is needed to break the block
 	onlySwitchIfNecessary = true
 	#AutoTools will switch back to you previous tool or item you had in your hand before breaking the block
@@ -20,11 +20,11 @@
 	#Displays the weapons Dps when hovering over it.
 	showDPS = true
 	#AutoTools won't change to a better weapon(e.g. a sword) when holding an axe
-	changeForEntities = false
-	# 
+	changeForEntities = true
+	#
 	#Autotools will prefer Silk Touch: never, always, always_ores, except_ores
 	preferSilkTouch = "except_ores"
-	# 
+	#
 	#Add custom block-tool-configurations in JSON format
 	#e.g. customTools={\"minecraft:block_id\":\"minecraft:tool_id\"} or customTools={\"minecraft:block_id\":[\"minecraft:tool_id_1\", \"minecraft:tool_id_2\"]}
 	#When adding multiple tools, the first one has the highest priority

@@ -31,6 +31,36 @@ hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "70cb54081f56a748b298a87d1825bac70405d4b4a28c4a4f18228691930baa34"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "71d9fa13271f1c96b9c00f8a52b5d370134053bcd1d26223362e9970d1358e10"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
+metafile = true
+
+[[files]]
+file = "mods/bocchium.pw.toml"
+hash = "959cd2e99609b8329711ddae8c114f769ab3a86bcbff221d9cc47d4cb7734e36"
+metafile = true
+
+[[files]]
+file = "mods/cake-chomps.pw.toml"
+hash = "cd089bf07e469a62ffdd709f35fde0ec66615af0ccf8d346b1484aa788a62c41"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "61a0f6d60051499af59848179906d6a90f2f518a15da45fbefb1e9bc8d5551bf"
+metafile = true
+
+[[files]]
 file = "mods/clientsidenoteblocks.pw.toml"
 hash = "587eac67f255a2f04fb5f348243fce7b7d317f7c7eb6d3c7082c2f74babecece"
 metafile = true
@@ -43,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
 
 [[files]]
