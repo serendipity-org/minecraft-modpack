@@ -17,6 +17,11 @@ file = "favicon.ico"
 hash = "07897adf1067f54419673071e2bd0960426878edab631c2922fa07bee644dd05"
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "d0578c8686aa8e24f7ba2660cb771baf27b04ae33521c686aec67ff622f1fbb1"
+metafile = true
+
+[[files]]
 file = "mods/clientsidenoteblocks.pw.toml"
 hash = "587eac67f255a2f04fb5f348243fce7b7d317f7c7eb6d3c7082c2f74babecece"
 metafile = true
@@ -34,6 +39,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "e2a58307f0e7a89bb905f894c235fcd275bd500d885424a9f796df44e27d985f"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
 metafile = true
 
 [[files]]
