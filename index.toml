@@ -61,6 +61,36 @@ hash = "61a0f6d60051499af59848179906d6a90f2f518a15da45fbefb1e9bc8d5551bf"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "f78be3b67e136fd638be0785738e7cf5f67ee1264b914d452c1e5cc3c86cf799"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "c66ca4fd2b94b0ed0cb3002040839aefcb71a8fd08f2dc3337e61f2e4ce28cf9"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "5d05ff6a4ce3ad876d26a23bbc609bf0089a3bbefd5f433fbbccd6ac00aed8e9"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "e831528e2efb10f189ff2601bf5b7ee3e1ac138554a661878458bd2931377358"
+metafile = true
+
+[[files]]
 file = "mods/clientsidenoteblocks.pw.toml"
 hash = "587eac67f255a2f04fb5f348243fce7b7d317f7c7eb6d3c7082c2f74babecece"
 metafile = true
@@ -81,6 +111,11 @@ hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "e2a58307f0e7a89bb905f894c235fcd275bd500d885424a9f796df44e27d985f"
 metafile = true
@@ -98,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "e513f146124930d8d2c9ae3c192fb399129efa16bb844140124c5b8da6ff8558"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "dd0be3efb63cd3982967dc58f3fe51f786e29c1cc28d5c51cb65dfe4e95e4f8e"
 metafile = true
 
 [[files]]

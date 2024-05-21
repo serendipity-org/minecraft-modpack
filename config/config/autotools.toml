@@ -18,7 +18,7 @@
 	#AutoTools will switch back to you previous tool or item you had in your hand before breaking the block
 	switchBack = true
 	#Displays the weapons Dps when hovering over it.
-	showDPS = true
+	showDPS = false
 	#AutoTools won't change to a better weapon(e.g. a sword) when holding an axe
 	changeForEntities = true
 	#
