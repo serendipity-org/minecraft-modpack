@@ -45,6 +45,10 @@ file = "configureddefaults/config/bocchium-client.toml"
 hash = "cf52cdbed6811c6543a113cac744c98fd5915b4488311c34c99f4ac4c072399a"
 
 [[files]]
+file = "configureddefaults/config/bwncr-common.toml"
+hash = "b758120a06d5baa142e34cca95de36088b47ac0663e2543dc9023789b59e418e"
+
+[[files]]
 file = "configureddefaults/config/capes.json5"
 hash = "4e9200004d059501f2d5b122a56a311688762483d21d05ba95ae84edafc67aa8"
 
@@ -157,8 +161,32 @@ file = "configureddefaults/config/farsight.json"
 hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
 
 [[files]]
+file = "configureddefaults/config/fastbench.cfg"
+hash = "240a14e19d211945629e719c0df4ff6b537d26fcf58b514b7f7c731b3ad69183"
+
+[[files]]
+file = "configureddefaults/config/fastpaintings-common.toml"
+hash = "4cce6e2bd5d9440c7a6f4618dc05eeb82cc2fc293afa892a3010efe21405ac79"
+
+[[files]]
+file = "configureddefaults/config/fastsuite.cfg"
+hash = "6aa1b4c08dbcae1f893afd75d20ef640fcc5adde042b650b4ae1c2c8637d1555"
+
+[[files]]
+file = "configureddefaults/config/ferritecore-mixin.toml"
+hash = "50943663f1269167c446876b84ee35f1e0ce7835ae3576dc438551b9963f435c"
+
+[[files]]
+file = "configureddefaults/config/flow.config.json"
+hash = "d3f63e17a6525c157e3f8b0f54fb03b542aea3924e8297bea27c637793a373bf"
+
+[[files]]
 file = "configureddefaults/config/fml.toml"
 hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
+
+[[files]]
+file = "configureddefaults/config/foodeffecttooltips-client.toml"
+hash = "f5517259a24d6a083c0063b22dc49861f8828bb5558b75c9ece844e0cf4f6b12"
 
 [[files]]
 file = "configureddefaults/config/forge-client.toml"
@@ -167,6 +195,10 @@ hash = "ac539e46ad03771161c4bdca2c9f0ddb618628b898945563ee050d17b169a308"
 [[files]]
 file = "configureddefaults/config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "configureddefaults/config/moonlight-client.toml"
+hash = "135255a72816385345a135fa013c93dd1737c35eebb80690d29d1b572917267d"
 
 [[files]]
 file = "configureddefaults/config/quark-common.toml"
@@ -215,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/auto-third-person.pw.toml"
 hash = "4d803109d48909f2d08bc3b97946a8614499de851deb30a764b2745961f23ab6"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "943bd83f41b472ed7b4dd4236c826bd8f36983c32e3e7841b9ceca4d01531d53"
 metafile = true
 
 [[files]]
@@ -473,6 +510,56 @@ hash = "740b7eb6b14269b52ea93e294b18a1d9145e9ebdea10689d781487233272275b"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "e40f25640b4d5872b76c7324b35dd995d041fd409ca4fa4e93f8c6a1dfb4fbcc"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "c1f384e413720c59bf548e1222bd79568870f6a0bd79ce139d0a28dc050799ac"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "e60a8e1a8559394229fbd54e3e386709f10d3a693f0d470b3708da08736efaae"
+metafile = true
+
+[[files]]
+file = "mods/flow.pw.toml"
+hash = "4a08c0a1c7082960078f9bf4d09dca178d4095baf56ee04c20b07a1150ee4338"
+metafile = true
+
+[[files]]
+file = "mods/food-effect-tooltips-forge.pw.toml"
+hash = "f2b193d987c681ac435928562bb180920d36dc8b5aaa98510ca021d8c73dce22"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "e2a58307f0e7a89bb905f894c235fcd275bd500d885424a9f796df44e27d985f"
 metafile = true
@@ -490,6 +577,21 @@ metafile = true
 [[files]]
 file = "mods/minecraft_autotools.pw.toml"
 hash = "e3ceca456a6aead74df27f700bca0ef75c039a372d0e78a701443441b356748c"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "078a2b5eb7a4713f37930ad4cb33c587d2d43151295fa5617845624fe1a6ce67"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
