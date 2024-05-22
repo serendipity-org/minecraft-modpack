@@ -1,6 +1,166 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/advancementplaques-common.toml"
+hash = "65a46b3da4c07199d5f87849f1cbac31cab319526dab0edb18fb8be41e1eda9a"
+
+[[files]]
+file = "configureddefaults/config/appleskin-client.toml"
+hash = "b477c8c493b28366a6b282f29f46c9415e3a4a2a23fff6e09331644c435dfd48"
+
+[[files]]
+file = "configureddefaults/config/attributefix.json"
+hash = "a8d4557decfbcaedeb5db65342d1b09a27c7ad3202bc018118ec0f9cd81841b1"
+
+[[files]]
+file = "configureddefaults/config/auto_third_person-client.toml"
+hash = "1eacc06bb91a726992216a6a3c339270aaff5962989c927bcc01984a9d57c687"
+
+[[files]]
+file = "configureddefaults/config/autotools.toml"
+hash = "dff6132b688a0463107eb17cf149aad21f1fa6bbc19cd8cbc121875593609372"
+
+[[files]]
+file = "configureddefaults/config/badoptimizations.txt"
+hash = "3f25bf9730212dff5952b0c278e7f4e2dee912e2f378e8c62aa0e74d368f1bc8"
+
+[[files]]
+file = "configureddefaults/config/balm-common.toml"
+hash = "2e83e8a8f8e120214aeb50f55eb08f26c53b90e841c1949a9b7ca400f6c34088"
+
+[[files]]
+file = "configureddefaults/config/betterfpsdist.json"
+hash = "371f4a25c65652f254ad563c0be8331f7aa25ffd362dcb2204edbd7bb2dc1670"
+
+[[files]]
+file = "configureddefaults/config/betterpingdisplay-client.toml"
+hash = "164836730c41628abbd6a1cdc3724c3766d8204d57caa18ec31d1f90472d9326"
+
+[[files]]
+file = "configureddefaults/config/betterthirdperson-common.toml"
+hash = "3843f47cb52faddf9bc4d8dd08a4d7e30061e671128d99412ca6a6c27bd1485b"
+
+[[files]]
+file = "configureddefaults/config/bocchium-client.toml"
+hash = "cf52cdbed6811c6543a113cac744c98fd5915b4488311c34c99f4ac4c072399a"
+
+[[files]]
+file = "configureddefaults/config/capes.json5"
+hash = "4e9200004d059501f2d5b122a56a311688762483d21d05ba95ae84edafc67aa8"
+
+[[files]]
+file = "configureddefaults/config/chat_heads.json5"
+hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
+
+[[files]]
+file = "configureddefaults/config/chatpatches.json"
+hash = "fbc164280a86b1bbb026730c32a28161a0b3a37dcff0c9aa449f50a68a84071b"
+
+[[files]]
+file = "configureddefaults/config/clean_tooltips-client.toml"
+hash = "c0daa36db1f573b1c472586953d24dee4eefee80fe84aeb6b159d6e1522ca714"
+
+[[files]]
+file = "configureddefaults/config/cleardespawn-client.toml"
+hash = "d32d3caafbc0c51fab75472c982e81abc36bb7a42457621f9535e87f2015440b"
+
+[[files]]
+file = "configureddefaults/config/clientsidenoteblocks.json"
+hash = "009b6f7f69ed240c38d1a70ef7370f2c21a0b81c3254f689534debfbeeacf616"
+
+[[files]]
+file = "configureddefaults/config/clienttweaks-common.toml"
+hash = "1e9e359340158ee88ae86bd0b475ff6579546784c5d7b90c560c01979dbcdf24"
+
+[[files]]
+file = "configureddefaults/config/configured-client.toml"
+hash = "0b2537ac36e57824caf66e589bb532f0801b99d02ac08545739af3709bf84e10"
+
+[[files]]
+file = "configureddefaults/config/connectivity.json"
+hash = "1f0c3fb698d9ab06007b2934068bc6d2bafa971f38a334acb2fa017e2202784b"
+
+[[files]]
+file = "configureddefaults/config/connector.json"
+hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
+
+[[files]]
+file = "configureddefaults/config/connectorextras_energy_bridge-common.toml"
+hash = "4075f057d848f2a33f0bff9f44cce49f8d8340001d7b2afe3431ba1d999c4400"
+
+[[files]]
+file = "configureddefaults/config/craftingtweaks-common.toml"
+hash = "fbe8ee4323aa691f6690b6ae5273a5c48d7b0d0700d07f6c89001fca11980438"
+
+[[files]]
+file = "configureddefaults/config/cullleaves.json"
+hash = "6596cbe9453cc9cf69b4addfb02fe9d1501ffc9254ac047d9cd7a23bc6ce7dcc"
+
+[[files]]
+file = "configureddefaults/config/cupboard.json"
+hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+
+[[files]]
+file = "configureddefaults/config/debugify.json"
+hash = "e12f419f92e04be37ddf86a043e15ee713df007f298756578b4a67e0c53d8f17"
+
+[[files]]
+file = "configureddefaults/config/detailarmorbar.json"
+hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"
+
+[[files]]
+file = "configureddefaults/config/dynamic_fps.json"
+hash = "7513eea068f0e64fb9f4ca2c44f46c4ed4446772e06c37125a47abde958dfde3"
+
+[[files]]
+file = "configureddefaults/config/dynamicview.json"
+hash = "305841828cd7218dd650fc2f48f01039cbfb8a914143cd79ffe11f96f31888fd"
+
+[[files]]
+file = "configureddefaults/config/embeddium-options.json"
+hash = "9b7613debf60aadab0c953bb074cfc840075e4d4ecedbe98c431e50a95c44223"
+
+[[files]]
+file = "configureddefaults/config/fabric_loader_dependencies.json"
+hash = "f1d78b821781a2a2c15d6ccacf17b53407c85a5ba7a3ebe58982e99755165361"
+
+[[files]]
+file = "configureddefaults/config/farsight.json"
+hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
+
+[[files]]
+file = "configureddefaults/config/fml.toml"
+hash = "0bc9ae95cfe44f8bd70e47c524f35441c9bc2aa8a09340fef933cc9b98bce29e"
+
+[[files]]
+file = "configureddefaults/config/forge-client.toml"
+hash = "ac539e46ad03771161c4bdca2c9f0ddb618628b898945563ee050d17b169a308"
+
+[[files]]
+file = "configureddefaults/config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "configureddefaults/config/quark-common.toml"
+hash = "44fa0f8eeb7f515e86be866980c7dc44e43f91616a8b7907607a4947ef31a20d"
+
+[[files]]
+file = "configureddefaults/config/waterdripsound-client.toml"
+hash = "4488a6a0b353b7ccb7e0199df388840c9362929f1228cd4ed97830148a74f25c"
+
+[[files]]
+file = "configureddefaults/config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "configureddefaults/config/zeta-common.toml"
+hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "962ac538f0397f8ea87a4adb085ed1a99f31d2f148032e17c554a68fd871ed05"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d0578c8686aa8e24f7ba2660cb771baf27b04ae33521c686aec67ff622f1fbb1"
 metafile = true
@@ -126,6 +286,11 @@ hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "8165f9f7f66ffe4fa7b92ef8f8564cd10f93ec2cf07d6931c442cf91333a1ca3"
 metafile = true
@@ -156,13 +321,18 @@ hash = "543f895543ad347bc21fc1c5d812135f89ebf3e723a42f52cd27ae44ed81159d"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves-reforged.pw.toml"
-hash = "cbf20f8ad7c30691dc237cf21aeafb578d6afb8a135a1d84f4a9e957b9637327"
+file = "mods/cull-leaves.pw.toml"
+hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
 metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+metafile = true
+
+[[files]]
+file = "mods/cursorcentered-fix.pw.toml"
+hash = "5d083e2c9a28c5ce4c65518d3dfa277cbf668c07325c9313688b613a7180a31a"
 metafile = true
 
 [[files]]
@@ -176,6 +346,26 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar.pw.toml"
+hash = "89d22d515a1b5b1349b21eaa191a00bf529acca7673ba6af27dfda0380abea2b"
+metafile = true
+
+[[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "2a1eb851bbde3506fdb00e85466915ff5c19204aa220d487220d5671adb6913d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7a9742b032332f9f572d5d39c492a4bdfce76bb60ff1ffeb90d804eb6f5ca629"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "f294a0b8399c69ade82123eeba3bf532cc4168aba95b33016ccdf4c04bbebcff"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
@@ -186,6 +376,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "740b7eb6b14269b52ea93e294b18a1d9145e9ebdea10689d781487233272275b"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "e2a58307f0e7a89bb905f894c235fcd275bd500d885424a9f796df44e27d985f"
 metafile = true
@@ -193,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
@@ -211,6 +411,11 @@ hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
+file = "mods/waterdripsound.pw.toml"
+hash = "848cfd905fee23dbc74e89de63d651a71a871e5507a2338857502e330feaca08"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "dd0be3efb63cd3982967dc58f3fe51f786e29c1cc28d5c51cb65dfe4e95e4f8e"
 metafile = true
@@ -221,8 +426,18 @@ hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "551a6d1f390f327a556bf8955e228c8f72cd7794ce69ccc11bddcaa7c0605b62"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
 
 [[files]]
