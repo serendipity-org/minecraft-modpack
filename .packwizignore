@@ -1,9 +1,11 @@
-/bin/packwiz-installer-bootstrap.jar
+/bin
 
 README.md
+favicon.ico
 
 package.json
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
 bun.lockb
+

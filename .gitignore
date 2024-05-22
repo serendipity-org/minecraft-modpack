@@ -179,3 +179,9 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 bun.lockb
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack

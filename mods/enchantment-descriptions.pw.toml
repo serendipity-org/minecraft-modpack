@@ -1,13 +1,13 @@
 name = "Enchantment Descriptions"
-filename = "EnchantmentDescriptions-Fabric-1.20.1-17.0.14.jar"
+filename = "EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/yWTmnP6Q/EnchantmentDescriptions-Fabric-1.20.1-17.0.14.jar"
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/jpf7NOlL/EnchantmentDescriptions-Forge-1.20.1-17.0.14.jar"
 hash-format = "sha1"
-hash = "dc1ebf0e1fa553b299cf3130d3ef4e17ec334e34"
+hash = "c588f932dcb7796ad6d334abd43777e718957058"
 
 [update]
 [update.modrinth]
 mod-id = "UVtY3ZAC"
-version = "yWTmnP6Q"
+version = "jpf7NOlL"

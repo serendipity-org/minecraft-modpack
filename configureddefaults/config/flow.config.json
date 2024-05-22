@@ -1,0 +1,19 @@
+{
+	"easeInType": "easeInOutExpo",
+	"easeInAnimationType": "slideDown",
+	"easeOutType": "easeInOutExpo",
+	"easeOutAnimationType": "slideUp",
+	"easeInDuration": 0.15,
+	"easeOutDuration": 0.15,
+	"disableEaseIn": false,
+	"disableEaseOut": false,
+	"bgColorTint": -16777216,
+	"bgBlurIntensity": 0.6,
+	"disableBgBlur": false,
+	"disableBgTint": false,
+	"disabledScreens": [
+		"top.theillusivec4.curios.client.gui.CuriosScreen"
+	],
+	"disableCrossInventoryAnimations": true,
+	"disableMouseMovement": false
+}

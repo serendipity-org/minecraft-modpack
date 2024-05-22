@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "overrides": {
+    "debugify": {
+      "-recommends": {
+        "yet-another-config-lib": "*"
+      }
+    },
+    "dynamic_fps": {
+      "-recommends": {
+        "quilt_loader": "*"
+      }
+    },
+    "lambdynlights": {
+      "-recommends": {
+        "quilt_loader": "*"
+      }
+    },
+    "optigui": {
+      "-recommends": {
+        "animatica": "*"
+      }
+    },
+    "wakes": {
+      "-recommends": {
+        "yet-another-config-lib": "*"
+      }
+    }
+  }
+}
