@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-crafting.pw.toml"
-hash = "8708549001bab45590a8560d7c0dd9b0859e416887f7b63b3edd2c09d05246e5"
+hash = "df16edf3d7ad513c6c5b76984ab1db4081f422aa2cef26e055e35e428b4bc4e1"
 metafile = true
 
 [[files]]
@@ -121,6 +121,21 @@ hash = "587eac67f255a2f04fb5f348243fce7b7d317f7c7eb6d3c7082c2f74babecece"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "8165f9f7f66ffe4fa7b92ef8f8564cd10f93ec2cf07d6931c442cf91333a1ca3"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "4fa2542320915590b6eabbd1f23e07691b6bc4fe4ca1faa58ecb085c5eb24788"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "65879bdbfabde6902e5ba375d9f844000b19c95ec22b4da4cb95a675b27d533c"
 metafile = true
@@ -131,8 +146,38 @@ hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "543f895543ad347bc21fc1c5d812135f89ebf3e723a42f52cd27ae44ed81159d"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves-reforged.pw.toml"
+hash = "cbf20f8ad7c30691dc237cf21aeafb578d6afb8a135a1d84f4a9e957b9637327"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+metafile = true
+
+[[files]]
+file = "mods/darktitlebar.pw.toml"
+hash = "1d23aa5ca75db1d13b206e7cb9f6205739662eba90cbafb6de78cd566bec72a6"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
 
 [[files]]
@@ -158,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "e513f146124930d8d2c9ae3c192fb399129efa16bb844140124c5b8da6ff8558"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
