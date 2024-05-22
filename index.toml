@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "configureddefaults/config/NoChatReports/NCR-Client.json"
+hash = "6616bd56675d6ca6b2bbdcb32f93acdd9ce2f5f6d9def44fdc113c1364707b13"
+
+[[files]]
+file = "configureddefaults/config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "configureddefaults/config/NoChatReports/NCR-Encryption.json"
+hash = "fae0ac7b88a2b0bd89c1da26414a3c25797610b2c6cc768733664c0b65869666"
+
+[[files]]
+file = "configureddefaults/config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
 file = "configureddefaults/config/advancementplaques-common.toml"
 hash = "65a46b3da4c07199d5f87849f1cbac31cab319526dab0edb18fb8be41e1eda9a"
 
@@ -58,7 +78,7 @@ hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
 [[files]]
 file = "configureddefaults/config/chatpatches.json"
-hash = "8b4c0a68b91ed6d39a10994a3d1ab64b5112c3a1c28e004e3584f1b7db7e394d"
+hash = "8b90e62e34e12c5a230cab9ccaf0292abccfc6f920fe24595e48d05d021b01d7"
 
 [[files]]
 file = "configureddefaults/config/clean_tooltips-client.toml"
@@ -249,12 +269,32 @@ file = "configureddefaults/config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
+file = "configureddefaults/config/modelfix-client.toml"
+hash = "fa745470318f2031347f2b34c369ca01b81eece56b4a9eb58e2edf47a8cea230"
+
+[[files]]
+file = "configureddefaults/config/modernfix-common.toml"
+hash = "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66"
+
+[[files]]
+file = "configureddefaults/config/modernfix-mixins.properties"
+hash = "01468d411d75f75d505305e4b92f04d11019031314aa4a5e369a934d936bfba2"
+
+[[files]]
 file = "configureddefaults/config/moonlight-client.toml"
 hash = "135255a72816385345a135fa013c93dd1737c35eebb80690d29d1b572917267d"
 
 [[files]]
+file = "configureddefaults/config/no_nv_flash-client.toml"
+hash = "2a610d25790723e756353c2e7442cbe05aec0c3918c93e1ccdad1d52b3e8cc51"
+
+[[files]]
+file = "configureddefaults/config/notenoughcrashes.json"
+hash = "e604a3705ca2adf9499a412afefc61fb589448de43e4652db6232f94699e3950"
+
+[[files]]
 file = "configureddefaults/config/quark-common.toml"
-hash = "44fa0f8eeb7f515e86be866980c7dc44e43f91616a8b7907607a4947ef31a20d"
+hash = "67f5eff0fede16ae90c4558a121555dc919119696e36ec89353e469ef83673bc"
 
 [[files]]
 file = "configureddefaults/config/sodium-extra-options.json"
@@ -667,6 +707,21 @@ hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "6838240b825c5b2f362ed03da14e93f4449b29bc016370fba46bbf3312b79d10"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
@@ -677,13 +732,53 @@ hash = "e3ceca456a6aead74df27f700bca0ef75c039a372d0e78a701443441b356748c"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "078a2b5eb7a4713f37930ad4cb33c587d2d43151295fa5617845624fe1a6ce67"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
+file = "mods/nerb.pw.toml"
+hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/no-nv-flash.pw.toml"
+hash = "56f2f34c9dbd0a4719e05215accb885ac23e8698211c04e99b5dd421acd28023"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "c5e06d475ce3ebc68d5a531c0b4bcf2d6368862fe9d6ab554f1d380865ff7789"
 metafile = true
 
 [[files]]
@@ -699,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d216f67d3c4a28449084f6f2a79034a7dc62f861fe9fb48583234c21bbc47e68"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "4b6d6900e40ceea949928423e7863817aeb07c17dba719ca45dac34d3f8d5b41"
 metafile = true
 
 [[files]]
