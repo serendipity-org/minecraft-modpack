@@ -113,12 +113,40 @@ file = "configureddefaults/config/dynamic_fps.json"
 hash = "7513eea068f0e64fb9f4ca2c44f46c4ed4446772e06c37125a47abde958dfde3"
 
 [[files]]
+file = "configureddefaults/config/dynamiccrosshair.json5"
+hash = "0b8abd1e1c72ee6a354f6bcd6cd908fbab315ccadaff6791940dcae7b5c6dcc2"
+
+[[files]]
 file = "configureddefaults/config/dynamicview.json"
 hash = "305841828cd7218dd650fc2f48f01039cbfb8a914143cd79ffe11f96f31888fd"
 
 [[files]]
+file = "configureddefaults/config/embeddium++.toml"
+hash = "a5b04263a3e736803ea6f6781e0d2956548aa5c4182fbc11e1872cce21ffcc02"
+
+[[files]]
 file = "configureddefaults/config/embeddium-options.json"
-hash = "9b7613debf60aadab0c953bb074cfc840075e4d4ecedbe98c431e50a95c44223"
+hash = "9524a34208d3dc37e01d0213fbe6dd342ba010678458907fe29c1e2e7bb0b091"
+
+[[files]]
+file = "configureddefaults/config/emi.css"
+hash = "7dd4ef7cc3a926cbdcd6c2e295ea273ba01a1bd00a5fab047b4c2b8cb53c2386"
+
+[[files]]
+file = "configureddefaults/config/enchdesc.json"
+hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
+
+[[files]]
+file = "configureddefaults/config/enhanced_attack_indicator.json"
+hash = "0b4c18f512fcc0a1d7fe519959843fb4acd96010c3a77849100231ed5919d470"
+
+[[files]]
+file = "configureddefaults/config/enhanced_bes.properties"
+hash = "f1d659be3491900ce5c629dc4d53fa0523635569c815b7d6818851e53c7c871f"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
 
 [[files]]
 file = "configureddefaults/config/fabric_loader_dependencies.json"
@@ -145,8 +173,12 @@ file = "configureddefaults/config/quark-common.toml"
 hash = "44fa0f8eeb7f515e86be866980c7dc44e43f91616a8b7907607a4947ef31a20d"
 
 [[files]]
+file = "configureddefaults/config/sodium-extra-options.json"
+hash = "c484efd2163f33a538d0fba43ac391a6878f5f8a3639fedb497433e0a9a38fee"
+
+[[files]]
 file = "configureddefaults/config/waterdripsound-client.toml"
-hash = "4488a6a0b353b7ccb7e0199df388840c9362929f1228cd4ed97830148a74f25c"
+hash = "0da87c510481ccedaa0e3ec4f47257d19da92df1e8ab9d232a5da858f54959dd"
 
 [[files]]
 file = "configureddefaults/config/yacl.json5"
@@ -213,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/bocchium.pw.toml"
 hash = "959cd2e99609b8329711ddae8c114f769ab3a86bcbff221d9cc47d4cb7734e36"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "64be5125bb867f68dec3ca9241395373ea49142b0fc0edf3a39bc12955b76b82"
 metafile = true
 
 [[files]]
@@ -366,8 +403,63 @@ hash = "f294a0b8399c69ade82123eeba3bf532cc4168aba95b33016ccdf4c04bbebcff"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "d543ff3e5a5620ccf586716b6ea41d6ddb2b088bfae71c2c3f832d7ac17d0f7c"
+metafile = true
+
+[[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "603a793b66f89e59b8ecd2a5286e5bb75969f872866c460ce272055d83e13447"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/edgeless-chat-screen.pw.toml"
+hash = "71e6244c015ace1bced37a9a29f539ab20d3baf0de5eddf83f20c4455d32dc25"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "871acd627e682cfd9786d0574fb09ab0e9c07493b493c5d8747e243292477256"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "50cccc98a2eabd7abf8d7b0fbb506bbf408a04c40aba21370e6d30053cb0d9bd"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "d11fc9aac19a0a0af26884321b1b4205e55120e9583bb7323e9cbdb25925fbba"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/extrasoundsforge.pw.toml"
+hash = "c956b3bfd401352c6764158f88a1f508d18a79bb0a83b57cbb2a4cd63fd276f1"
 metafile = true
 
 [[files]]
@@ -403,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "e513f146124930d8d2c9ae3c192fb399129efa16bb844140124c5b8da6ff8558"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
 metafile = true
 
 [[files]]
