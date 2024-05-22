@@ -58,7 +58,7 @@ hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
 [[files]]
 file = "configureddefaults/config/chatpatches.json"
-hash = "fbc164280a86b1bbb026730c32a28161a0b3a37dcff0c9aa449f50a68a84071b"
+hash = "8b4c0a68b91ed6d39a10994a3d1ab64b5112c3a1c28e004e3584f1b7db7e394d"
 
 [[files]]
 file = "configureddefaults/config/clean_tooltips-client.toml"
@@ -169,6 +169,10 @@ file = "configureddefaults/config/fastpaintings-common.toml"
 hash = "4cce6e2bd5d9440c7a6f4618dc05eeb82cc2fc293afa892a3010efe21405ac79"
 
 [[files]]
+file = "configureddefaults/config/fastquit.toml"
+hash = "0e8ac36e41880a3715f6891a9f4a8f22febc0b20c75a2d757c6e82e19bad2b18"
+
+[[files]]
 file = "configureddefaults/config/fastsuite.cfg"
 hash = "6aa1b4c08dbcae1f893afd75d20ef640fcc5adde042b650b4ae1c2c8637d1555"
 
@@ -191,6 +195,54 @@ hash = "f5517259a24d6a083c0063b22dc49861f8828bb5558b75c9ece844e0cf4f6b12"
 [[files]]
 file = "configureddefaults/config/forge-client.toml"
 hash = "ac539e46ad03771161c4bdca2c9f0ddb618628b898945563ee050d17b169a308"
+
+[[files]]
+file = "configureddefaults/config/icterine.yml"
+hash = "c5f80c76ddfd2fe281b3d077f91ede0d985f27f4fd592217b97fb950835e3dcd"
+
+[[files]]
+file = "configureddefaults/config/immediatelyfast.json"
+hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
+
+[[files]]
+file = "configureddefaults/config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "configureddefaults/config/jade/hide-entities.json"
+hash = "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3"
+
+[[files]]
+file = "configureddefaults/config/jade/jade.json"
+hash = "ed98502e13bcaad93bc08bc2d45aaf43df98484c42dd90e0675d462acabecead"
+
+[[files]]
+file = "configureddefaults/config/jade/plugins.json"
+hash = "212ecbae722d08cb138edcc4c6bb7992900c37d6a180e7b3b55e5372d3e77888"
+
+[[files]]
+file = "configureddefaults/config/jade/sort-order.json"
+hash = "60eb09442477f126449d89ecca092afb910fac007197ba4c34e6fa006895f3cd"
+
+[[files]]
+file = "configureddefaults/config/lambdynlights.toml"
+hash = "c56310f3fe0b79dc57b411ce8065a391d8022a2f9151bc846408f2b3d2681c0d"
+
+[[files]]
+file = "configureddefaults/config/languagereload.json"
+hash = "095547be003a5c7e76237b22107975538282280963d82b649f3121105f5c2255"
+
+[[files]]
+file = "configureddefaults/config/leavemybarsalone-client.toml"
+hash = "2993a01aef4fe189edaa9b616da006daabcf1d635e4b793476afcdda31b25192"
+
+[[files]]
+file = "configureddefaults/config/legendarytooltips-common.toml"
+hash = "50820c6c66528ae3523f32d2943cacf79de87ab50147ebcb8cfc8f6c26522c07"
+
+[[files]]
+file = "configureddefaults/config/logbegone.toml"
+hash = "45013ce2fe975f6e8788521f2a877dfc27f7c7344770a5066d8a086264179358"
 
 [[files]]
 file = "configureddefaults/config/midnightlib.json"
@@ -232,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
-metafile = true
-
-[[files]]
-file = "mods/armortip.pw.toml"
-hash = "0f325b8d1330e6d84b9467ee59acfefa1c8433a41e04eea5be25ec3d75354b07"
 metafile = true
 
 [[files]]
@@ -385,6 +432,11 @@ hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
 metafile = true
 
 [[files]]
+file = "mods/continue.pw.toml"
+hash = "9b65ce988265594df45f26a71cca523779e97696c579740e8fd6b8c6b0236cb8"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -530,6 +582,11 @@ hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
@@ -570,6 +627,46 @@ hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
 metafile = true
 
 [[files]]
+file = "mods/icterine.pw.toml"
+hash = "1bc981bf46b07ba284e9e89524fa2ed32d121bf9aa295eeb7c10af5d816cc9bb"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ab6c2176b162ad517d68ddd9bb2c16f3cacc1fae5ad76abd6e62bc2f1d747f4b"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
+metafile = true
+
+[[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "f3d5d2453b2bb4965d9531be60ea4488d0da57592c988637d0247c5cead988ea"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
@@ -592,6 +689,16 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d216f67d3c4a28449084f6f2a79034a7dc62f861fe9fb48583234c21bbc47e68"
 metafile = true
 
 [[files]]
