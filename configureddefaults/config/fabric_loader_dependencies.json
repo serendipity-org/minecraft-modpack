@@ -20,6 +20,11 @@
       "-recommends": {
         "animatica": "*"
       }
+    },
+    "wakes": {
+      "-recommends": {
+        "yet-another-config-lib": "*"
+      }
     }
   }
 }
