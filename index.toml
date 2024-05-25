@@ -22,7 +22,7 @@ hash = "a8d4557decfbcaedeb5db65342d1b09a27c7ad3202bc018118ec0f9cd81841b1"
 
 [[files]]
 file = "configureddefaults/config/auto_third_person-client.toml"
-hash = "1eacc06bb91a726992216a6a3c339270aaff5962989c927bcc01984a9d57c687"
+hash = "ad02d0749b34626ef877d864af32c3f3da4df80a8df67e6ccd99504a26cc2d6b"
 
 [[files]]
 file = "configureddefaults/config/autotools.toml"
@@ -245,16 +245,8 @@ file = "configureddefaults/config/legendarytooltips-common.toml"
 hash = "50820c6c66528ae3523f32d2943cacf79de87ab50147ebcb8cfc8f6c26522c07"
 
 [[files]]
-file = "configureddefaults/config/litematica.json"
-hash = "e796009c466e1d0f1eafb1104d700aecdb0ec8eb391b6cdc9b8d0888ac20e606"
-
-[[files]]
 file = "configureddefaults/config/logbegone.toml"
 hash = "45013ce2fe975f6e8788521f2a877dfc27f7c7344770a5066d8a086264179358"
-
-[[files]]
-file = "configureddefaults/config/malilib.json"
-hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
 
 [[files]]
 file = "configureddefaults/config/midnightlib.json"
@@ -394,6 +386,16 @@ hash = "d0578c8686aa8e24f7ba2660cb771baf27b04ae33521c686aec67ff622f1fbb1"
 metafile = true
 
 [[files]]
+file = "mods/advancementsfullscreen.pw.toml"
+hash = "6330f3b496f775a086284c16a5cb5d64830a7989f8655d90466817f1b03ecedd"
+metafile = true
+
+[[files]]
+file = "mods/advancementssearch.pw.toml"
+hash = "4daa5225bca7446f54ccd9ccb3188e29cc22b701e0ee2721e05c916e7cf44d5c"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -451,16 +453,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "64be5125bb867f68dec3ca9241395373ea49142b0fc0edf3a39bc12955b76b82"
-metafile = true
-
-[[files]]
-file = "mods/cake-chomps.pw.toml"
-hash = "cd089bf07e469a62ffdd709f35fde0ec66615af0ccf8d346b1484aa788a62c41"
-metafile = true
-
-[[files]]
-file = "mods/calcmod.pw.toml"
-hash = "61a0f6d60051499af59848179906d6a90f2f518a15da45fbefb1e9bc8d5551bf"
 metafile = true
 
 [[files]]
@@ -649,6 +641,16 @@ hash = "603a793b66f89e59b8ecd2a5286e5bb75969f872866c460ce272055d83e13447"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "44939e619b300aeac4de098126c182fdaba2439f737307bbe214f68c32c115a7"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
 metafile = true
@@ -680,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "d11fc9aac19a0a0af26884321b1b4205e55120e9583bb7323e9cbdb25925fbba"
+hash = "9eccc7dd35aa94937c4ec819379dd8502d427616d56b85a603648926a223cf29"
 metafile = true
 
 [[files]]
@@ -691,6 +693,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/equipment-compare.pw.toml"
+hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
 metafile = true
 
 [[files]]
@@ -799,6 +811,16 @@ hash = "7870e7d4b9a9ad45912f7adb35ae6103d006ea21bacd058a006f266a9fa89db0"
 metafile = true
 
 [[files]]
+file = "mods/item-borders.pw.toml"
+hash = "b54bcb74269ae5750d55f26cf890871fcc5b0184f8feacee2a5de4af65036818"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "ee91acdffc481f535911c38fbc06c62c85e6531a2ee7e4e116401b3ad544e74a"
 metafile = true
@@ -834,23 +856,8 @@ hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
 metafile = true
 
 [[files]]
-file = "mods/litematica.pw.toml"
-hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
-metafile = true
-
-[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
-metafile = true
-
-[[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "6838240b825c5b2f362ed03da14e93f4449b29bc016370fba46bbf3312b79d10"
-metafile = true
-
-[[files]]
-file = "mods/malilib.pw.toml"
-hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
@@ -926,6 +933,16 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "aecc8baf9e0e87c9ad4b34a0ec027f88f4f4705a75157499761891734e58679f"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "918c80c1e73cfa197b20403434cc5fd46d709b8a75e94365d4a610b26563b3b3"
 metafile = true
 
 [[files]]
@@ -1011,6 +1028,11 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "f891cc32728a13dec5d8763f86b926498eb745b3bd80676120292bacd03e51ab"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "48e5c5fe512a216ff65dc75ad6655cc5321f0b8cea9201a80b4dd6824f96ff1b"
 metafile = true
 
 [[files]]
