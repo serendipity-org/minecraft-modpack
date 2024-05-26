@@ -1,0 +1,13 @@
+name = "CreateMon"
+filename = "CreateMon-v1.3.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yj9xk24R/versions/Kw2rVcHu/CreateMon-v1.3.2.zip"
+hash-format = "sha1"
+hash = "b8e59a5a8052e54f55cf124ca8e184066cd33085"
+
+[update]
+[update.modrinth]
+mod-id = "yj9xk24R"
+version = "Kw2rVcHu"
