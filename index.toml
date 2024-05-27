@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/autotools.toml"
+hash = "e53821c72592710f8b646ae99580a456ba3c7f05be10dabb6fee1bd66088fada"
+
+[[files]]
+file = "configureddefaults/config/clienttweaks-common.toml"
+hash = "5100f7d1d1857f971dc877eea207abafeddb7b0a604f77df73ea50a9170495d3"
+
+[[files]]
 file = "configureddefaults/config/embeddium++.toml"
 hash = "91d1faf5cb2e28e3db2543111238dd2d9a46142a7700d611b765adc42c4fcbdf"
 
@@ -9,16 +17,53 @@ file = "configureddefaults/config/embeddium-options.json"
 hash = "f444233b0fabef825171f332ce1256c03a657be5e0d059999f52d0e17dc7bbe9"
 
 [[files]]
+file = "configureddefaults/config/emi.css"
+hash = "d87ce8fb038b1d2e67872bff42203846b12da8bcec960837b8e0878f4eddebd3"
+
+[[files]]
 file = "configureddefaults/config/entityculling.json"
 hash = "4b915c579cb1ff2bc0b8b48066baeef0837e52b123aae90207ee914c94e15de3"
+
+[[files]]
+file = "configureddefaults/config/jade/jade.json"
+hash = "cd8687ed0374ed433d83f8f7df9183a5f685cb59b833d1405689e07640f891ce"
+
+[[files]]
+file = "configureddefaults/config/jade/plugins.json"
+hash = "4ca74207a6c736eacd8eaf2f1606282ea6a1c19cc7cc960002489c9bb2f8122d"
 
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "ebccc442a265c6c63fc3e9a26f94a613a144f9c74220175b825042562f26bd20"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "1447df8a4bd1fd2cce2ae71f900f3d1f1626baa2fe37c877cef19549a4101c36"
+metafile = true
+
+[[files]]
+file = "mods/bocchium.pw.toml"
+hash = "959cd2e99609b8329711ddae8c114f769ab3a86bcbff221d9cc47d4cb7734e36"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "e690e6f1d8e2706e4289bd4123afad0caf6406455f5afd5c9c0fa272e3c8a06c"
 metafile = true
 
 [[files]]
@@ -67,6 +112,11 @@ hash = "871acd627e682cfd9786d0574fb09ab0e9c07493b493c5d8747e243292477256"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "50cccc98a2eabd7abf8d7b0fbb506bbf408a04c40aba21370e6d30053cb0d9bd"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
 metafile = true
@@ -107,6 +157,26 @@ hash = "cc158a67f4ab27251b86ed1f1178f203f935da20c20d734dcac739c641e30814"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "ee91acdffc481f535911c38fbc06c62c85e6531a2ee7e4e116401b3ad544e74a"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ab6c2176b162ad517d68ddd9bb2c16f3cacc1fae5ad76abd6e62bc2f1d747f4b"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
+metafile = true
+
+[[files]]
+file = "mods/minecraft_autotools.pw.toml"
+hash = "e3ceca456a6aead74df27f700bca0ef75c039a372d0e78a701443441b356748c"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
 metafile = true
@@ -114,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
@@ -137,6 +212,11 @@ hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "5a70811f11bccd6a9b7e52682de06faae2ee5fcc1777ae5e466b1a6a87052f69"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
@@ -157,8 +237,18 @@ hash = "bfe46c098031de85aa222b0460dbe5a35aff9ce5c071543ec807f2ec18c15959"
 metafile = true
 
 [[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5d9a0fbad5a23306da09dc524b698ad7fa00b27637a8bbbb4e11fca8c3700d36"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "5975a2513ad3de7d0bc32684d907515d0566d8d312b609df8624f7dbc53442c8"
 metafile = true
 
 [[files]]
