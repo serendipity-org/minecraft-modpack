@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/embeddium++.toml"
+hash = "91d1faf5cb2e28e3db2543111238dd2d9a46142a7700d611b765adc42c4fcbdf"
+
+[[files]]
+file = "configureddefaults/config/embeddium-options.json"
+hash = "f444233b0fabef825171f332ce1256c03a657be5e0d059999f52d0e17dc7bbe9"
+
+[[files]]
+file = "configureddefaults/config/entityculling.json"
+hash = "4b915c579cb1ff2bc0b8b48066baeef0837e52b123aae90207ee914c94e15de3"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "ebccc442a265c6c63fc3e9a26f94a613a144f9c74220175b825042562f26bd20"
 
@@ -10,23 +22,34 @@ hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
 file = "mods/crash-utilities.pw.toml"
-hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
+hash = "681f2c723d45f793d451743a70f0a5ea148917c636f5e4777ef5b450c5719c21"
 metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
+hash = "762467d0768b7d6620a358733b1e13dd61259e15023f19552e7bb03ef8825e2b"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a2888c614afd7ad2e06e8b6e5a1d2d8fc18e950b0c3855ae6adb459eb3778a30"
+hash = "b6a73210aa3b742be00399abebd8301b78506ebd6a42709460b087730b1082f5"
 metafile = true
 
 [[files]]
-file = "mods/embeddiumextras-1.20.1-v2.0.0.jar"
-hash = "14a3b4590183345e9f402bf1f2cf787b326c5658f01424e794ab14539981c02a"
+file = "mods/embeddiumplus.pw.toml"
+hash = "871acd627e682cfd9786d0574fb09ab0e9c07493b493c5d8747e243292477256"
+metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -86,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
 metafile = true
 
 [[files]]
