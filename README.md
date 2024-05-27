@@ -1,9 +1,10 @@
 # SerendipiCraft
 
-
 fabric = "0.92.1"
 minecraft = "1.20.1"
 neoforge = "47.1.105"
+
+https://cubical.xyz/
 
 
 ## TODO:
@@ -13,7 +14,6 @@ neoforge = "47.1.105"
 - Add various resource packs compat
 - add normal minecraft mobs to auto-3rd person
 - Search skill mod
-- Fix xaero's position
 - reconsider Canary
 - set up minimap icons
 - add Discord status
@@ -21,12 +21,9 @@ neoforge = "47.1.105"
 ## All the Mods 9 useful mods
 
 - Farsight
-- Fast Leaf Decay
-- Get It Together Drops
 - Login Protection
 - Memory Settings
 - Mob Despawn Timers
-- No Chat Reports
 - ServerConfig Updater
 - Simple Backups
 
