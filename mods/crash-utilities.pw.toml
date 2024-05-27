@@ -1,6 +1,6 @@
 name = "Crash Utilities"
 filename = "crashutilities-8.1.4.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

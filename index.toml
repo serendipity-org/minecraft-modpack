@@ -22,6 +22,16 @@ hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
 metafile = true
@@ -33,7 +43,12 @@ metafile = true
 
 [[files]]
 file = "mods/crash-utilities.pw.toml"
-hash = "681f2c723d45f793d451743a70f0a5ea148917c636f5e4777ef5b450c5719c21"
+hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7a9742b032332f9f572d5d39c492a4bdfce76bb60ff1ffeb90d804eb6f5ca629"
 metafile = true
 
 [[files]]
@@ -87,6 +102,11 @@ hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "cc158a67f4ab27251b86ed1f1178f203f935da20c20d734dcac739c641e30814"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
 metafile = true
@@ -94,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
 metafile = true
 
 [[files]]
@@ -119,6 +144,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "e0e96b021a88ad21e3d2509fdea470fe373981663fa15130919ba37a499b55ff"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "bfe46c098031de85aa222b0460dbe5a35aff9ce5c071543ec807f2ec18c15959"
 metafile = true
 
 [[files]]
