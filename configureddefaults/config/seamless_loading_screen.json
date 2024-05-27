@@ -6,15 +6,13 @@
   "enableScreenshotBlur": false,
   "screenshotBlurStrength": 1.0,
   "screenshotBlurQuality": 5.0,
-  "playSoundEffect": false,
+  "playSoundEffect": true,
   "soundEffect": "minecraft:ui.toast.out",
   "soundPitch": 1.0,
   "soundVolume": 1.0,
   "resolution": "Normal",
   "disableCamera": true,
   "archiveScreenshots": false,
-  "updateWorldIcon": false,
-  "blacklistedAddresses": [
-    "play.wynncraft.com"
-  ]
+  "updateWorldIcon": true,
+  "blacklistedAddresses": []
 }

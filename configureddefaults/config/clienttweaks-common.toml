@@ -46,4 +46,3 @@
 	shieldItems = ["basicshields:wooden_shield", "basicshields:golden_shield", "basicshields:diamond_shield", "basicshields:netherite_shield"]
 	#Items that count as fireworks for the offhand-firework tweak options.
 	fireworkItems = ["minecraft:firework_rocket"]
-

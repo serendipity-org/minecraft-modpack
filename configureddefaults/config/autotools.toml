@@ -1,4 +1,3 @@
-
 [AutoTools]
 	#AutoTools will always be active and try to get you the best tool. Can be toggled with the set key.
 	toggle = true
@@ -14,7 +13,7 @@
 	alwaysPreferFortune = true
 	#
 	#AutoTools only tries to get a new tool if it is needed to break the block
-	onlySwitchIfNecessary = true
+	onlySwitchIfNecessary = false
 	#AutoTools will switch back to you previous tool or item you had in your hand before breaking the block
 	switchBack = true
 	#Displays the weapons Dps when hovering over it.
@@ -32,4 +31,3 @@
 	#eUse "autotools:disabled" to disable AutoTools on a certain block
 	#Also works for entities: "minecraft:entity_id":"minecraft:tool_id
 	customTools = "{}"
-

@@ -22,7 +22,7 @@ configVersion = 7
 	custom = false
 	#If 'true', the ignorePattern will be used, and anything matching it will be ignored.
 	#Default: false
-	useIgnore = false
+	useIgnore = true
 
 #Scenario configuration.
 #Has no effect if the corresponding scenario is turned off.
