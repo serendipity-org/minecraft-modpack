@@ -21,6 +21,10 @@ file = "configureddefaults/config/cobblemon/main.json"
 hash = "d17c6fb2a82bf5aa8282bc8a838ca61d6262686172eaef0b11b47cb0d4cf31a3"
 
 [[files]]
+file = "configureddefaults/config/create-client.toml"
+hash = "17de85f098b435cd375914b597d74cd02caa10c12e7c49be34bfd28c506d470f"
+
+[[files]]
 file = "configureddefaults/config/embeddium++.toml"
 hash = "2da857cf6ae4be7424611718a1fff574f02c999c209efafcf5dea59e1bbb587f"
 
@@ -37,8 +41,16 @@ file = "configureddefaults/config/entityculling.json"
 hash = "4b915c579cb1ff2bc0b8b48066baeef0837e52b123aae90207ee914c94e15de3"
 
 [[files]]
+file = "configureddefaults/config/farmersdelight-client.toml"
+hash = "11a3d38bbf4a50092b32e0bc2dc750f64a92e7fc0e1a05b1a504da6682ad2aa7"
+
+[[files]]
+file = "configureddefaults/config/farmersdelight-common.toml"
+hash = "9c2e4ddfc791a29c71e15d68b29a4998257b3bce5770e6d304dc347851e05939"
+
+[[files]]
 file = "configureddefaults/config/foodeffecttooltips-client.toml"
-hash = "f5517259a24d6a083c0063b22dc49861f8828bb5558b75c9ece844e0cf4f6b12"
+hash = "b05fe1b7f3690f1d12223f11a13dc130dc5258ef5c2b5963ae706ce6dbf4cf78"
 
 [[files]]
 file = "configureddefaults/config/itemborders-common.toml"
@@ -63,6 +75,10 @@ hash = "89ad2f7cc4e2288fb0c032a31dd3d441b9c91e1f34e42ce4a682d0e3cd38c6ac"
 [[files]]
 file = "configureddefaults/config/seamless_loading_screen.json"
 hash = "c3eeb4ea4543a69270d8985b48344d8bcb1de5357ce70e8ff15c520b5905b807"
+
+[[files]]
+file = "configureddefaults/config/torohealth.json"
+hash = "4e77b92dea838790b9f687017835bddf2e053e90fb1dda173a5fd4da522b7031"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
@@ -245,6 +261,11 @@ hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
@@ -277,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true
 
 [[files]]
@@ -362,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "51293e548b070b3654fb1d30f12e9ef11febafdab9d68830e5ca783003180233"
 metafile = true
 
 [[files]]
@@ -457,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "cae825b93bc039487dfd88ed809eae3d4711a9849852953ff1bd57dc6ac6993d"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators-updated.pw.toml"
+hash = "bc4a64821f2ae6d53d19a040589413e2e16b954843a257bfcdd85e446159e31c"
 metafile = true
 
 [[files]]
