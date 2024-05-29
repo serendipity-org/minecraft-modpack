@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Notification"
+filename = "cobblemon-spawn-notification-1.4-forge-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LPuJjiQz/versions/F6INAe9k/cobblemon-spawn-notification-1.4-forge-1.1.0.jar"
+hash-format = "sha1"
+hash = "af4c2d2d4000c4a0afc6048fe77ca0e4a7f84e48"
+
+[update]
+[update.modrinth]
+mod-id = "LPuJjiQz"
+version = "F6INAe9k"

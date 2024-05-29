@@ -21,12 +21,28 @@ file = "configureddefaults/config/cobblemon/main.json"
 hash = "d17c6fb2a82bf5aa8282bc8a838ca61d6262686172eaef0b11b47cb0d4cf31a3"
 
 [[files]]
+file = "configureddefaults/config/cobblemonextras/config.json"
+hash = "ffbfb37bf9729ecebc57f7e6b66def02f193ebdb365cc0aa1374dbe85ce70489"
+
+[[files]]
+file = "configureddefaults/config/compatemon/MODULES.cfg"
+hash = "3000c1c29826f3e08d4ea4faf58f30526e92a218a95a68fa835bea23ddc67d75"
+
+[[files]]
+file = "configureddefaults/config/compatemon/compatemon.cfg"
+hash = "66b3019b6ab7f0137927e3103512f48f66bddd20142bf82618936fb0bce06d11"
+
+[[files]]
+file = "configureddefaults/config/compatemon/pehkui.cfg"
+hash = "657b70fe70a8fcc5023e7eaecf2d87968ed41ea036078fefa54396c2ef9b9992"
+
+[[files]]
 file = "configureddefaults/config/create-client.toml"
 hash = "17de85f098b435cd375914b597d74cd02caa10c12e7c49be34bfd28c506d470f"
 
 [[files]]
 file = "configureddefaults/config/embeddium++.toml"
-hash = "2da857cf6ae4be7424611718a1fff574f02c999c209efafcf5dea59e1bbb587f"
+hash = "abad7e7258ec3d1a1a3269a1ea6757530fc4d5e0fe138790f15f12c131146450"
 
 [[files]]
 file = "configureddefaults/config/embeddium-options.json"
@@ -49,6 +65,10 @@ file = "configureddefaults/config/farmersdelight-common.toml"
 hash = "9c2e4ddfc791a29c71e15d68b29a4998257b3bce5770e6d304dc347851e05939"
 
 [[files]]
+file = "configureddefaults/config/fightorflight.json5"
+hash = "ca34db250d6ffdc193b375600e933f688b26e8e59a825072b25f23a3a3819115"
+
+[[files]]
 file = "configureddefaults/config/foodeffecttooltips-client.toml"
 hash = "b05fe1b7f3690f1d12223f11a13dc130dc5258ef5c2b5963ae706ce6dbf4cf78"
 
@@ -69,12 +89,28 @@ file = "configureddefaults/config/legendarytooltips-common.toml"
 hash = "c51c5a927c1f59d9373c038aea225dc618647ac076a9142d25111c86feaab64e"
 
 [[files]]
+file = "configureddefaults/config/moderninhibited-common.toml"
+hash = "8df547d4c9ab7a130b1b631e883319cb2bb01091cbfcbceb7129eeddb3f4ea6b"
+
+[[files]]
+file = "configureddefaults/config/pehkui-common.toml"
+hash = "1fd271e5c506c6b2c0ba2eead8afda9adddce2f4dad6a92e0b154ca47dfbcecd"
+
+[[files]]
 file = "configureddefaults/config/quark-common.toml"
-hash = "89ad2f7cc4e2288fb0c032a31dd3d441b9c91e1f34e42ce4a682d0e3cd38c6ac"
+hash = "efba417a3e68030cc8e0ee7a65d5d5571ff9cb0734bde05dede8e36d44fa7b1e"
 
 [[files]]
 file = "configureddefaults/config/seamless_loading_screen.json"
 hash = "c3eeb4ea4543a69270d8985b48344d8bcb1de5357ce70e8ff15c520b5905b807"
+
+[[files]]
+file = "configureddefaults/config/simpletms/simpletms.json"
+hash = "e326927e0b0553f42e25925a99746fe0f9205a237b77e2dcfdd7b97c8e973316"
+
+[[files]]
+file = "configureddefaults/config/spawn_notification.json"
+hash = "aaff1de566ad339eb7731de3c198725f9363af029cb69d5ce70db06c75817f3e"
 
 [[files]]
 file = "configureddefaults/config/torohealth.json"
@@ -99,6 +135,16 @@ hash = "63f6fe0916788847d2ff003c272c9b392698d6b5514d90542baa21fdb0eca9f6"
 [[files]]
 file = "configureddefaults/options.txt"
 hash = "ebccc442a265c6c63fc3e9a26f94a613a144f9c74220175b825042562f26bd20"
+
+[[files]]
+file = "datapacks/cobbletowns.pw.toml"
+hash = "3abec79304c6927f2ed9948397f9c93e9f85da4cd13556d476470cdcb2665a7b"
+metafile = true
+
+[[files]]
+file = "datapacks/shinier-shinies.pw.toml"
+hash = "9475d0eafce0ae95db4a3e8152d160b30f839526bc2d68bb4c14df1378c82397"
+metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -152,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "72b57b56bd7676d2450009417145c7faa432498d323fa22f0e5bb0b272858d7a"
+hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
 
 [[files]]
@@ -186,8 +232,43 @@ hash = "fb8e035187556a9406507176782dd251769d8cdf14e9712b508bcc47ff6904d9"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "6ac33328a78f55c99b3d9cfc3f05195b24a460b6a081112d6e4d116cf9e550a0"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight.pw.toml"
+hash = "a38fad06528a3cccfa21db09cc910910f8a4a24dcc1f8ff9ea73bbd0f98c0e70"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "b69f2d321ca5ecf844079e9c3391fb36215ffe6a858d5b267c8bbd07536141a4"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "4beb531d12c9a0d51fa13105ee17112c2af6bf064ac8892d257e50b716f39f3d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "8cad751fd685ff4f0143411e2b7c9f9444309b04f05948d7e92370b8c05b26b2"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "89eca1ce196ce224e01eb5ce8c3a95f674d0fcc5e801580c600a9f8b91dad941"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonrider.pw.toml"
+hash = "a38de8d63c05474cbc28c826ea721321b2d571aa734045ef2a26849de517f1db"
+metafile = true
+
+[[files]]
+file = "mods/compatemon.pw.toml"
+hash = "c3b3e8f1266fbcc05f7e5c1b67085f18fd4c0512a629e8553997432175ca0695"
 metafile = true
 
 [[files]]
@@ -198,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "716b58e8b849a86e83a89b11d03fed7eb90b2d079584a93de27e4e2afa56ac8a"
 metafile = true
 
 [[files]]
@@ -366,8 +452,13 @@ hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
 metafile = true
 
 [[files]]
+file = "mods/livelierpokemon.pw.toml"
+hash = "e3db64d007bf9f5b3df169a1a6d9c39b3568d4ec6058e87a5a6a0916ddf416dd"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
-hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
+hash = "cca706c9aa0e52dce5194093214082779add0efa8e2e8ef119b5ab3232032449"
 metafile = true
 
 [[files]]
@@ -378,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
+metafile = true
+
+[[files]]
+file = "mods/modern-inhibited.pw.toml"
+hash = "ea2f4fc06389065a3b5b7931aededf148cd4dcb0173a9f23fb6c9bd78e0e4751"
 metafile = true
 
 [[files]]
@@ -418,6 +514,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "7b1192ecd2cf1486cac111b51dc85645569be302d7a0e2d8d409fd71ccf207e1"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "a634ed3bb58905429524f6868faea9404ec2bc44e5411734bb58a18a401accf8"
 metafile = true
 
 [[files]]
@@ -463,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
+file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
+hash = "8ba1d854f55045e94436ee9dcec2eba987b22a4d89790c70ac3405dceda2ee71"
 metafile = true
 
 [[files]]

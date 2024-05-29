@@ -96,7 +96,7 @@
 
 		[embeddiumplus.performance.fastModels]
 			#Toggles FastBeds feature
-			enableBeds = true
+			enableBeds = false
 			#Toggles FastChest feature
 			#Without flywheel installed or using any backend, it increases FPS significatly on chest rooms
 			enableChests = true

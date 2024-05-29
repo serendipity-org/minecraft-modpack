@@ -4,9 +4,6 @@ fabric = "0.92.1"
 minecraft = "1.20.1"
 neoforge = "47.1.105"
 
-https://cubical.xyz/
-
-
 ## TODO:
 
 - Fix EMI Inventory offset with FTB
