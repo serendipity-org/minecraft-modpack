@@ -171,6 +171,14 @@ file = "configureddefaults/options.txt"
 hash = "ebccc442a265c6c63fc3e9a26f94a613a144f9c74220175b825042562f26bd20"
 
 [[files]]
+file = "mods/HynthZ-1.4.13.jar"
+hash = "5fcd2f839a0c008ac2a896eb4c623004b383e1b21ef66b6ee89088d30ee6cbc1"
+
+[[files]]
+file = "mods/acedium-0.2.7-beta.jar"
+hash = "03cbd3abd91e23c46303d5326613dd8d96ffeb08cc0cb4eea50e74e52b516433"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d0578c8686aa8e24f7ba2660cb771baf27b04ae33521c686aec67ff622f1fbb1"
 metafile = true
@@ -351,6 +359,16 @@ hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "65879bdbfabde6902e5ba375d9f844000b19c95ec22b4da4cb95a675b27d533c"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "96a8cf1770ddf7b31e960c86118eb531eb3c2d25258aa3dd34cbd929e98ec08a"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
@@ -466,6 +484,11 @@ hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "76fb1070a6a4578dafcdce08b7f4c65be43401120e6f356b7b3d8507b596d8b7"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
 metafile = true
@@ -493,6 +516,11 @@ metafile = true
 [[files]]
 file = "mods/footprintparticle.pw.toml"
 hash = "833c4c1c2080e87965051bd77577156a8268cb645dc44633446a01833473a805"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "e2a58307f0e7a89bb905f894c235fcd275bd500d885424a9f796df44e27d985f"
 metafile = true
 
 [[files]]
@@ -561,8 +589,8 @@ hash = "ab6c2176b162ad517d68ddd9bb2c16f3cacc1fae5ad76abd6e62bc2f1d747f4b"
 metafile = true
 
 [[files]]
-file = "mods/just-leveling.pw.toml"
-hash = "b9a93157333ddfc388ddc368e09b6fbf7089ca118132b95ab42ecd09ad1d0ec8"
+file = "mods/jobsaddon.pw.toml"
+hash = "4f0d089482035abf3726e8776f1571387d1850d215e7a7194130b297581051fc"
 metafile = true
 
 [[files]]
@@ -593,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/libertyvillagers.pw.toml"
 hash = "a7d9465a3edd2b13f8cafe716c9dbb4c56c6d2b79aa42fae0eff078d1d89361e"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "18c5ea7c56454fab1b7c959d50b366e05ddcedfa90cb8dc2faf45ad3a5db11a0"
 metafile = true
 
 [[files]]
@@ -661,6 +694,11 @@ hash = "537addb83d7ebcfaed09274ce78451ecbfc55b1592f9022cf40cbb39ffa91bc3"
 metafile = true
 
 [[files]]
+file = "mods/numismatic-overhaul.pw.toml"
+hash = "c856fe88e3cf7c1c8ffc85047717b9158e461036e422b5da5f8ec5aecb072671"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
 metafile = true
@@ -668,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "aecc8baf9e0e87c9ad4b34a0ec027f88f4f4705a75157499761891734e58679f"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -738,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/simpletms-tms-and-trs-for-cobblemon.pw.toml"
 hash = "8ba1d854f55045e94436ee9dcec2eba987b22a4d89790c70ac3405dceda2ee71"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
 metafile = true
 
 [[files]]
