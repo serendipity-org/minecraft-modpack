@@ -1,0 +1,13 @@
+name = "BreakTheFall"
+filename = "BreakTheFall_2.0_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PiqfB70g/versions/fjizoKD2/BreakTheFall_2.0_1.20.1.jar"
+hash-format = "sha1"
+hash = "f45265b8dc028a1ab5de76e3612a5578d10db44d"
+
+[update]
+[update.modrinth]
+mod-id = "PiqfB70g"
+version = "fjizoKD2"

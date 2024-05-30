@@ -1,0 +1,13 @@
+name = "Not-So Immersive Additions"
+filename = "not_so_immersive_additions-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73910786afded342d9bc6ad7e725b18f0b51215f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5126621
+project-id = 977838

@@ -1,6 +1,5 @@
 # SerendipiCraft
 
-fabric = "0.92.1"
 minecraft = "1.20.1"
 neoforge = "47.1.105"
 
@@ -14,24 +13,4 @@ neoforge = "47.1.105"
 - reconsider Canary
 - set up minimap icons
 - add Discord status
-
-## All the Mods 9 useful mods
-
-- Farsight
-- Login Protection
-- Memory Settings
-- Mob Despawn Timers
-- ServerConfig Updater
-- Simple Backups
-
-- Durability Tooltip
-- Domum Ornamentum
-- Ding Forge
-- Extreme Sound Muffler
-- Harvest with ease
-- Glassential
-- Little Logistics
-- My Server is Compatible
-- Sparse Structures Reforged
-- Utilitarian
-- UtiliX
+- Check mod updates manually

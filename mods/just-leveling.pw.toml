@@ -1,0 +1,13 @@
+name = "Just Leveling"
+filename = "justleveling-forge-1.20.x-v1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EF21YRSP/versions/jIVgUpOb/justleveling-forge-1.20.x-v1.7.jar"
+hash-format = "sha1"
+hash = "a9204e630c292c0a149ba0fda1dd5bdfac8084d5"
+
+[update]
+[update.modrinth]
+mod-id = "EF21YRSP"
+version = "jIVgUpOb"
