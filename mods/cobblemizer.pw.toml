@@ -1,0 +1,13 @@
+name = "Cobblemizer"
+filename = "CobblemizerForge-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x84daeIA/versions/Y16rfRPz/CobblemizerForge-2.0.1.jar"
+hash-format = "sha1"
+hash = "97ff6844f0955d19d60999cfba0956993a457d9a"
+
+[update]
+[update.modrinth]
+mod-id = "x84daeIA"
+version = "Y16rfRPz"

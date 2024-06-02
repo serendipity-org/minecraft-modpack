@@ -1,0 +1,13 @@
+name = "Bed Benefits"
+filename = "BedBenefits-Forge-1.20.1-13.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wl8l4Sim/versions/wPwSjIQd/BedBenefits-Forge-1.20.1-13.0.3.jar"
+hash-format = "sha1"
+hash = "aa4456aeeb67a9797b0a07d16bd2c372197ba117"
+
+[update]
+[update.modrinth]
+mod-id = "Wl8l4Sim"
+version = "wPwSjIQd"

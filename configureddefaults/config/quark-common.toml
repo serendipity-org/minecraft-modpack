@@ -599,8 +599,8 @@
 		#Enable this to make custom emotes read the file every time they're triggered so you can edit on the fly.
 		#DO NOT ship enabled this in a modpack, please.
 		"Custom Emote Debug" = false
-		"Button Shift X" = 0
-		"Button Shift Y" = 0
+		"Button Shift X" = -51
+		"Button Shift Y" = 3
 
 	[tweaks.enhanced_ladders]
 		#Allowed values: (,0]
@@ -1605,7 +1605,7 @@
 		#The value of each shank of food.
 		#Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
-		"Show Saturation" = true
+		"Show Saturation" = false
 		"Food Compression Threshold" = 4
 		"Fuel Time Divisor" = 200
 		#Should item attributes be colored relative to your current equipped item?

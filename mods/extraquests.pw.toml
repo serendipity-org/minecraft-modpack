@@ -1,0 +1,13 @@
+name = "ExtraQuests"
+filename = "ExtraQuests-Forge-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rMvP0ujv/versions/95zXfGgj/ExtraQuests-Forge-1.1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "46c25439c1f9651e69374359f6cdfde96da03db1"
+
+[update]
+[update.modrinth]
+mod-id = "rMvP0ujv"
+version = "95zXfGgj"
