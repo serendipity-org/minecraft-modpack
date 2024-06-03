@@ -1,13 +1,13 @@
 name = "Configured Defaults"
-filename = "ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar"
-side = "both"
+filename = "ConfiguredDefaults-v8.0.1-1.20.1-Fabric.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/SISoSFPP/versions/A2wzQZLe/ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/SISoSFPP/versions/hOcrPrzr/ConfiguredDefaults-v8.0.1-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "bedf1769a47640f76599925d2481beed982e2aa4"
+hash = "efe4fd9f2f554225c71649341a0d8a2eb6cecd47"
 
 [update]
 [update.modrinth]
 mod-id = "SISoSFPP"
-version = "A2wzQZLe"
+version = "hOcrPrzr"

@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2d1f30d87c8ee21726f48718445a3167fb48c530ab607b6693f3337b96baeaf9"
+hash = "aac1d7bdac225114cc5f0f4eb3893c9c211c495f4d866ea387f24d19ed26d262"
 
 [versions]
+fabric = "0.15.11"
 minecraft = "1.20.1"
-neoforge = "47.1.105"
 
 [options]
 datapack-folder = "configureddefaults/config/paxi/datapacks"
