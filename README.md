@@ -9,3 +9,5 @@ fabric = "0.15.11"
 - set up minimap icons
 - add Discord status
 - Check mod updates manually
+
+https://modrinth.com/datapack/bountiful-x-cobblemon-catchers-decree
