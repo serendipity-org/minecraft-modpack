@@ -2749,6 +2749,86 @@ hash = "822b284f908f06e6de154f0c81276f69c9d5d13d5f8c7d0cc4c713d538b48391"
 metafile = true
 
 [[files]]
+file = "mods/go-fish.pw.toml"
+hash = "d47b36a229668694e6697a97d8fb2fa70fcf9d3f6dcc4f3ab6cddaf5c541fa83"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "cda407574e2b7334479faf8276e8810eba1662c69a4dbd02c72dbef335a67f08"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers-(fabricquilt).pw.toml"
+hash = "5c66a9e286d7c01b75f7e923a14d89e061aae51a2e66d65eda47ff5d20983131"
+metafile = true
+
+[[files]]
+file = "mods/gym-badges.pw.toml"
+hash = "c333b507d780cba7c54569401acbf9e4e02c7c0a78fb645379b7a48773486427"
+metafile = true
+
+[[files]]
+file = "mods/hamsters.pw.toml"
+hash = "e6c51368345851d040b0c13ad2a30468f71f67a6d0560409353ebf841e91da8c"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "b29114e8d0a6f719fb59075c9953e5a1555a315a1686d5e2ed75813077337f2c"
+metafile = true
+
+[[files]]
+file = "mods/herdspanic.pw.toml"
+hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
+metafile = true
+
+[[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "12f236d2a2baa1e1f75628a5cc20eae9caf207861fe957dfdf8907dcca50b1d6"
+metafile = true
+
+[[files]]
+file = "mods/icarus.pw.toml"
+hash = "4e72b1af60144e4c5ddeace18f881e18848f9e0ca528adbad14024c6272c6cc2"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "813823a936cc8c5d1764f47f1bf75c3561302d38abf5f13cb3f64556f4ddddf7"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "83ddb016541548322b3bed6e4306ec9dadb6c751d85aa3889e705e8704614195"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
+metafile = true
+
+[[files]]
+file = "mods/incantationem.pw.toml"
+hash = "07d544cd7b28ddb8c11461cb0046c14d83e1bec169d1790f11573ee92b40386a"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
