@@ -1,0 +1,119 @@
+type = customizablemenus
+
+net.minecraft.class_526 {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
+net.minecraft.class_3928 {
+}
+
+net.minecraft.class_490 {
+}
+
+net.minecraft.class_424 {
+}
+
+net.minecraft.class_435 {
+}
+
+net.satisfyu.meadow.client.screen.FondueGui {
+}
+
+wraith.fwaystones.screen.WaystoneBlockScreen {
+}
+
+de.guntram.mcmod.easiervillagertrading.BetterGuiMerchant {
+}
+
+com.bcg.client.gui.screens.ShaderToggleScreen {
+}
+
+net.minecraft.class_466 {
+}
+
+fuzs.easymagic.client.gui.screens.inventory.ModEnchantmentScreen {
+}
+
+io.github.foundationgames.automobility.screen.AutoMechanicTableScreen {
+}
+
+fuzs.barteringstation.client.gui.screens.inventory.BarteringStationScreen {
+}
+
+satisfy.bakery.client.gui.StoveGui {
+}
+
+dev.sterner.brewinandchewin.client.screen.KegScreen {
+}
+
+satisfyu.candlelight.client.gui.CookingPotGui {
+}
+
+satisfyu.vinery.client.gui.FermentationBarrelGui {
+}
+
+satisfyu.vinery.client.gui.ApplePressGui {
+}
+
+io.github.lucaargolo.seasonsextras.client.screen.AirConditioningScreen {
+}
+
+wraith.alloyforgery.client.AlloyForgeScreen {
+}
+
+satisfy.bakery.client.gui.BakerStationGui {
+}
+
+net.minecraft.class_494 {
+}
+
+com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen {
+}
+
+net.minecraft.class_458 {
+}
+
+net.minecraft.class_442 {
+}
+
+net.minecraft.class_5375 {
+}
+
+net.minecraft.class_429 {
+}
+
+net.minecraft.class_4189 {
+}
+
+net.minecraft.class_408 {
+}
+
+com.memorysettings.MemoryErrorScreen {
+}
+
+net.minecraft.class_436 {
+}
+
+io.github.jumperonjava.customcursorcomm.cursor.CursorEditScreen {
+}
+
+com.tom.storagemod.gui.StorageTerminalScreen {
+}
+
+org.anti_ad.mc.ipnext.gui.GUIDEEditorScreen {
+}
+
+net.minecraft.class_433 {
+}
+
+net.minecraft.class_492 {
+}
+
+com.talhanation.smallships.client.gui.screens.inventory.ShipContainerScreen {
+}
+
+net.minecraft.class_481 {
+}
+

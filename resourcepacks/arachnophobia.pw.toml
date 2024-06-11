@@ -1,0 +1,13 @@
+name = "Arachnophobia"
+filename = "Arachnophobia 1.20.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36f22bdfe2583b6445872704132e022b94b0d929"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4795669
+project-id = 547140

@@ -1,6 +1,0 @@
-
-[ModernInhibited]
-	validStructures = ["minecraft:ancient_city","minecraft:bastion_remnant","minecraft:endcity","minecraft:fortress","minecraft:mansion","minecraft:mineshaft","minecraft:nether_fossil","minecraft:ruined_portal","minecraft:stronghold","minecraft:temple","minecraft:village","minecraft:woodland_mansion"]
-	showEffectIcon = true
-	showEffectParticle = true
-

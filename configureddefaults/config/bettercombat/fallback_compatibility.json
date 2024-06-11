@@ -39,7 +39,7 @@
       "weapon_attributes": "bettercombat:anchor"
     },
     {
-      "item_id_regex": "battlestaff|battle_staff|whisper",
+      "item_id_regex": "battlestaff|battle_staff",
       "weapon_attributes": "bettercombat:battlestaff"
     },
     {
@@ -51,7 +51,7 @@
       "weapon_attributes": "bettercombat:fist"
     },
     {
-      "item_id_regex": "trident|javelin|impaled",
+      "item_id_regex": "trident|impaled",
       "weapon_attributes": "bettercombat:trident"
     },
     {
@@ -71,7 +71,7 @@
       "weapon_attributes": "bettercombat:soul_knife"
     },
     {
-      "item_id_regex": "dagger|knife|divider",
+      "item_id_regex": "dagger|knife",
       "weapon_attributes": "bettercombat:dagger"
     },
     {
@@ -95,11 +95,11 @@
       "weapon_attributes": "bettercombat:twin_blade"
     },
     {
-      "item_id_regex": "cutlass|scimitar|machete|saber",
+      "item_id_regex": "cutlass|scimitar|machete",
       "weapon_attributes": "bettercombat:cutlass"
     },
     {
-      "item_id_regex": "sword|blade|cutter",
+      "item_id_regex": "sword|blade",
       "weapon_attributes": "bettercombat:sword"
     }
   ],

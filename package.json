@@ -2,14 +2,14 @@
   "name": "serendipity-modpack",
   "module": "pack.toml",
   "scripts": {
-    "add": "./bin/packwiz-linux modrinth install",
-    "add:cf": "./bin/packwiz-linux curseforge install",
-    "dev": "bun clean:config && bun refresh && ./bin/packwiz-linux serve",
-    "refresh": "./bin/packwiz-linux refresh",
-    "rm": "./bin/packwiz-linux remove",
-    "up": "./bin/packwiz-linux update",
-    "up:all": "./bin/packwiz-linux update --all",
-    "settings": "./bin/packwiz-linux settings",
+    "add": "./bin/packwiz-macos modrinth install",
+    "add:cf": "./bin/packwiz-macos curseforge install",
+    "dev": "bun refresh && ./bin/packwiz-macos serve",
+    "refresh": "./bin/packwiz-macos refresh",
+    "rm": "./bin/packwiz-macos remove",
+    "up": "./bin/packwiz-macos update",
+    "up:all": "./bin/packwiz-macos update --all",
+    "settings": "./bin/packwiz-macos settings",
     "clean:config": "rm -rf /mnt/c/Users/javin/AppData/Roaming/ATLauncher/instances/SerendipiCraft/config && rm -rf /mnt/c/Users/javin/AppData/Roaming/ATLauncher/instances/SerendipiCraftFabric/configureddefaults"
   }
 }
