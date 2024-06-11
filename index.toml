@@ -2424,6 +2424,11 @@ hash = "34ac4696a583f96729c2361d9545bdf9c68b603b45114b716e9d07ec882cc318"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "90291784f95c409c8b856d8a9e5389a4727be8f6a01dd4fd284705e0013b44ff"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
 metafile = true
@@ -2434,8 +2439,28 @@ hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
 
 [[files]]
+file = "mods/create-cobblemon-industrialized.pw.toml"
+hash = "7aada8a95ce40f736be9dc9cee6465f5620b45f18725edbe264de9cd3a2579b5"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
@@ -2444,8 +2469,63 @@ hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
+metafile = true
+
+[[files]]
+file = "mods/custom-cursor.pw.toml"
+hash = "b720df598ebdce8ff0fb3e27e0c53b32fcd7d413c9132f8d9322fb6e23ef7889"
+metafile = true
+
+[[files]]
+file = "mods/daily-shop.pw.toml"
+hash = "20bd5364ce0e8ecf392b6a1b73780a3e526b75331d8bc15131cfcc9278f04de7"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "4e11e7949c85f2e32d3b717f0b1cb2b1e34c93c214c1fd745411018bc9386679"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "35561c50fd128cff62577503b1c444753a255a4da0c297877efc71cce716b861"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/deuf-refabricated.pw.toml"
+hash = "8455a09291dec2839233c63f99cf6535afdaf9698b8fe624a86b97523877aa9d"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "31a57e97467b2b34997b9594c692c73a414f9587801f3b92b6bef996377bf844"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "2d3c3ecce2c0cd41d1ba7370b91ce7eeb69db95b2ff9fd0b6d81996e00d07765"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "9fc01e3d81eb0855ac7c5df62355458b4420b6c8161172d702f26489ba8b3ed6"
 metafile = true
 
 [[files]]
@@ -2464,6 +2544,11 @@ hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
@@ -2476,6 +2561,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
 metafile = true
 
 [[files]]
@@ -2524,6 +2614,11 @@ hash = "aa0e25b84b58b6196f5401217273037b69104dde0c9492ad1d875c388844c286"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "e97d2fee9004604b792592613a1559e0b0547dd4499695d39342075f56f139f3"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
@@ -2534,8 +2629,18 @@ hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "03462e595bdf44957bbaf004c0b275a11d19128df3519b52880ce9179e0f3727"
 metafile = true
 
 [[files]]
@@ -2544,8 +2649,18 @@ hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
 metafile = true
 
 [[files]]

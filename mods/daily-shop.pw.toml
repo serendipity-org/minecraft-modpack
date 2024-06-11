@@ -1,0 +1,13 @@
+name = "Daily Shop 🫙"
+filename = "DailyShop-mc1.20.1-v1.0.8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ff4a035307650641399c318e3991c7836d7e22f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5386173
+project-id = 922332
