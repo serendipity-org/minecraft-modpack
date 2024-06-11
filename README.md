@@ -3,11 +3,8 @@
 minecraft = "1.20.1"  
 fabric = "0.15.11"
 
-## TODO:
+## Removed from BCG:
 
-- Add various resource packs compat
-- set up minimap icons
-- add Discord status
-- Check mod updates manually
-
-https://modrinth.com/datapack/bountiful-x-cobblemon-catchers-decree
+- BisectHosting
+- e4mc
+- 

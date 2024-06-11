@@ -2529,8 +2529,43 @@ hash = "9fc01e3d81eb0855ac7c5df62355458b4420b6c8161172d702f26489ba8b3ed6"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-sync-fixes.pw.toml"
+hash = "8cf3cb810d9ed5a3f2b7fffeb49d8072b758ad276699d593bb94a49c0975a17a"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "f7c1de8660dd549c1c66e6105f75d4c336c0e700da5080cde2dd5b877c38bdd5"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "dcea9652980fa97909dc9231878fa853f4b1da3d1a3967615f04b7f4d695e6e6"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
 
 [[files]]
@@ -2539,13 +2574,48 @@ hash = "52dba30a707ef0cb51cd30462c47980de681e071d31e376f18bc507933ee2abb"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fddce1cfc06ce7b3c5fc0cfa062fc57eadfd4ef4213ad561dc93d98b92d329d2"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
 metafile = true
 
 [[files]]
+file = "mods/epherolib.pw.toml"
+hash = "cf6fa7f55668b32838a07c13c5c094be1b0c4218c587ebdca4977fd85db16e5c"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "e9a0ce6fae1c8d3b3d1824eaf4bb09f991104a3cab6a1fefc694a5ce1a570198"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "d5dd2ff45974aaf530fb0d6233cb64c55d220a6279a438e81ee45eca320412c5"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "9820b8497ec0fdefcaa82801ca8ed125212d5f15957b139d81899b3baa88586e"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "319b5ecd66c1efbd3741f649dbc71d7d2e8dcdc0ad708c3a4e3e529eccafa0f7"
+metafile = true
+
+[[files]]
+file = "mods/extra-thicc-packets.pw.toml"
+hash = "4abe2f719878f0ac44b288cd2804da49d487b9d5481fd0217bd396284bf43725"
 metafile = true
 
 [[files]]
@@ -2559,6 +2629,36 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-terralith-compat.pw.toml"
+hash = "7c8572547d6e71b653018c3350daec54010442cba9f9517a4252bf3b8d3ecd3d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "72cc5d492b49c72c87da9629cd51e7240abae422784fef925872a0d4187c4932"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
@@ -2566,6 +2666,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4375a78dc2331d06b922e9011969e259e23947bb57088871d30b26d3b2ed37b6"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
 
 [[files]]
@@ -2651,6 +2756,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
 metafile = true
 
 [[files]]
