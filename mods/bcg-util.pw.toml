@@ -1,0 +1,13 @@
+name = "BCG+ Util"
+filename = "BCGUtil-mc1.20.1-v1.0.5-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b3d56f5d1edbb8a8d6bb91ee6a1192779d45511"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5359973
+project-id = 1020380

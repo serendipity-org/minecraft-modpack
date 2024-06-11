@@ -1,0 +1,13 @@
+name = "BCG+ Compat Pack"
+filename = "BCG+ Compat Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2582a023128a642a06e1e808abe1ff5568af032"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5142163
+project-id = 924777

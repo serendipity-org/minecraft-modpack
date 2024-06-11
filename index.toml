@@ -2174,6 +2174,86 @@ hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
+metafile = true
+
+[[files]]
+file = "mods/axolotl-bucket-fix.pw.toml"
+hash = "da70e08f6ed19b62b544bbf09b64968c161151b149f4f1231073ad2f29697471"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "b5ab061f078e160c2d6b60b43fa4e35860306f1e7bb5e3323dd3689d4f1a24ba"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f4fce67c57b4c42e12e705c25ec3feedb85cef927c2578983e59a59582c81ace"
+metafile = true
+
+[[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "3f3094de80c370f4cdbc1a3ffeaed34c65d1a151ae7b5204ee00ab78fe9f5e8e"
+metafile = true
+
+[[files]]
+file = "mods/bcg-smp-core.pw.toml"
+hash = "370ebf0a50a33481d69a6583357d7df091be8d94a467a39de48cce8a7d4af821"
+metafile = true
+
+[[files]]
+file = "mods/bcg-util.pw.toml"
+hash = "b2be1a4e931c4d081615e63924bb7fa134b8d8329e80fed96f46a03f7891fefd"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
+file = "mods/beautify-refabricated.pw.toml"
+hash = "b64a86a3fa5dd467d1c83f7c094313ad8e6a335a9c73a2c9521c03b5a93d7673"
+metafile = true
+
+[[files]]
+file = "mods/bed-benefits.pw.toml"
+hash = "d51c568f86401ca1c89240459c05b6ab502471c53552e786dc2d3b55abdda396"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "cd9782ab1684fb02954cf440b429b747493f9e3b8e4a954fafbafe908f63a818"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "41ee96627d952d99cd9924365775e2018dba25bf0b457588a1df5e8063b7b275"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "7da0c9deaa53f551129de9ff7ad2d2c28331ab938c8da1f4d22a25330dd1425a"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "a4fade36fea835439b9bd6f3c6d211cf149cb2d345ab2b90fdf5ee9fa90d4b03"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -2181,6 +2261,11 @@ metafile = true
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "d26bbc6eb0cce8d9d4d690492b97210a84d11d80dadc9beb7c5df75f21f32887"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
 
 [[files]]
@@ -2201,6 +2286,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -2244,6 +2334,11 @@ hash = "aa0e25b84b58b6196f5401217273037b69104dde0c9492ad1d875c388844c286"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
@@ -2256,6 +2351,31 @@ metafile = true
 [[files]]
 file = "resourcepacks/arachnophobia.pw.toml"
 hash = "47f1cea7dfdfe4110d2f830e9f5c4bce4ae74b885c36119f3e84e3fa911d38ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bcg-datapack.pw.toml"
+hash = "89a93ab9347e000eed94ec7d460bf546300ce5ca0f1c8f331ded0abc8d471114"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bcg-plus-compat-pack.pw.toml"
+hash = "a55f91d4bd5f836d29bc96636d7139f2cc8b94948deffc58d116f1eace5ad683"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bcg-sound-pack.pw.toml"
+hash = "cabf424d405fc81f23118d962af7d9ceaaec89bc1929a8d017a08c3f2bfac2fb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bcg-x-whimscape-compat-pack.pw.toml"
+hash = "e9f777369e3dba9ef96f46daec39faf98c1766d72761571ec47eb3c6b28512ba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bigchadguys-plus-resource-pack.pw.toml"
+hash = "46dcbc12c0f544cb243b9e62e988decc89c0a7b6811e334e62f993bc6f4b486a"
 metafile = true
 
 [[files]]

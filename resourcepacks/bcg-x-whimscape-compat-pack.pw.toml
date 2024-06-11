@@ -1,0 +1,13 @@
+name = "BCG+ x Whimscape Compat Pack"
+filename = "BCG+ x Whimscape Compat Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3a8bcd90094cb5d332702a693abc0d36fed2a1d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5213989
+project-id = 987429

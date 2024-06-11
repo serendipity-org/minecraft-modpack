@@ -1,0 +1,13 @@
+name = "BCG+ Resource Pack"
+filename = "BCG+ Texture Pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee29c4b77c75a3bdf37cbc1a876649ac9a8fd1d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5386603
+project-id = 923668
