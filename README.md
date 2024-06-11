@@ -10,3 +10,4 @@ fabric = "0.15.11"
 - Global Packs
 - Reese's Sodium Options
 - Simple Voice Chat
+- Your Options Shall Be Respected

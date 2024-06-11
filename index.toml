@@ -2294,6 +2294,11 @@ hash = "29885615b9a13b46a8c0e2da012b0f51f1eeea35d6fcb58d74fe094c959f4400"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
+metafile = true
+
+[[files]]
 file = "mods/carrier.pw.toml"
 hash = "041eee7b33bb7a7f7b6507e26446a051f0592dd2b7b3f8a94dec847801a79567"
 metafile = true
@@ -2731,6 +2736,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "1cf33a67953c1bfb96f37d01ada32591355112f6970daca0edad2f5fa5913be1"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "a0fd071193ac4bfe985100641f46dcdbf328952336b16e6abfc732971cd69af6"
 metafile = true
 
 [[files]]
@@ -3449,13 +3459,88 @@ hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "d974525d8d9c00ec85ceb7bb1da54139d003178a4c3e96c363cd87cad36ac727"
+metafile = true
+
+[[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "01138a074a1097d6177d5d2d09cb9e26f2b46c3bf178e17f8b76971409886dd4"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1b2753e4e9ebd0f334873e99ef80de977958a1dac995cd2057fd3583dc2e2073"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "ab79382da2352224ee41d8ccdb8b207ecd5b3cb1b6e63815297263fb32b54945"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "e3bc66f828bcaf12a7003e37cdaa58d181f18cfeff8adb0fa28814321926ce81"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "cb535a40d631ed67f69d317ffa0d77213ca83b726d2838331c4912a02640039d"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "721c43a84c2d1d89716d0ddf51366b4b79626f20f631d7948ab1a135d0645684"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "9e08e5e0c9a8ba8141d183002efe8a3b8f2162a31b0866e2acbeec27952f7751"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "a86cc764c848a433eea96de9edbd115fc2f5bc334eab15b256e1d8e38199623a"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "d2f6dff140756280cc8cb614db7a1cfca20be8d359e7b82a41067c66acbcf44f"
+metafile = true
+
+[[files]]
+file = "mods/your-reputation.pw.toml"
+hash = "dc5b3fea1ab561e2ac3bc03ab61a4247ced1bc9aeebe795d8b67860b7cf68f69"
 metafile = true
 
 [[files]]
@@ -3516,6 +3601,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "22d9e276d3c7117b1cf8816539f252941cfea68f851ea3516076fefad3caf127"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "7369c0f50de35aa5988bcb1b4f51bb94247b4d15be890b44b254112da1a04d9f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/whimscape.pw.toml"
+hash = "a7300e791aaa7874cac1a76c3d1efc53de81725d3592876a3d18acf41c79da2f"
 metafile = true
 
 [[files]]
