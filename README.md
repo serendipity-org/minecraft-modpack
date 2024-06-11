@@ -9,3 +9,4 @@ fabric = "0.15.11"
 - e4mc
 - Global Packs
 - Reese's Sodium Options
+- Simple Voice Chat

@@ -3249,6 +3249,11 @@ hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
 metafile = true
@@ -3269,8 +3274,48 @@ hash = "03462e595bdf44957bbaf004c0b275a11d19128df3519b52880ce9179e0f3727"
 metafile = true
 
 [[files]]
+file = "mods/savage-ender-dragon.pw.toml"
+hash = "61bdbcc315b3df0f74c8069bdae60aa55e15bc92b7d78a6c0b4c6c2647b096c1"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "36ff5186e697d1eb1dc6a763cc909f92cd73b21f03d1d5340ceafc025a9f626c"
+metafile = true
+
+[[files]]
+file = "mods/selling-bin.pw.toml"
+hash = "28237e0709a19f7d354768d82c16a3b5937c00f685449132dc42b52e3edf9076"
+metafile = true
+
+[[files]]
+file = "mods/server-redirect.pw.toml"
+hash = "384c39776949743e23968839993ff16bcc9f7da9bf0c3e0716cd867d3f82d3eb"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
+metafile = true
+
+[[files]]
+file = "mods/shader-toggle.pw.toml"
+hash = "66839768d218f26b1890aee950ae69658bcdd3a754d5ddad593454410d989918"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "2ae090a0b90983ab9eaad0af9467420ac1b2044b33756d7a87658428e46a5383"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "7434dfd1c4b2c2c96d9555faac9859cb78649fb71ed840094117978c99c815ba"
 metafile = true
 
 [[files]]
@@ -3279,8 +3324,28 @@ hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "6ac147ada4e8a5e6d16e874149a405b176b631063e5e89833d6cb5c036a93e83"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "b8bc887f9e1b8c535d924b9dc4d43025767ceba74b008a20c966358209ed0e65"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/srdp.pw.toml"
+hash = "9fe06abd9e14700599e38d2b3aa6d54100128b04fb4fd2efb139831080d3b851"
 metafile = true
 
 [[files]]
@@ -3356,6 +3421,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/serified-font.pw.toml"
+hash = "4194aafaa4870e84eaa7c76f3b2d4ed44595523fb414f4566ab085fce3fe801c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "22d9e276d3c7117b1cf8816539f252941cfea68f851ea3516076fefad3caf127"
 metafile = true
 
 [[files]]

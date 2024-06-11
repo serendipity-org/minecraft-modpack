@@ -1,0 +1,13 @@
+name = "Selling Bin 📦"
+filename = "selling-bin-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34a64ef758b6f6e6e33384200e5c559ceec10926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5054275
+project-id = 922334
