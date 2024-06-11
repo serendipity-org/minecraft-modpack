@@ -3154,8 +3154,28 @@ hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "5167fe4155561b257e45ca43382ca6f66858d5bf5eefead2ed834854772ef8a9"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "997e81246b3d8ff635679e126481e62ce4a21979659c2ad11b0a46c778f95836"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "ef1f961c71b08f2a948299a9a5156aaf4b1628897838aff10c18458c46dc4350"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "bcab2649d66eaf63afd6cd4cbfed7d3721adfc042b5f942932fe90e65526b556"
 metafile = true
 
 [[files]]
@@ -3169,8 +3189,18 @@ hash = "aa0e25b84b58b6196f5401217273037b69104dde0c9492ad1d875c388844c286"
 metafile = true
 
 [[files]]
+file = "mods/permanent-sponges.pw.toml"
+hash = "e09b65f132e32c1e2008a40e3cb56411f6fb94bb79fcc79c5edb453989394d85"
+metafile = true
+
+[[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "e97d2fee9004604b792592613a1559e0b0547dd4499695d39342075f56f139f3"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "ef84d9a7ee3b67688643b6f9a8d03f6e8211adbf4b0fbe62f4ed5982da29c453"
 metafile = true
 
 [[files]]
@@ -3179,8 +3209,48 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/plushie.pw.toml"
+hash = "3622c864c31498ddfbf1860318907a90bd0d4fd6fea21f221948b507234dc8c1"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "0a0284ef44b16dad0a7b00e728598d673a359a4a04c892501ca3f4ac6fc3720f"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "d57003b9b0f720ea31a1ee4faf958f0448f7bc25f0f3cd410a6efd0d81a47e0a"
+metafile = true
+
+[[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "b3a3bd28c751f602041f895abd4d58d92fd4358f77c9cc83f26f9776637b73fa"
+metafile = true
+
+[[files]]
+file = "mods/redirector.pw.toml"
+hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
 metafile = true
 
 [[files]]

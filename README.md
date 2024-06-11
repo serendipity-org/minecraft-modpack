@@ -8,3 +8,4 @@ fabric = "0.15.11"
 - BisectHosting
 - e4mc
 - Global Packs
+- Reese's Sodium Options
