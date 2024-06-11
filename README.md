@@ -7,4 +7,4 @@ fabric = "0.15.11"
 
 - BisectHosting
 - e4mc
-- 
+- Global Packs
