@@ -2344,8 +2344,103 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+hash = "9c727921a6186a14d61b5fb037f253a658d72591a64cc94f45e1eea2bd1e6291"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "ea8db677ff0708fff6d58e47a8ff1fc70769c79d85c1ba1fadfbca72ecda944c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight.pw.toml"
+hash = "e6dc6258b74e2caa896fdf4a56f16893721806061fc143bc5867be186f5f35ee"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-quests.pw.toml"
+hash = "b29c2675b9c7805c1dc4154a8c2c3a0c586b4355090473c2b2119e345a3773a3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "21502bda501d5d1f5338bc3d0c559098709aaf47ddb6ea94c2d1a2682926d607"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "abc57f063554e33a6bdd8b6aa39980293b1788fe4daea7f4d9cf215383d13145"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "c5f97e84177a5d77449dfb7e777cfd9d6d6a080f154d5db0d302f7d556b4f814"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "257c380c59a16f91166f154acf93ff741c4b21b0d1456ad33cb6d8debb4c0adf"
+metafile = true
+
+[[files]]
+file = "mods/compact-storage.pw.toml"
+hash = "ee247b4d886003734fdeeceb249d849c9bf605dffd65730db3f3488f36579364"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "d26bbc6eb0cce8d9d4d690492b97210a84d11d80dadc9beb7c5df75f21f32887"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "fcf0eba22e87809cb09862669571f0b120348a1ea83c0f72c316fa41634231f2"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/convenient-decor.pw.toml"
+hash = "34ac4696a583f96729c2361d9545bdf9c68b603b45114b716e9d07ec882cc318"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "809ab9c953bf5ca4647570fafbc76bc7f29ada644f9556831c196e26b1822ca3"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
 metafile = true
 
 [[files]]
@@ -2371,6 +2466,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -2414,6 +2514,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "aa0e25b84b58b6196f5401217273037b69104dde0c9492ad1d875c388844c286"
 metafile = true
@@ -2431,6 +2536,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
@@ -2474,11 +2584,16 @@ hash = "46dcbc12c0f544cb243b9e62e988decc89c0a7b6811e334e62f993bc6f4b486a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/cobble-icons.pw.toml"
+hash = "10c7b8b0565d596d4cced71247d6fde283a07ce5dd7ba773ceb5d843bc01474a"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "5975a2513ad3de7d0bc32684d907515d0566d8d312b609df8624f7dbc53442c8"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true

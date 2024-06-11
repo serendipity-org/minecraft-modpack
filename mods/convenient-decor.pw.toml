@@ -1,0 +1,13 @@
+name = "Convenient Decor"
+filename = "convenientdecor-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gMWAhU1n/versions/FNplTKFi/convenientdecor-0.4.1.jar"
+hash-format = "sha1"
+hash = "7c4bf7428f5a5d9d9e54cfc8fd5d8da97aac83e8"
+
+[update]
+[update.modrinth]
+mod-id = "gMWAhU1n"
+version = "FNplTKFi"

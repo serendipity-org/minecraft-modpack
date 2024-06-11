@@ -1,0 +1,13 @@
+name = "Cobblemon icons"
+filename = "Cobblemon icons v1.5-ss1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wj13TXva/versions/UrNdLHnk/Cobblemon%20icons%20v1.5-ss1.zip"
+hash-format = "sha1"
+hash = "1f70e671b33c231bf288fbdce87586e4a55b15fd"
+
+[update]
+[update.modrinth]
+mod-id = "Wj13TXva"
+version = "UrNdLHnk"

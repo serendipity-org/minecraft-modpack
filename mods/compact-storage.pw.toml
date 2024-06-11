@@ -1,0 +1,13 @@
+name = "CompactStorage"
+filename = "compact-storage-1.20.1-fabric-6.0.1.64.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CNYyGWn5/versions/iaFSn2o9/compact-storage-1.20.1-fabric-6.0.1.64.jar"
+hash-format = "sha1"
+hash = "871c1040cf46b5e6a5ed084ed0033afeedb9076a"
+
+[update]
+[update.modrinth]
+mod-id = "CNYyGWn5"
+version = "iaFSn2o9"
