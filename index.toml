@@ -2909,8 +2909,18 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "285213bce90eecfcdb5e890d40c022d33df365802c5f1875c2905bca77595322"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "62231160341ef817abdb470b0178423f0005590201bc9da55f9c83655bac6848"
 metafile = true
 
 [[files]]
@@ -3339,13 +3349,68 @@ hash = "6c622ba7f91c31843cc394e056948a018db6a0e08b20b8dd9fc4182854d27715"
 metafile = true
 
 [[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "686ce7eba9005e8894b0b66eb640b6532d5419c999b95739f7374a6e00732cce"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "7b178c6223946a304ee0b78a14e2c35c865fbaac801b0e897c8491ac1e2b8de9"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
+metafile = true
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "9fe06abd9e14700599e38d2b3aa6d54100128b04fb4fd2efb139831080d3b851"
+metafile = true
+
+[[files]]
+file = "mods/stacc-api.pw.toml"
+hash = "f43bfe5b19aa551bc66c51f84c72e5cc1edd60182e428ea5fa17bdb6ec82ebdb"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "dee610eb7b63f7390a71981f98c722cfbadd92a7641e8bc18de3e1243f29efab"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "34b542ad473b6a70a744b3b6efbada3e9ca9d4033b625cfb0f99d6ef320b32c6"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "389018cbf6ef50e2b68f52253ed6167e9516ee218827bab87d197fec816f4ec5"
+metafile = true
+
+[[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "263bf7a6be51bb4154f866d3ec0e57bb52d4109c9f0d0e0c81d31d55ceb08c61"
 metafile = true
 
 [[files]]
@@ -3359,8 +3424,28 @@ hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "fc2b9e736debce94f84f38197405e0e38c04a48a430c642e37e3f50a9402b5a6"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "f832a98367e3855c99d53f41ba81dd58a467cae8f998b488ae6522675abc2323"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+metafile = true
+
+[[files]]
+file = "mods/things.pw.toml"
+hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
