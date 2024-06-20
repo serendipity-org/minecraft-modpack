@@ -1,0 +1,13 @@
+name = "That's My Bed! - April Fools Mod"
+filename = "thatismybed-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6fFZCSDr/versions/FfRRSzHh/thatismybed-1.0.jar"
+hash-format = "sha1"
+hash = "42882bb42217d51ecea64c6196a79b8c35fb3f4c"
+
+[update]
+[update.modrinth]
+mod-id = "6fFZCSDr"
+version = "FfRRSzHh"

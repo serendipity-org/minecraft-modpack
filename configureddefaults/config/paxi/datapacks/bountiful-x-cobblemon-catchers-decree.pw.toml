@@ -1,0 +1,13 @@
+name = "Bountiful x Cobblemon - Catcher's Decree"
+filename = "bountimon-1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xWMLMlN8/versions/3VgsVNuf/bountimon-1.0.0.zip"
+hash-format = "sha1"
+hash = "c6a3615bf0106a52bba9483552f6815689cd6bb7"
+
+[update]
+[update.modrinth]
+mod-id = "xWMLMlN8"
+version = "3VgsVNuf"
