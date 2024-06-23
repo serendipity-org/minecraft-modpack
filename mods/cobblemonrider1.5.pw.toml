@@ -1,0 +1,13 @@
+name = "CobblemonRider"
+filename = "cobblemonridingfabric-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZLu8WiYO/versions/pmraxWhl/cobblemonridingfabric-1.2.4.jar"
+hash-format = "sha1"
+hash = "214a2ffabaf4f7aac434471614989453b5fb066c"
+
+[update]
+[update.modrinth]
+mod-id = "ZLu8WiYO"
+version = "pmraxWhl"
