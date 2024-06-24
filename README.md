@@ -9,3 +9,5 @@ fabric = "0.15.11"
 - set up minimap icons
 - add Discord status
 - Check mod updates manually
+- Add Repurposed Structures compat addons
+- Check ores spawning (universal ores and dawn api)

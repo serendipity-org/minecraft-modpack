@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "configureddefaults/config/DistantHorizons.toml"
-hash = "c5aec7385dd8deb8131ffcefbb025ee093e800bfbf6b73fa234679d34cd1776a"
+hash = "45f9afaca6871bc981408e2a32625fe880dbf574b8b221356da374e288841d4f"
 
 [[files]]
 file = "configureddefaults/config/FoodEffectTooltips.json5"
@@ -121,6 +121,10 @@ file = "configureddefaults/config/friendsandfoes.json"
 hash = "4b98288f2b06c241151325bbb48960d3404b9ddae2c741049ba39ab0e8a8f5e5"
 
 [[files]]
+file = "configureddefaults/config/fwaystones/config.json5"
+hash = "fe74b765dd8923f0b244e6a73dff12b91fa3a09d9b84f59efc33bfa869159082"
+
+[[files]]
 file = "configureddefaults/config/guardvillagers-common.toml"
 hash = "d6eab0ebd6ee13a263402d8e395168f95db344990e0e6862b93a97775d0313c8"
 
@@ -179,10 +183,6 @@ hash = "24baeee3719117d4ebfce9dccc33b0e1e49d72fe0785d1982c86cfac0312007c"
 [[files]]
 file = "configureddefaults/config/paraglider-server.toml"
 hash = "d3321f4a091d5c406c2165a16f65b721801e6d6230d10fc2117028803725d97c"
-
-[[files]]
-file = "configureddefaults/config/paxi/datapacks/CobbleTowns v1.0.2.zip"
-hash = "210211a974f5bd3d8eb7fc7c5bd8aab0c47a7da13d25e468ff2bbdf805f4b51e"
 
 [[files]]
 file = "configureddefaults/config/paxi/datapacks/TOTW-Modded-FWaystones-Compat-1.0.1.zip"
@@ -499,6 +499,11 @@ hash = "4f32b69e3a9e7f49c3b2150fa3fe2d4a4e6bfca1942d03c3317c1e8079c52406"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-wiki-gui.pw.toml"
+hash = "018cdb198a0c81d98469c25d12e6f578c0b2fbb925ce1fb399b160e0ae03ce2e"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "abc57f063554e33a6bdd8b6aa39980293b1788fe4daea7f4d9cf215383d13145"
 metafile = true
@@ -579,31 +584,6 @@ hash = "9a4d1f42d2798dac502f7adcbee9b6691d7e79c50d91b23af11923893a686b8b"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "fdaf9a15414ff330b44b60b8ad02b1a400bc0ad552ca722c4820b27c2947867c"
-metafile = true
-
-[[files]]
-file = "mods/ctov-beautify-compat.pw.toml"
-hash = "a1c94db18b2c206b3573e5614109ce23409ce2e667d6671dcaf82bef54124eed"
-metafile = true
-
-[[files]]
-file = "mods/ctov-chefs-delight-compat.pw.toml"
-hash = "82b3bb88bd350fe7537af8dd3900f37d41301d640dc2e6860dd6d36cf86dcd9b"
-metafile = true
-
-[[files]]
-file = "mods/ctov-farmers-delight-compat.pw.toml"
-hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
-metafile = true
-
-[[files]]
-file = "mods/ctov-friends-and-foes-compat.pw.toml"
-hash = "d32052d1510b96b5138e158f01bd5e6fcecd42ebce1af34b11aa211965800f98"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "5cbed14fa75080964a03a2a723595baf26237eecd396ba47177efd8496d1dcd2"
 metafile = true
@@ -624,6 +604,11 @@ hash = "1d23aa5ca75db1d13b206e7cb9f6205739662eba90cbafb6de78cd566bec72a6"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -641,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "f7c1de8660dd549c1c66e6105f75d4c336c0e700da5080cde2dd5b877c38bdd5"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
 metafile = true
 
 [[files]]
@@ -781,6 +771,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-xmod-compat.pw.toml"
 hash = "1cf33a67953c1bfb96f37d01ada32591355112f6970daca0edad2f5fa5913be1"
+metafile = true
+
+[[files]]
+file = "mods/fullers-pokecenters.pw.toml"
+hash = "782ae9619adbdb5b67af62443f56549b0839407e81668ef56406b8a0bc0c2edd"
 metafile = true
 
 [[files]]
@@ -1154,6 +1149,11 @@ hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "afc67b2e24da761efb6c7dcbc1ff7fa9efebd61118d065e75e20005138936188"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
 metafile = true
@@ -1199,6 +1199,11 @@ hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys-fabric.pw.toml"
+hash = "28de8ad7587c7f3a35d6cbf08eea51d3788c11a87960c4240cd25e6570622b00"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "33db34195fc69f6d74e70656aed56b6f864f4b19230b0144c1bfbd021b433520"
 metafile = true
@@ -1211,6 +1216,11 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "1ca961e2a37078ef6fce85c9673efbc8bc6cd545aa01e204eff9c0bcab3799f1"
+metafile = true
+
+[[files]]
+file = "mods/sructurized-reborn.pw.toml"
+hash = "b1ecbead30a44bd31d0da757b6d07ee28c41e44e38afea06bd67500a09613d37"
 metafile = true
 
 [[files]]
@@ -1231,11 +1241,6 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
-metafile = true
-
-[[files]]
-file = "mods/terralith-structures-suppressor.pw.toml"
-hash = "f2c34923e458776d0360cb6c8b8e2a8d1d88587fee2b7a145d33276912c5ab93"
 metafile = true
 
 [[files]]
@@ -1284,8 +1289,9 @@ hash = "4371feacbfd7b741fdd3616f8cd7845e8cb2a0773ec96ac20cc7a5b2f688000f"
 metafile = true
 
 [[files]]
-file = "mods/village_nullifier-2.0.0.jar"
-hash = "9706bf30a84aef4d7ddbe2e61ad04d047ecd204963be4ffc20c2646e2da3bf29"
+file = "mods/universal_ores.pw.toml"
+hash = "a31a9db89b6b0a610ae4b78edcf0f20527e6bde59bf47814d0d817be7c9a9dd6"
+metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
