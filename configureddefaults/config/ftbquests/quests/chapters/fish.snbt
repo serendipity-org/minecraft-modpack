@@ -164,16 +164,23 @@
 		{
 			dependencies: ["38E71CFE9C5863E8"]
 			id: "01C79D646AD57738"
-			rewards: [{
-				attribute: "minecraft:generic.luck"
-				icon: "ftbquests:book"
-				id: "433035857A78AE18"
-				name: "Quest Reward"
-				operation: "add"
-				title: "&a+0.25 Luck"
-				type: "bcgutil:attribute"
-				value: 0.25d
-			}]
+			rewards: [
+				{
+					attribute: "minecraft:generic.luck"
+					icon: "ftbquests:book"
+					id: "433035857A78AE18"
+					name: "Quest Reward"
+					operation: "add"
+					title: "&a+0.25 Luck"
+					type: "bcgutil:attribute"
+					value: 0.25d
+				}
+				{
+					id: "55460CFA602D1BD5"
+					item: "gofish:wooden_crate"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					Count: 1
@@ -194,16 +201,24 @@
 		{
 			dependencies: ["01C79D646AD57738"]
 			id: "51934C1A990E9C6E"
-			rewards: [{
-				attribute: "minecraft:generic.luck"
-				icon: "ftbquests:book"
-				id: "1235695D7BC36D6A"
-				name: "Quest Reward"
-				operation: "add"
-				title: "&a+0.5 Luck"
-				type: "bcgutil:attribute"
-				value: 0.5d
-			}]
+			rewards: [
+				{
+					attribute: "minecraft:generic.luck"
+					icon: "ftbquests:book"
+					id: "1235695D7BC36D6A"
+					name: "Quest Reward"
+					operation: "add"
+					title: "&a+0.5 Luck"
+					type: "bcgutil:attribute"
+					value: 0.5d
+				}
+				{
+					count: 2
+					id: "7DAA5F7AB6BC4082"
+					item: "gofish:wooden_crate"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					Count: 1
@@ -224,16 +239,23 @@
 		{
 			dependencies: ["51934C1A990E9C6E"]
 			id: "29D1EFBBCC23C7B1"
-			rewards: [{
-				attribute: "minecraft:generic.luck"
-				icon: "ftbquests:book"
-				id: "7A199FF708C5FE8F"
-				name: "Quest Reward"
-				operation: "add"
-				title: "&a+0.75 Luck"
-				type: "bcgutil:attribute"
-				value: 0.75d
-			}]
+			rewards: [
+				{
+					attribute: "minecraft:generic.luck"
+					icon: "ftbquests:book"
+					id: "7A199FF708C5FE8F"
+					name: "Quest Reward"
+					operation: "add"
+					title: "&a+0.75 Luck"
+					type: "bcgutil:attribute"
+					value: 0.75d
+				}
+				{
+					id: "127BE181EF6357C8"
+					item: "gofish:iron_crate"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					Count: 1
@@ -508,27 +530,34 @@
 				}
 			}
 			id: "24529603A87FD12E"
-			rewards: [{
-				id: "57733C3DC840EFE0"
-				item: {
-					Count: 1
-					id: "minecraft:fishing_rod"
-					tag: {
-						Damage: 0
-						Enchantments: [
-							{
-								id: "lure"
-								lvl: 2
-							}
-							{
-								id: "luck_of_the_sea"
-								lvl: 2
-							}
-						]
+			rewards: [
+				{
+					id: "57733C3DC840EFE0"
+					item: {
+						Count: 1
+						id: "minecraft:fishing_rod"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "lure"
+									lvl: 2
+								}
+								{
+									id: "luck_of_the_sea"
+									lvl: 2
+								}
+							]
+						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "6AA9A7F0B4863FB4"
+					item: "artifacts:anglers_hat"
+					type: "item"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				id: "69930D267460F3E4"
@@ -689,16 +718,24 @@
 		{
 			dependencies: ["29D1EFBBCC23C7B1"]
 			id: "02F68B21145F144B"
-			rewards: [{
-				attribute: "minecraft:generic.luck"
-				icon: "ftbquests:book"
-				id: "10B462A589297B10"
-				name: "Quest Reward"
-				operation: "add"
-				title: "&a+0.75 Luck"
-				type: "bcgutil:attribute"
-				value: 0.75d
-			}]
+			rewards: [
+				{
+					attribute: "minecraft:generic.luck"
+					icon: "ftbquests:book"
+					id: "10B462A589297B10"
+					name: "Quest Reward"
+					operation: "add"
+					title: "&a+0.75 Luck"
+					type: "bcgutil:attribute"
+					value: 0.75d
+				}
+				{
+					count: 2
+					id: "191DC6C0DCC34DA0"
+					item: "gofish:iron_crate"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					Count: 1
@@ -719,16 +756,23 @@
 		{
 			dependencies: ["02F68B21145F144B"]
 			id: "1A727D5BE542BCA2"
-			rewards: [{
-				attribute: "minecraft:generic.luck"
-				icon: "ftbquests:book"
-				id: "45FBDBAE4F506FA3"
-				name: "Quest Reward"
-				operation: "add"
-				title: "&a+1 Luck"
-				type: "bcgutil:attribute"
-				value: 1.0d
-			}]
+			rewards: [
+				{
+					attribute: "minecraft:generic.luck"
+					icon: "ftbquests:book"
+					id: "45FBDBAE4F506FA3"
+					name: "Quest Reward"
+					operation: "add"
+					title: "&a+1 Luck"
+					type: "bcgutil:attribute"
+					value: 1.0d
+				}
+				{
+					id: "340C4BA149B1B241"
+					item: "gofish:diamond_crate"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					Count: 1
@@ -749,16 +793,24 @@
 		{
 			dependencies: ["1A727D5BE542BCA2"]
 			id: "774CFC831D5A839F"
-			rewards: [{
-				attribute: "minecraft:generic.luck"
-				icon: "ftbquests:book"
-				id: "677E9342361BE7E8"
-				name: "Quest Reward"
-				operation: "add"
-				title: "&a+1.5 Luck"
-				type: "bcgutil:attribute"
-				value: 1.5d
-			}]
+			rewards: [
+				{
+					attribute: "minecraft:generic.luck"
+					icon: "ftbquests:book"
+					id: "677E9342361BE7E8"
+					name: "Quest Reward"
+					operation: "add"
+					title: "&a+1.5 Luck"
+					type: "bcgutil:attribute"
+					value: 1.5d
+				}
+				{
+					count: 2
+					id: "2DA994CD18474F5E"
+					item: "gofish:diamond_crate"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					Count: 1
@@ -779,16 +831,42 @@
 		{
 			dependencies: ["774CFC831D5A839F"]
 			id: "26DA4BA7E4564F72"
-			rewards: [{
-				attribute: "minecraft:generic.luck"
-				icon: "ftbquests:book"
-				id: "5BB514A7D5146FC9"
-				name: "Quest Reward"
-				operation: "add"
-				title: "&a+2.5 Luck"
-				type: "bcgutil:attribute"
-				value: 2.5d
-			}]
+			rewards: [
+				{
+					attribute: "minecraft:generic.luck"
+					icon: "ftbquests:book"
+					id: "5BB514A7D5146FC9"
+					name: "Quest Reward"
+					operation: "add"
+					title: "&a+2.5 Luck"
+					type: "bcgutil:attribute"
+					value: 2.5d
+				}
+				{
+					count: 8
+					id: "247987FC9BAC8934"
+					item: "gofish:diamond_crate"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4E5CF747AFED2B0D"
+					item: "gofish:gilded_blackstone_crate"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "7CAAB2036106365B"
+					item: "gofish:astral_crate"
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4B464EE7912B8C9B"
+					item: "gofish:end_crate"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					Count: 1

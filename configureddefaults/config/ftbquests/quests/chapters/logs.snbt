@@ -2339,7 +2339,6 @@
 						value: "minecraft:logs"
 					}
 				}
-				optional_task: true
 				title: "Any Logs"
 				type: "item"
 			}]

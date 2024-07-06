@@ -509,11 +509,6 @@
     "sellPrice": 1,
     "sellAmount": 6
   },
-  "gofish:baked_carrot_carp": {
-    "currency": "minecraft:emerald",
-    "sellPrice": 1,
-    "sellAmount": 5
-  },
   "gofish:oakfish": {
     "currency": "minecraft:emerald",
     "sellPrice": 1,
@@ -568,11 +563,6 @@
     "currency": "minecraft:emerald",
     "sellPrice": 1,
     "sellAmount": 8
-  },
-  "gofish:baked_endfish": {
-    "currency": "minecraft:emerald",
-    "sellPrice": 1,
-    "sellAmount": 6
   },
   "gofish:endfish_and_chorus": {
     "currency": "minecraft:emerald",

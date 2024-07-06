@@ -7,6 +7,24 @@
 	group: "4D605963C9950CD2"
 	icon: "gofish:wooden_crate"
 	id: "3F4A3BE14A491B6F"
+	images: [
+		{
+			height: 1.0d
+			image: "farmersdelight:item/salmon_roll"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:item/grilled_salmon"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 1.0d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [

@@ -47,13 +47,13 @@
 	[renderers.gui_renderer]
 		#Screen side to render status effects on.
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "RIGHT"
+		screen_side = "LEFT"
 		#Maximum amount of status effects rendered in a single column.
 		#Range: 1 ~ 255
 		max_rows = 255
 		#Custom scale for effect renderer.
 		#Range: 1.0 ~ 12.0
-		scale = 4.0
+		scale = 3.0
 		#Alpha value for effect widgets.
 		#Range: 0.0 ~ 1.0
 		widget_alpha = 0.85
@@ -85,7 +85,7 @@
 [widgets]
 	[widgets.gui_compact]
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
-		quality_border = false
+		quality_border = true
 		#Should ambient effect widgets have a cyan colored border.
 		ambient_border = true
 		#Should the effect icon start to blink when the effect is running out.

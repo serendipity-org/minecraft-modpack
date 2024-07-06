@@ -29,10 +29,6 @@ file = "configureddefaults/config/SeasonHUD-client.toml"
 hash = "618f489627aa180108d20253b09cc7eea27456b1e38ac8b269b28b73cd1615a7"
 
 [[files]]
-file = "configureddefaults/config/almostunified/almostunified.zip"
-hash = "708c1f1467b39bd034a864f29b0db66c139e203e04d9c028ab7e276a455bf8c8"
-
-[[files]]
 file = "configureddefaults/config/almostunified/debug.json"
 hash = "5931792fa992d5422f072468783cc24bfead3690bb1a6f2db7bcb94fcc9c8f43"
 
@@ -1194,8 +1190,23 @@ hash = "89a93ab9347e000eed94ec7d460bf546300ce5ca0f1c8f331ded0abc8d471114"
 metafile = true
 
 [[files]]
+file = "configureddefaults/config/paxi/datapacks/missingmons-cobblemon.pw.toml"
+hash = "e17853dc6fd3bb1d03ca72b83cbd6034f8135681220fc3d29e3eb2d4c5899e13"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/mysticmons.pw.toml"
+hash = "6b44e77c49bd531dde1a7def92eaf28e7720862611aff7e69408d83a2b082d83"
+metafile = true
+
+[[files]]
 file = "configureddefaults/config/paxi/datapacks/shinier-shinies.pw.toml"
 hash = "9475d0eafce0ae95db4a3e8152d160b30f839526bc2d68bb4c14df1378c82397"
+metafile = true
+
+[[files]]
+file = "configureddefaults/config/paxi/datapacks/vivillon-pride-patterns.pw.toml"
+hash = "fde6c46522b1d5326be7acd7e9e8febc3a2093153b737f9cf64e7085ff966eea"
 metafile = true
 
 [[files]]
@@ -2239,11 +2250,6 @@ hash = "a260a1dde338918568cbbc8bca0d771005db10a0f6bd142e76185550c59b2160"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "a4fade36fea835439b9bd6f3c6d211cf149cb2d345ab2b90fdf5ee9fa90d4b03"
 metafile = true
@@ -2286,6 +2292,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
 metafile = true
 
 [[files]]
@@ -2574,6 +2585,11 @@ hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
 
 [[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "0b554fec8eda596e16bc113e202f057a1faf068e8fe06f6e8b9ff0770624f84f"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
 metafile = true
@@ -2716,6 +2732,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
@@ -3124,6 +3145,11 @@ hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "55524857d0b413728ccf75606270d5aa13fe6ae6d6c51a368a76b3b6d6100fb9"
+metafile = true
+
+[[files]]
 file = "mods/runelic.pw.toml"
 hash = "03462e595bdf44957bbaf004c0b275a11d19128df3519b52880ce9179e0f3727"
 metafile = true
@@ -3299,11 +3325,6 @@ hash = "e3bc66f828bcaf12a7003e37cdaa58d181f18cfeff8adb0fa28814321926ce81"
 metafile = true
 
 [[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
-metafile = true
-
-[[files]]
 file = "mods/vanity.pw.toml"
 hash = "721c43a84c2d1d89716d0ddf51366b4b79626f20f631d7948ab1a135d0645684"
 metafile = true
@@ -3321,6 +3342,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
@@ -3411,6 +3437,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/moremons.pw.toml"
+hash = "e51e54db0c6b711a869f8313ae40e98de5c0657b3052942e9e5e2f5658611712"
 metafile = true
 
 [[files]]

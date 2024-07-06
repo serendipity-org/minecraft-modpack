@@ -60,9 +60,8 @@
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": false,
     "cloud_height": 192,
-    "cloud_distance": 100,
     "toasts": true,
-    "advancement_toast": true,
+    "advancement_toast": false,
     "recipe_toast": true,
     "system_toast": true,
     "tutorial_toast": false,
@@ -70,6 +69,9 @@
     "prevent_shaders": false,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
+  },
+  "notification_settings": {
+    "hide_r_s_o_recommendation": false
   },
   "super_secret_settings": {
     "fetch_sodium_extra_crowdin_translations": false,

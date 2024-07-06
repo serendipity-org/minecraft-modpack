@@ -1289,7 +1289,7 @@
 			id: "2C67B725F3C8BDE1"
 			rewards: [{
 				id: "31F05602D076B9C8"
-				item: "croptopia:wine"
+				item: "herbalbrews:feral_flask_big"
 				type: "item"
 			}]
 			size: 1.5d

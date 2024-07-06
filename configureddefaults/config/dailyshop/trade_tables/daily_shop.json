@@ -1,32 +1,52 @@
 {
   "roll": {
     "type": "constant",
-    "count": 14
+    "count": 28
   },
   "pool": [
     {
-      "value": "saplings",
+      "value": "one",
       "weight": 1.0
     },
     {
-      "value": "seeds",
+      "value": "two",
       "weight": 1.0
     },
     {
-      "value": "night_lights",
-      "weight": 0.2
+      "value": "three",
+      "weight": 1.0
     },
     {
-      "value": "plushies",
-      "weight": 0.4
+      "value": "four",
+      "weight": 1.0
     },
     {
-      "value": "snowyspirit",
-      "weight": 0.2
+      "value": "five",
+      "weight": 1.0
+    },
+    {
+      "value": "six",
+      "weight": 1.0
+    },
+    {
+      "value": "seven",
+      "weight": 1.0
+    },
+    {
+      "value": "eight",
+      "weight": 1.0
+    },
+    {
+      "value": "nine",
+      "weight": 1.0
+    },
+    {
+      "value": "ten",
+      "weight": 1.0
     },
     {
       "value": "spawn_eggs",
-      "weight": 0.2
+      "weight": 1.0
     }
   ]
 }

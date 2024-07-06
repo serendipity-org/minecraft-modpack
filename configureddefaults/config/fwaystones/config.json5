@@ -23,7 +23,7 @@
 	"can_owners_redeem_payments": false,
 	"waystone_block_hardness": 4.0,
 	"waystone_block_required_mining_level": 1,
-	"permission_level_for_breaking_waystones": "ANYONE",
+	"permission_level_for_breaking_waystones": "OWNER",
 	"global_mode_toggle_permission_levels": "OWNER",
 	"teleportation_cooldown": {
 		"cooldown_ticks_when_hurt": 0,

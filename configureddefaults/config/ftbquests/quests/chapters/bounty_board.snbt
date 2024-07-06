@@ -7,6 +7,24 @@
 	group: "6AADDB3375EC323E"
 	icon: "minecraft:zombie_spawn_egg"
 	id: "662444BD279F269D"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:item/zombie_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/skeleton_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: -1.0d
+		}
+	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
