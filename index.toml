@@ -668,11 +668,6 @@ hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "01c94894fc8ce4a564c7ad0a74d71d4b75d8cc5ad85e921cfc71c013d52adeca"
-metafile = true
-
-[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
@@ -1000,6 +995,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
@@ -1680,16 +1680,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "ebd23a050bf06f1c787817041bc9e5a0b3a23a40283fb4da5842413e678b54db"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "8a4222b59dfb42a53b9d82e78fc2960a03bd89a9e21cbf40bb0c3a28a8d347c3"
 metafile = true
 
 [[files]]
