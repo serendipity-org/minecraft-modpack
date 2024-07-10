@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Sawmill Compat"
+filename = "Repurposed_Structures-Sawmill_v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F2W9IGLQ/versions/3m1UJYjK/Repurposed_Structures-Sawmill_v2.zip"
+hash-format = "sha1"
+hash = "82bddf4e6602553320952873d397021ca272ce44"
+
+[update]
+[update.modrinth]
+mod-id = "F2W9IGLQ"
+version = "3m1UJYjK"

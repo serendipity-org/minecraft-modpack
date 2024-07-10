@@ -1,0 +1,13 @@
+name = "WATERFrAMES"
+filename = "waterframes-1.20.1-2.0.10-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/OMrBYSYZ/waterframes-1.20.1-2.0.10-beta.1.jar"
+hash-format = "sha1"
+hash = "526456f242bd4750bd59bca37ff5c64c50b1efa1"
+
+[update]
+[update.modrinth]
+mod-id = "eBzFuVTM"
+version = "OMrBYSYZ"

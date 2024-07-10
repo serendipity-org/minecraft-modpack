@@ -1,0 +1,13 @@
+name = "No More Ruined Portals"
+filename = "no-more-ruined-portals-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vf9nOP5y/versions/Yol3ZUmj/no-more-ruined-portals-1.0.0.jar"
+hash-format = "sha1"
+hash = "21572c9ac139a4426342a510067b92f3f2ff1c55"
+
+[update]
+[update.modrinth]
+mod-id = "Vf9nOP5y"
+version = "Yol3ZUmj"

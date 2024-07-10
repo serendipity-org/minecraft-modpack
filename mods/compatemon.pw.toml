@@ -1,13 +1,13 @@
 name = "Compatemon"
-filename = "compatemon-forge-1.0.1.jar"
+filename = "compatemon-fabric-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Yje0iO7W/versions/gUeY6GbC/compatemon-forge-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/Yje0iO7W/versions/xLhWG2Gb/compatemon-fabric-1.0.1.jar"
 hash-format = "sha1"
-hash = "ebe9406d4de810288868689aa2cd621e41723c16"
+hash = "99e3e6887edb7aec5641ce94b84791dee9a512ad"
 
 [update]
 [update.modrinth]
 mod-id = "Yje0iO7W"
-version = "gUeY6GbC"
+version = "xLhWG2Gb"

@@ -36,8 +36,8 @@ simulationDistance:5
 entityDistanceScaling:0.75
 guiScale:3
 particles:1
-maxFps:260
-graphicsMode:1
+maxFps:250
+graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
@@ -77,12 +77,13 @@ skipRealms32bitWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
-syncChunkWrites:true
+syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
+tutorialStep:none
 onboardAccessibility:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right

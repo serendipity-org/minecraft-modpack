@@ -1,0 +1,13 @@
+name = "Cobblemon Field Moves"
+filename = "cobblemon-field-moves-1.5-fabric-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gRy0el9F/versions/MH9mNSo6/cobblemon-field-moves-1.5-fabric-1.0.1.jar"
+hash-format = "sha1"
+hash = "83cd7165431966fcfb8b44190a2000505bd597e4"
+
+[update]
+[update.modrinth]
+mod-id = "gRy0el9F"
+version = "MH9mNSo6"

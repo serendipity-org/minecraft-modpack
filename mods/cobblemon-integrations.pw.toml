@@ -3,11 +3,11 @@ filename = "cobblemonintegrations-1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/QuCvAukE/cobblemonintegrations-1.20.1-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/Baa8EEcI/cobblemonintegrations-1.20.1-1.0.5.jar"
 hash-format = "sha1"
-hash = "cd5fb16af0e21d6e23d6175d4b5cf3fe32d64b55"
+hash = "04606336db20490b5da8073d0fd4ac30ebdb8ad9"
 
 [update]
 [update.modrinth]
 mod-id = "NPCfuUI4"
-version = "QuCvAukE"
+version = "Baa8EEcI"

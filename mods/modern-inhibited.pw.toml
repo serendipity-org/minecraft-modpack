@@ -1,13 +1,13 @@
 name = "Modern Inhibited"
-filename = "moderninhibited-1.20.1-1.1.0.jar"
+filename = "moderninhibited-fabric-1.20.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oyvpD8uE/versions/kTyUCq9V/moderninhibited-1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/oyvpD8uE/versions/kBNTNzHJ/moderninhibited-fabric-1.20.1-1.1.1.jar"
 hash-format = "sha1"
-hash = "9e69965ee01fe1b6c4fd6c2ab07c04b46b0b541c"
+hash = "ffcf6ff147b2ce5f3e73f2064fa34477e5a44698"
 
 [update]
 [update.modrinth]
 mod-id = "oyvpD8uE"
-version = "kTyUCq9V"
+version = "kBNTNzHJ"
