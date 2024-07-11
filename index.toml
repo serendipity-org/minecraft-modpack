@@ -2787,11 +2787,6 @@ hash = "d24bd05367fb73abe1e50347adc64ebe360b8f19019f37aeb991b9b722fe95a1"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon.pw.toml"
-hash = "4f0d089482035abf3726e8776f1571387d1850d215e7a7194130b297581051fc"
-metafile = true
-
-[[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "248ba12b8f5b66459f8ec1284388a86fb47eed0c1a96a360de8ce649aa3f6390"
 metafile = true
@@ -2869,11 +2864,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "519a59d9d667e65571ead91d1f971fadab6a618df98a544bab9eeb426c9cb98c"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "21f05c1471b1aac69a2fc5ede07344d0fc4ea5ac15d7dfa9850814562f937142"
 metafile = true
 
 [[files]]
@@ -3422,11 +3412,6 @@ hash = "b6fae935d6d993df29db5687bf2a0d6c65838ad9771e0496792c4f4631feee22"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-fabric.pw.toml"
-hash = "6fbcbd33edab029f2bdab8c4086d8eaefc1898d3e6f3ede884f890e4f17e93b0"
-metafile = true
-
-[[files]]
 file = "mods/srdp.pw.toml"
 hash = "9fe06abd9e14700599e38d2b3aa6d54100128b04fb4fd2efb139831080d3b851"
 metafile = true
@@ -3529,11 +3514,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "a0de07d074c2f5d0e72f70a7b066f4d5aa2748179f05ddca2189376651c29464"
-metafile = true
-
-[[files]]
-file = "mods/treechop.pw.toml"
-hash = "27e7e48b7af508ecf27f389f37c6ab60e72a947f476d5e427927a6de70442de2"
 metafile = true
 
 [[files]]
