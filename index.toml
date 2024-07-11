@@ -666,7 +666,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customizablemenus.txt"
-hash = "88b9e2b09781daaebca7baa755d1abf5d8ebe16c62f3ec8895e96138a787100e"
+hash = "fb6e5e48c4e69c82e29260eab5c03963f4e5fe2398a99129b722342f25f37f82"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/chat.txt"
@@ -678,7 +678,7 @@ hash = "f0a1b4c0cb2e12b7a582a8caa9f604e4075cc95eace9ab834d39c38c043437e4"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/game_menu.txt"
-hash = "36ca2ee5cb659b554daa4c8fb4ed24cd9752830c73613ca5ee00759c19cb4051"
+hash = "432bb29e2962d0d2b9bc097b935186b69ae3e90523ddf305f81625458030d3c6"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/lan.txt"
@@ -686,11 +686,11 @@ hash = "a03264890a565914ed60214efd85a3394b1e56e8700487ae0534c1e28107efb0"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/main_menu.txt"
-hash = "c32f94d2410c5601f6e8b4005b38f0916a5e879c7e95f1a11753e3c12852d881"
+hash = "f62308ec42d4b991a255c3e28e97aaaf0ae98d035e60689a0e44755f48c7cbd4"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/menusettings.txt"
-hash = "09d1909e4fdb8eaeebaff0fbd2c051bef1c0625f331aba22c743630bc561acf1"
+hash = "f81cf77b2aa616c592a8907e196444dc466eae34197d22c689ee4fe49d37dc90"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/resourcepack.txt"
@@ -702,7 +702,7 @@ hash = "273ba0d1b9d39c9565321b4e0887d74650abd1ed71a91cca8431cc685439788b"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/splash_screen.txt"
-hash = "d36a1669be3e80f91e8b23d412c4b33772e61f25851791392300691f57ad8444"
+hash = "ecd3439cacc9c78d6164e856ca7c55c982f1605ff6b500e134265b7f9690a700"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/trade.txt"
@@ -1873,7 +1873,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6c483e8e94d759e8ba17d339f19b36d745ca6396418c7d96619fa951491ab5f1"
+hash = "843e780dda3f4b7fa895dbe2ed549cfce7d76de22b9017c89905ab797a2a6a43"
 metafile = true
 
 [[files]]
@@ -1913,7 +1913,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
 
 [[files]]
@@ -2258,7 +2258,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cobblemon-industrialized.pw.toml"
-hash = "7587d7f26eddbc87bc4d6c4fd1afb79537aa7c1f71b6b2993cd75edaae97dbfc"
+hash = "13342a210e26144040b9888384f28031bb9fcf65386075b0b0ea25188f3af95b"
 metafile = true
 
 [[files]]
@@ -2283,7 +2283,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "01c94894fc8ce4a564c7ad0a74d71d4b75d8cc5ad85e921cfc71c013d52adeca"
+hash = "bbbc1c9f1f40a89cbc3b017eba4694471b8eef5cdcb046dfc6676e5d60881bd0"
 metafile = true
 
 [[files]]
@@ -2448,7 +2448,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b00063ae4ce84453b6cb813c7aa3fee8083a1dd8d5110325409ea10e75e6c89f"
+hash = "a685dc41c1361b3bf5b77533826a1216534e1c689fee371c002e9e9fcccdf712"
 metafile = true
 
 [[files]]
@@ -3588,7 +3588,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "84e557ae75cc1783ef59d3671787cc5c81665f163fbb3ec3f5d28de214dc7faa"
+hash = "856dbd7c6e0755dbb4c7e60d509c40ae2264f13b19b52dd0c0246f595940cd6a"
 metafile = true
 
 [[files]]
