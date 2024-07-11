@@ -1,0 +1,13 @@
+name = "WATERMeDIA"
+filename = "watermedia-2.0.66.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G922NeHS/versions/W5lpLAKi/watermedia-2.0.66.jar"
+hash-format = "sha1"
+hash = "6ce4db0341890677ed024b3a976a0ca7fce59092"
+
+[update]
+[update.modrinth]
+mod-id = "G922NeHS"
+version = "W5lpLAKi"

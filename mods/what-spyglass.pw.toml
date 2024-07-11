@@ -1,0 +1,13 @@
+name = "WHAT (Spyglass meme)"
+filename = "what-spyglass-0.92.0+1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df99496d37adbe8dea2957108f33cbec86bc1f02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5149549
+project-id = 874295

@@ -36,10 +36,10 @@
     "block_states": false,
     "lectern": true,
     "entity_armor": true,
-    "harvest_tool.creative": false,
+    "harvest_tool.creative": true,
     "horse_stats": true,
     "item_tooltip": true,
-    "entity_health": true,
+    "entity_health": false,
     "enchantment_power": true,
     "zombie_villager": true,
     "villager_profession": true,
@@ -50,11 +50,8 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "exposure": {
-    "lightroom": true
-  },
-  "supplementaries": {
-    "hat_stand": true
+  "jadeaddons": {
+    "equipment_requirement": ""
   },
   "jade": {
     "coordinates.rel": false,
@@ -62,11 +59,6 @@
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "mod_name": false
-  },
-  "beautify": {
-    "lamp_jar.glowstone_dust": true,
-    "trellis.pot_plant": true,
-    "hanging_pot.pot_flower": true
+    "mod_name": true
   }
 }

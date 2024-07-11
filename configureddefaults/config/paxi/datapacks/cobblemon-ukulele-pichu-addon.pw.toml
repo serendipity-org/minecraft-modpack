@@ -1,0 +1,13 @@
+name = "Cobblemon - Ukulele Pichu Addon"
+filename = "Ukulele Pichu.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QCHzO3Xb/versions/wMP4KSyr/Ukulele%20Pichu.zip"
+hash-format = "sha1"
+hash = "bed7b9694de157670c9dde4c6db7b9cf3ae77a7f"
+
+[update]
+[update.modrinth]
+mod-id = "QCHzO3Xb"
+version = "wMP4KSyr"

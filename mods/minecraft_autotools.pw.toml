@@ -1,0 +1,13 @@
+name = "AutoTools"
+filename = "autotools-1.20.1-fabric-2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zgVJyCgK/versions/EO4LHglu/autotools-1.20.1-fabric-2.1.1.jar"
+hash-format = "sha1"
+hash = "32505466e301f1214ff63e937307ab9ba33c2d00"
+
+[update]
+[update.modrinth]
+mod-id = "zgVJyCgK"
+version = "EO4LHglu"

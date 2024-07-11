@@ -1,0 +1,13 @@
+name = "VillagerTradeFix"
+filename = "villagerfix-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K2YWwbQ8/versions/NoZCAxPo/villagerfix-1.0.4.jar"
+hash-format = "sha1"
+hash = "20a20b754b7d34993239f2711812e3e72a78b372"
+
+[update]
+[update.modrinth]
+mod-id = "K2YWwbQ8"
+version = "NoZCAxPo"

@@ -1,15 +1,12 @@
 {
   "broadcastShiny": true,
-  "broadcastCoords": true,
-  "broadcastBiome": false,
+  "broadcastCoords": false,
+  "broadcastBiome": true,
   "playShinySound": true,
-  "playShinySoundPlayer": false,
+  "playShinySoundPlayer": true,
   "announceCrossDimensions": false,
-  "broadcastDespawns": false,
-  "broadcastRange": -1,
-  "playerLimit": -1,
+  "broadcastDespawns": true,
   "labelsForBroadcast": [
     "legendary"
-  ],
-  "formatting": {}
+  ]
 }

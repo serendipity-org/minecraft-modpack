@@ -13,7 +13,7 @@
       "type": "free",
       "count": 0
     },
-    "give_death_compass": true,
+    "give_death_compass": false,
     "enable_use_death_compass_to_open_gui": true,
     "enable_click_to_open_gui": true,
     "shift_and_use_quick_pickup": true,
@@ -42,9 +42,7 @@
     "cancel_creation_for_damage_types": {},
     "cancel_creation_for_ignored_attacker_types": {},
     "blocking_predicates": [],
-    "block_in_protected_area": {
-      "ftbchunks:provider": false
-    },
+    "block_in_protected_area": {},
     "blacklisted_worlds": [],
     "blacklisted_areas": {},
     "creation_default_failure_text": "<red><lang:'text.graves.creation_failed':'<gold>${position}':'<yellow>${world}'>",

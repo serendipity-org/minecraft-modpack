@@ -1,4 +1,6 @@
+
 [renderers]
+
 	[renderers.inventory_renderer]
 		#Print menu type to game chat whenever a new menu screen is opened. Only intended to find menu types to be added to "menu_blacklist".
 		debug_container_types = false
@@ -39,11 +41,12 @@
 		#Space between individual effect widgets on y-axis.
 		#Range: > 0
 		widget_space_y = 1
+		#Prevent status effects with infinite duration from showing.
+		hide_infinite_effects = false
 		#Space between individual effect widgets on x-axis.
 		#Range: > 0
 		widget_space_x = 1
-		#Prevent status effects with infinite duration from showing.
-		hide_infinite_effects = false
+
 	[renderers.gui_renderer]
 		#Screen side to render status effects on.
 		#Allowed Values: LEFT, RIGHT
@@ -53,7 +56,7 @@
 		max_rows = 255
 		#Custom scale for effect renderer.
 		#Range: 1.0 ~ 12.0
-		scale = 3.0
+		scale = 4.0
 		#Alpha value for effect widgets.
 		#Range: 0.0 ~ 1.0
 		widget_alpha = 0.85
@@ -77,12 +80,14 @@
 		#Space between individual effect widgets on y-axis.
 		#Range: > 0
 		widget_space_y = 1
+		#Prevent status effects with infinite duration from showing.
+		hide_infinite_effects = false
 		#Space between individual effect widgets on x-axis.
 		#Range: > 0
 		widget_space_x = 1
-		#Prevent status effects with infinite duration from showing.
-		hide_infinite_effects = false
+
 [widgets]
+
 	[widgets.gui_compact]
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		quality_border = true
@@ -91,9 +96,9 @@
 		#Should the effect icon start to blink when the effect is running out.
 		blinking_alpha = true
 		#Draw harmful effects on a separate line from beneficial ones. This is turned on in vanilla.
-		separate_effects = false
+		separate_effects = true
 		#Show duration for ambient effects.
-		ambient_duration = false
+		ambient_duration = true
 		#Top corner to draw effect amplifier in, or none.
 		#Allowed Values: NONE, TOP_LEFT, TOP_RIGHT
 		effect_amplifier = "TOP_RIGHT"
@@ -101,14 +106,15 @@
 		#Effect amplifier color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		amplifier_color = "WHITE"
+		#Hide infinite symbol shown for an effect duration that is too long to fit.
+		hide_infinite_duration = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		duration_color = "GRAY"
-		#Hide infinite symbol shown for an effect duration that is too long to fit.
-		hide_infinite_duration = false
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		compact_duration = false
+
 	[widgets.inventory_compact]
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		quality_border = false
@@ -125,14 +131,15 @@
 		#Effect amplifier color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		amplifier_color = "WHITE"
+		#Hide infinite symbol shown for an effect duration that is too long to fit.
+		hide_infinite_duration = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		duration_color = "GRAY"
-		#Hide infinite symbol shown for an effect duration that is too long to fit.
-		hide_infinite_duration = false
 		#Display effect duration more compact, allows for always showing duration, even when it is very long.
 		compact_duration = false
+
 	[widgets.gui_small]
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		quality_border = false
@@ -151,12 +158,13 @@
 		#Effect amplifier color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		amplifier_color = "WHITE"
+		#Hide infinite symbol shown for an effect duration that is too long to fit.
+		hide_infinite_duration = false
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		duration_color = "GRAY"
-		#Hide infinite symbol shown for an effect duration that is too long to fit.
-		hide_infinite_duration = false
+
 	[widgets.inventory_full_size]
 		#Should effect widgets have a blue or red border depening on if they are beneficial or not.
 		quality_border = false
@@ -174,3 +182,4 @@
 		#Effect duration color. Setting this to "EFFECT" will use potion color.
 		#Allowed Values: EFFECT, BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
 		duration_color = "GRAY"
+

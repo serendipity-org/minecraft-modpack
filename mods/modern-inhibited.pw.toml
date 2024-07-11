@@ -1,0 +1,13 @@
+name = "Modern Inhibited"
+filename = "moderninhibited-fabric-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oyvpD8uE/versions/kBNTNzHJ/moderninhibited-fabric-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "ffcf6ff147b2ce5f3e73f2064fa34477e5a44698"
+
+[update]
+[update.modrinth]
+mod-id = "oyvpD8uE"
+version = "kBNTNzHJ"

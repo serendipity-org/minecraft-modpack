@@ -1,0 +1,13 @@
+name = "Cobblemon Uncommon Starters"
+filename = "Uncommon Starters.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RWiGYHs6/versions/VGHh7PB9/Uncommon%20Starters.zip"
+hash-format = "sha1"
+hash = "20de0d94133362c6e1884c8b54229f36cc1ceb77"
+
+[update]
+[update.modrinth]
+mod-id = "RWiGYHs6"
+version = "VGHh7PB9"
