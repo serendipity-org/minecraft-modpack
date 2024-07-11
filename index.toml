@@ -2017,6 +2017,11 @@ hash = "9a9190378ed3f2dcedb262fe971cfb4f1ee2f404f6c68d35970d29d413ed7645"
 metafile = true
 
 [[files]]
+file = "mods/bountiful.pw.toml"
+hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
+metafile = true
+
+[[files]]
 file = "mods/bren.pw.toml"
 hash = "762a571498f09fa566383925e5091d4e87ef1e7ac60dad7db99fc87f5013f4c0"
 metafile = true
@@ -2789,6 +2794,11 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "248ba12b8f5b66459f8ec1284388a86fb47eed0c1a96a360de8ce649aa3f6390"
+metafile = true
+
+[[files]]
+file = "mods/kambrik.pw.toml"
+hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
 
 [[files]]
