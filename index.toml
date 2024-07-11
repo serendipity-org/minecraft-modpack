@@ -642,11 +642,11 @@ hash = "30fb6c359cb6455c0b63f66d9551080b6c286f9bf6136d7a0033d9050c195ffe"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/icon16x16.png"
-hash = "16911a2f8bc1bbc68bcac19969c153c7d3d2bea8e0752cd438eb6923eb1de339"
+hash = "4084c7e40c14cfaf5be2f914bfb8534d29c342e4460a2aea9110cda148a7bc26"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/icon32x32.png"
-hash = "c0903895bdcd1fe46be966a87becddcec1bc1ec1ca08fd0694a45cf896ed019f"
+hash = "fdad914df6665feffe72c11feb4909a711509dae15c394f7c14826ce0c0da555"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/assets/mac_icon.icns"
@@ -658,7 +658,7 @@ hash = "5cd98c1a8a51dd1cf07a9fd1401a569cf11bb908874a5bed4ab67a78403e57f6"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/config.txt"
-hash = "c9815c8d9997b278a062c9b63b8ebc0a7ae1d6ebf81d5a4bef1734cb281bcf5d"
+hash = "c0bad6ef9a501e4a932ffecaa9d291516164b51f482f2bb264643bddf0a1d2e7"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/custom_gui_screens.txt"
@@ -678,7 +678,7 @@ hash = "f0a1b4c0cb2e12b7a582a8caa9f604e4075cc95eace9ab834d39c38c043437e4"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/game_menu.txt"
-hash = "67ba91037314c65e0fc9b278652969c181c0d2a88cc29b7d623fc0022533ba0e"
+hash = "36ca2ee5cb659b554daa4c8fb4ed24cd9752830c73613ca5ee00759c19cb4051"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/lan.txt"
@@ -686,7 +686,7 @@ hash = "a03264890a565914ed60214efd85a3394b1e56e8700487ae0534c1e28107efb0"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/main_menu.txt"
-hash = "7f7a4f74fa798a19afd8d052613b3b5c17cff65d2c7520e2780b5d0a6aa8699d"
+hash = "c32f94d2410c5601f6e8b4005b38f0916a5e879c7e95f1a11753e3c12852d881"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/menusettings.txt"
@@ -702,7 +702,7 @@ hash = "273ba0d1b9d39c9565321b4e0887d74650abd1ed71a91cca8431cc685439788b"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/splash_screen.txt"
-hash = "c5f33b020a75aa44b542f2467cf768a5e2ba9291bc6ee243e293fcad1fea2886"
+hash = "d36a1669be3e80f91e8b23d412c4b33772e61f25851791392300691f57ad8444"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/customization/trade.txt"
@@ -766,7 +766,7 @@ hash = "c0903895bdcd1fe46be966a87becddcec1bc1ec1ca08fd0694a45cf896ed019f"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/options.txt"
-hash = "6dcbda94d913bd8eeb8d5557160be728fa66b2df5e9fa17b7ea3c943c9a56ace"
+hash = "f920674d6de2002f2262ee417ee3ff67ec232e3aff9d72eb5b596989f193877f"
 
 [[files]]
 file = "configureddefaults/config/fancymenu/ui_themes/dark.json"
@@ -822,7 +822,7 @@ hash = "4b98288f2b06c241151325bbb48960d3404b9ddae2c741049ba39ab0e8a8f5e5"
 
 [[files]]
 file = "configureddefaults/config/ftbquests/quests/chapter_groups.snbt"
-hash = "a0c6aa8df26a169e0ae461ba3659d91c44377ca214bb641ceda261eb0b5a98a5"
+hash = "6c3d5dd518592eff8d9dd860ccb48ee056eabb956fa42f7558b05997042128d9"
 
 [[files]]
 file = "configureddefaults/config/ftbquests/quests/chapters/4nfether_tips.snbt"
@@ -954,7 +954,7 @@ hash = "b7318261b117aa5cc5b1eed6a32ed45fb96b009a36d14a9236f2911d906cab54"
 
 [[files]]
 file = "configureddefaults/config/ftbquests/quests/chapters/fwelcome_to_bigchadguys_plus.snbt"
-hash = "0833ba5adf9c344ff0332838789af0bd65fab0c849c54ab56cad6fd5bfa4b6a5"
+hash = "63e82ef73635b300e8f191007578a1cf2fb690dd754d3a424241fa3dada482b9"
 
 [[files]]
 file = "configureddefaults/config/ftbquests/quests/chapters/fwildlife.snbt"
@@ -974,7 +974,7 @@ hash = "7021490fb5d45ae36673f5b7c91518bc14c6b5c07c7df7ef84437d964fa94608"
 
 [[files]]
 file = "configureddefaults/config/ftbquests/quests/chapters/painting.snbt"
-hash = "6bdfc1e812821182db4f7a847072726870a6ddf252912691047c62757bad4c55"
+hash = "edfd24255bfded9fccf9304afbc3124e0388d85184300a8879292bac8e65ba11"
 
 [[files]]
 file = "configureddefaults/config/ftbquests/quests/chapters/seed_collection.snbt"
@@ -3487,6 +3487,11 @@ hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
+file = "mods/tips.pw.toml"
+hash = "92c3ec69b192fc628bc2f3ee8b87dc0866a42419f53a0971becc09202601d01f"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "ce3e958a06f4c421098fc7b7f2202198c9d6e5db19da105f9fa43736e84e40a9"
 metafile = true
@@ -3865,7 +3870,7 @@ hash = "46913f551d61a872d267313a8435f7f558f2982e8eb8c099b3995bb81b6b7fd4"
 
 [[files]]
 file = "resources/main_menu_logo.png"
-hash = "562b3cbef17ee1dc8a0a7587ee678a314d84ab741d2a9b0f8d8ebb90b372a96d"
+hash = "6aaafa9fd8ffe93bf1d5241cacd461b83f0a17662184609dc9eeb04b1033e73f"
 
 [[files]]
 file = "resources/menu.png"
@@ -3873,7 +3878,7 @@ hash = "5cd98c1a8a51dd1cf07a9fd1401a569cf11bb908874a5bed4ab67a78403e57f6"
 
 [[files]]
 file = "resources/splash_screen_logo.png"
-hash = "d584534248538d7f72d3266e734b8b2337ae221d56ad0d6998c55dc18b3dc8ff"
+hash = "da7bf8ee84c4ebb272459c432b51bd7a13fa81bfa228a39b9cedbe8d370b4f02"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.1 - BCG Modified.zip"

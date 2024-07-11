@@ -1,0 +1,13 @@
+name = "Tips"
+filename = "Tips-Fabric-1.20.1-12.1.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/9cxq59ws/Tips-Fabric-1.20.1-12.1.7.jar"
+hash-format = "sha1"
+hash = "a64e82bb4defa211197406cfb5adb14f4a01dc3d"
+
+[update]
+[update.modrinth]
+mod-id = "AMCbgyVw"
+version = "9cxq59ws"

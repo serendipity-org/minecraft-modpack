@@ -46,7 +46,7 @@
 	quests: [
 		{
 			description: [
-				"Welcome to the world of &6BigChadGuys Plus&r, a project that began for my friends but has since grown into something I'm proud to share with you!"
+				"Welcome to the world of &6SerendipiCraft&r, a project that began for my friends but has since grown into something I'm proud to share with you!"
 				""
 				"You're holding your &9Diary&r, a helpful tool that will track what you've collected on your journey. The &9Diary&r is constantly being updated, so don't forget to periodically check your progress!"
 				""
@@ -73,7 +73,7 @@
 			subtitle: "Click for more!"
 			tasks: [{
 				id: "6A96F431D77E1ADA"
-				title: "&6Welcome to BigChadGuys Plus!"
+				title: "&6Welcome to SerendipiCraft!"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -139,9 +139,9 @@
 		}
 		{
 			description: [
-				"Whether you have a question, need to report a bug, or want to share your builds, the &6BigChadGuys&r &dDiscord&r is the place to do it!"
+				"Whether you have a question, need to report a bug, or want to share your builds, the &6Serendipity&r &dDiscord&r is the place to do it!"
 				""
-				"Join us at: &ddiscord.gg/bigchadguys&r"
+				"Join us at: &ddiscord.gg/5Fdatna28z&r"
 			]
 			icon: "ftbquests:book"
 			id: "7F347C5E52359E01"
@@ -161,34 +161,7 @@
 		}
 		{
 			description: [
-				"&bHost with &lBisectHosting&r (Paid)&r"
-				"Premium and budget hosting with 24/7 support. Use code &6BigChadGuys&r for 25% off your first month."
-				""
-				"&cHost with &lOracle Cloud&r (Free)&r"
-				"Consider Oracle Cloud as a free and dedicated alternative. However, please note that Oracle has recently been randomly closing accounts, so use with caution."
-				""
-				"&2Host with &le4mc&r (Free)&r"
-				"Automatically included in BCG modpacks. Access multiplayer by entering a singleplayer world, opening your game menu, and selecting \"&bStart Co-op&r\"."
-			]
-			icon: "minecraft:villager_spawn_egg"
-			id: "384105BFD8CAD66D"
-			rewards: [{
-				id: "0B69C490BE755555"
-				type: "xp"
-				xp: 10
-			}]
-			subtitle: "Click to learn more!"
-			tasks: [{
-				id: "0786E128134803D9"
-				title: "Multiplayer Options"
-				type: "checkmark"
-			}]
-			x: -0.5d
-			y: -2.5d
-		}
-		{
-			description: [
-				"Aside from armor, accessories, enchantments, and more, there is another way to boost your stats in &6BigChadGuys Plus&r! A handful of the Collection Milestones offer permanent stat boosts. Here's what you can expect from each one:"
+				"Aside from armor, accessories, enchantments, and more, there is another way to boost your stats in &6SerendipiCraft&r! A handful of the Collection Milestones offer permanent stat boosts. Here's what you can expect from each one:"
 				""
 				"{ \"text\": \"Mob Collection - Attack Damage\", \"underlined\": \"true\", \"color\": \"dark_red\",  \"clickEvent\": { \"action\": \"change_page\", \"value\": \"3731A9890D5811CC\" } }"
 				""
@@ -271,7 +244,7 @@
 			icon: "bcg_smp:joe_coin"
 			id: "02AF54D55FF5C84F"
 			rewards: [{
-				command: "/tellraw @s [\"\",{\"text\":\"<bcgjoe> Thank you for playing\",\"color\":\"white\"},{\"text\":\" BigChadGuys Plus\",\"color\":\"gold\"},{\"text\":\"!\",\"color\":\"white\"}]"
+				command: "/tellraw @s [\"\",{\"text\":\"<bcgjoe> Thank you for playing\",\"color\":\"white\"},{\"text\":\" SerendipiCraft\",\"color\":\"gold\"},{\"text\":\"!\",\"color\":\"white\"}]"
 				icon: "bcg_smp:joe_coin"
 				id: "3CB06A8ECA68E737"
 				title: "Thank you!"
@@ -332,7 +305,7 @@
 		}
 		{
 			description: [
-				"&6BigChadGuys Plus&r lets you claim chunks! This means you can keep your base safe from other players, Creeper explosions, and even keep chunks loaded."
+				"&6SerendipiCraft&r lets you claim chunks! This means you can keep your base safe from other players, Creeper explosions, and even keep chunks loaded."
 				""
 				"To claim a chunk, open your inventory and click on &bFTB Chunks: Claim Manager&r in the top-left corner. Then just left-click the chunks you want to claim. The number of claims you get depends on the server."
 				""

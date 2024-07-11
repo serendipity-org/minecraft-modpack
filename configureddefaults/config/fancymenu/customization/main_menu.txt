@@ -45,9 +45,9 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = 
-  description = BigChadGuys and the Holy Grail!
-  label = 
+  hoverlabel =
+  description = SerendipiCraft X BigChadGuys
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 0bd05383-3372-40af-ac68-bba9142bd64a1700428679673
@@ -79,7 +79,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 0ce3b42c-47ba-4b90-9ee4-10112093e6011701086832863
@@ -111,9 +111,9 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = 
+  hoverlabel =
   description = Join the Discord!
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = d118e641-08f1-4656-8b53-5b3d73b567341705984959306
@@ -136,7 +136,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 0e9af7af-e271-492e-a1f1-892aba8a7800-1716242142522
-  [executable_action_instance:eea68687-a491-4cd7-9df7-9ebecb9bd055-1716242142522][action_type:openlink] = https://ko-fi.com/jflec
+  [executable_action_instance:eea68687-a491-4cd7-9df7-9ebecb9bd055-1716242142522][action_type:openlink] = https://www.curseforge.com/minecraft/modpacks/bigchadguys-plus
   [executable_block:0e9af7af-e271-492e-a1f1-892aba8a7800-1716242142522][type:generic] = [executables:eea68687-a491-4cd7-9df7-9ebecb9bd055-1716242142522;]
   backgroundnormal = [source:local]resources/kofi_button.png
   backgroundhovered = [source:local]resources/hovered_kofi_button.png
@@ -146,7 +146,7 @@ element {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = Support the creator!
-  label = 
+  label =
   navigatable = true
   element_type = custom_button
   instance_identifier = 744e7887-48ef-4c9e-9f50-2ecc056dbf7a1709691596363
@@ -183,7 +183,7 @@ element {
   anchor_point_element = vanillabtn:button_compatibility_id:mc_titlescreen_singleplayer_button
   x = -120
   y = -122
-  width = 301
+  width = 442
   height = 90
   stretch_x = false
   stretch_y = false
@@ -231,7 +231,7 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = Language
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_language_button
@@ -267,7 +267,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_multiplayer_button
@@ -336,7 +336,7 @@ vanilla_button {
   nine_slice_border_x = 5
   nine_slice_border_y = 5
   description = Accessibility
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_accessibility_button
@@ -436,7 +436,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_options_button
@@ -472,7 +472,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_quit_button
@@ -540,7 +540,7 @@ vanilla_button {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = 
+  label =
   navigatable = true
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_singleplayer_button

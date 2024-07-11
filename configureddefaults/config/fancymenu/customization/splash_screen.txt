@@ -38,7 +38,7 @@ element {
   enable_scrolling = true
   shadow = false
   scale = 1.0
-  source = made by joe :]
+  source = SerendipiCraft
   text_border = 0
   case_mode = normal
   source_mode = direct
@@ -93,7 +93,7 @@ element {
   anchor_point = mid-centered
   x = -150
   y = -100
-  width = 301
+  width = 442
   height = 90
   stretch_x = false
   stretch_y = false
