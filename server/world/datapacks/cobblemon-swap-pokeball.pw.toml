@@ -1,0 +1,13 @@
+name = "Cobblemon Swap Pokeball"
+filename = "Cobblemon_Swapballs_1.5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZUpRGKsG/versions/aYYia7Nu/Cobblemon_Swapballs_1.5.zip"
+hash-format = "sha1"
+hash = "4d065cbb4c89d941def72a87b95508abd53e997d"
+
+[update]
+[update.modrinth]
+mod-id = "ZUpRGKsG"
+version = "aYYia7Nu"

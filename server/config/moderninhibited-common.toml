@@ -1,0 +1,6 @@
+
+[ModernInhibited]
+	shouldEffectParticle = false
+	showEffectIcon = true
+	validStructures = ["betterdeserttemples:desert_temple", "#ctov:village", "betterfortresses:fortress", "betterstrongholds:stronghold", "cobbletowns:pokecenter"]
+

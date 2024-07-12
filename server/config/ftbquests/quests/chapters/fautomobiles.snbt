@@ -1,0 +1,1728 @@
+{
+	autofocus_id: "227ED65F6179B3FB"
+	default_hide_dependency_lines: true
+	default_quest_shape: "hexagon"
+	disable_toast: true
+	filename: "fautomobiles"
+	group: "257DC2A7DFE41B29"
+	icon: {
+		Count: 1
+		id: "automobility:automobile"
+		tag: {
+			Automobile: {
+				engine: "automobility:stone"
+				frame: "automobility:wooden_motorcar"
+				isPrefab: 1b
+				wheels: "automobility:carriage"
+			}
+			display: {
+				Name: "{\"translate\":\"prefab.automobility.wooden_motorcar\",\"italic\":\"false\"}"
+			}
+		}
+	}
+	id: "02A76C3E2C793628"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"&bAutomobiles&r are a fantastic way to travel! They don't require any fuel, just the initial setup."
+				""
+				"Every automobile requires three main components: &bWheels&r, &bFrame&r, and &bEngine&r. You can craft these at the &bAuto Mechanic Table&r. You can also craft front or rear attachments, although they aren't necessary to build the vehicle."
+				""
+				"Apart from traveling, automobiles have other uses, such as harvesting crops, racing with &bDash Panels&r, performing awesome stunts off ramps, and more!"
+				""
+				"&9Tip&r: Some cars can drift! While inside your vehicle, accelerate, and once you've reached a decent speed, press '&bSpacebar&r'!"
+			]
+			icon: "ftbquests:book"
+			id: "227ED65F6179B3FB"
+			rewards: [{
+				id: "12363EE4F8A1A3EF"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.5d
+			subtitle: "Click to learn more!"
+			tasks: [{
+				id: "3A9A0A8F3F4E9FD8"
+				title: "Accept Rewards"
+				type: "checkmark"
+			}]
+			title: "&aAutomobiles"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "1821FC7235CBC6CB"
+			rewards: [{
+				id: "1CFE6338F7757595"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.25d
+			subtitle: "Utilized for crafting automobile parts."
+			tasks: [{
+				id: "225D4B2A571FE141"
+				item: "automobility:auto_mechanic_table"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "51F212E2A10B29F2"
+			rewards: [{
+				id: "1D5999D42E6BD378"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.25d
+			subtitle: "To create automobiles, place a frame along with four wheels and an engine."
+			tasks: [{
+				id: "123E2480666D0A5F"
+				item: "automobility:automobile_assembler"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			id: "1F5E1D99E61E673D"
+			rewards: [{
+				id: "446D6AF8DB7DD11E"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.25d
+			subtitle: "Used for removing attachments from automobiles and disassembling them."
+			tasks: [{
+				id: "4E797664D383A666"
+				item: "automobility:crowbar"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "58272211392A5C21"
+			rewards: [{
+				count: 2
+				id: "0633E6F66BD7A922"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "06BA8DFD88C8895E"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:standard"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Standard Wheel"
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			id: "580D8262323E37CD"
+			rewards: [{
+				count: 2
+				id: "52D743F885A87A9D"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "450B6230D2D42636"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:off_road"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Off Road Wheel"
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			id: "091E92FC711C4743"
+			rewards: [{
+				count: 2
+				id: "3083613FB851E778"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "458D71DC9EDAA7B0"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:steel"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Steel Wheel"
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "7E961468DDAEBF32"
+			rewards: [{
+				count: 2
+				id: "7DDDFD97DF67A3B7"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D3AB79C1AD8135F"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:tractor"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Tractor Wheel"
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			id: "5A58A0B96FA01CE1"
+			rewards: [{
+				count: 2
+				id: "00E32A1904D1991A"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1013BA37F44B1815"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:carriage"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Carriage Wheel"
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			id: "7CAB3E8A130C7C5D"
+			rewards: [{
+				count: 2
+				id: "08BA5476E25B7017"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75057B08B1452075"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:plated"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Plated Wheel"
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "3E5807B52DDC09E8"
+			rewards: [{
+				count: 2
+				id: "4AC29B7F3C9EEC81"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D01BB7F0E5D930C"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:street"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Street Wheel"
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			id: "4CDC26720CC4672A"
+			rewards: [{
+				count: 2
+				id: "76F6A183D3EB826C"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1C13305805EF70AF"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:gilded"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Gilded Wheel"
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "01EC7EE1D5BE5EC3"
+			rewards: [{
+				count: 2
+				id: "54DBE63C21D0A7A8"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BE02C23B856D19A"
+				item: {
+					Count: 1
+					id: "automobility:automobile_wheel"
+					tag: {
+						wheel: "automobility:bejeweled"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Bejewled Wheel"
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			id: "1CF810C9DD1351B1"
+			rewards: [
+				{
+					id: "4416129B370A9E29"
+					item: "minecraft:furnace"
+					type: "item"
+				}
+				{
+					id: "56901959868AC7F4"
+					item: "minecraft:coal"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C17B236D1F7641E"
+				item: {
+					Count: 1
+					id: "automobility:automobile_engine"
+					tag: {
+						engine: "automobility:stone"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Stone Engine"
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "74F9AB5C44AB70F5"
+			rewards: [
+				{
+					id: "3AD18294E694AB78"
+					item: "minecraft:furnace"
+					type: "item"
+				}
+				{
+					id: "4356DF4489DC9BDD"
+					item: "minecraft:coal"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A3514FA8768C2B7"
+				item: {
+					Count: 1
+					id: "automobility:automobile_engine"
+					tag: {
+						engine: "automobility:iron"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Iron Engine"
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			id: "4B80B7FE4531AC6C"
+			rewards: [
+				{
+					id: "475AE877A20BD2D1"
+					item: "minecraft:furnace"
+					type: "item"
+				}
+				{
+					id: "41BA628345B25593"
+					item: "minecraft:coal"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C3D4060F51628CE"
+				item: {
+					Count: 1
+					id: "automobility:automobile_engine"
+					tag: {
+						engine: "automobility:copper"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Copper Engine"
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			id: "135E8FC04101E07F"
+			rewards: [
+				{
+					id: "0DBD674F848F36F3"
+					item: "minecraft:furnace"
+					type: "item"
+				}
+				{
+					id: "1C941FA0EB3C9B2F"
+					item: "minecraft:coal"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5209BA27CB51A920"
+				item: {
+					Count: 1
+					id: "automobility:automobile_engine"
+					tag: {
+						engine: "automobility:gold"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Gold Engine"
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "7883FF0524AC4AF9"
+			rewards: [
+				{
+					id: "379569A0D90105E8"
+					item: "minecraft:furnace"
+					type: "item"
+				}
+				{
+					id: "38EC54C42CDDA94D"
+					item: "minecraft:coal"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3C03B955EED8D232"
+				item: {
+					Count: 1
+					id: "automobility:automobile_engine"
+					tag: {
+						engine: "automobility:diamond"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Diamond Engine"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "6BF78F6CC60AA8C6"
+			rewards: [{
+				count: 2
+				id: "7756195E2AFF27EE"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3CE1D944EA807C8C"
+				item: {
+					Count: 1
+					id: "automobility:front_attachment"
+					tag: {
+						attachment: "automobility:mob_controller"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Mob Controller Attachment"
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			id: "3E0D18A78C326715"
+			rewards: [{
+				count: 2
+				id: "76D1CDB735207C7F"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "40DA7CFA49D3FB79"
+				item: {
+					Count: 1
+					id: "automobility:front_attachment"
+					tag: {
+						attachment: "automobility:crop_harvester"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Crop Harvester Attachment"
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			id: "7B69213E53627691"
+			rewards: [{
+				count: 2
+				id: "797C21EF9D76A785"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "08E05FD373DF98DD"
+				item: {
+					Count: 1
+					id: "automobility:front_attachment"
+					tag: {
+						attachment: "automobility:grass_cutter"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Grass Cutter Attachment"
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			id: "22A13A7ED99D81C1"
+			rewards: [{
+				count: 2
+				id: "682D98052191C691"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48FCE37CFC0E0D9B"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:passenger_seat"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Passenger Seat Attachment"
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			id: "6605C1829BC282F5"
+			rewards: [{
+				count: 2
+				id: "14B9A2649148FF99"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E6D3BDAE59866DE"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:crafting_table"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Crafting Table Attachment"
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			id: "5A46B52B5DA5EFAD"
+			rewards: [{
+				count: 2
+				id: "52B15B1948627D6E"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A6DDC1C9DD20DA1"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:loom"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Loom Attachment"
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			id: "14CABD93D3CAD654"
+			rewards: [{
+				count: 2
+				id: "7761F6FABA720181"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D964160F57651A9"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:cartography_table"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Cartography Table Attachment"
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			id: "43315AB95F51C2E6"
+			rewards: [{
+				count: 2
+				id: "34351C7A8DFD60C2"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BBD94CFD83F637A"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:smithing_table"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Smithing Table Attachment"
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			id: "03349049788F1160"
+			rewards: [{
+				count: 2
+				id: "6F24CDDD57E16600"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "35954BD26FF69836"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:grindstone"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Grindstone Attachment"
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			id: "3F1184CB8A69E3A9"
+			rewards: [{
+				count: 2
+				id: "0D8833877BC1E605"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "282B9614645D6F51"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:stonecutter"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Stonecutter Attachment"
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			id: "2A8E12575DA1DCE0"
+			rewards: [{
+				count: 2
+				id: "06DC84D1508ACB2F"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "05A085FA3C6340B3"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:auto_mechanic_table"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Auto Mechanic Table Attachment"
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			id: "08BA07E77D388A30"
+			rewards: [{
+				count: 2
+				id: "5E25AF7F0D8872D5"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A1D7DF3D383D27F"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:chest"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Chest Attachment"
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			id: "6EC41D0CE1C238E3"
+			rewards: [{
+				count: 2
+				id: "6768B7F0999E24BC"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E1F2E7EDCF54780"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:ender_chest"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Ender Chest Attachment"
+			x: 8.5d
+			y: 4.0d
+		}
+		{
+			id: "59949627F59998FB"
+			rewards: [{
+				count: 2
+				id: "3AF7F99860963664"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0743BAD64FAD1FD5"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:saddled_barrel"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Saddled Barrel Attachment"
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			id: "7870B399950FE7D2"
+			rewards: [{
+				count: 2
+				id: "5AF1D9E70A4A1F74"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "360D188A4E9A8277"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:banner_post"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Banner Post Attachment"
+			x: 7.5d
+			y: -4.0d
+		}
+		{
+			id: "63A575A954D801F2"
+			rewards: [{
+				count: 2
+				id: "4049015A24005B14"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4788F38CA5C2BF8D"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:backhoe"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Backhoe Attachment"
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			id: "3EE6FE3D00FF338C"
+			rewards: [{
+				count: 2
+				id: "53BA5EEA1FB8F24B"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "086E1D202BA65077"
+				item: {
+					Count: 1
+					id: "automobility:rear_attachment"
+					tag: {
+						attachment: "automobility:paver"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Paver Attachment"
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "automobility:automobile_frame"
+				tag: {
+					frame: "automobility:wooden_motorcar"
+				}
+			}
+			id: "63999091AC7F5819"
+			rewards: [{
+				count: 5
+				id: "0CA7532B03324808"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D42BBFE56B624FD"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:wooden_motorcar"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Wooden Frame"
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			id: "2781B0C3C7329A29"
+			rewards: [{
+				count: 5
+				id: "006A71E5775CA04C"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2AA56097B563D9D1"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:copper_motorcar"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Copper Frame"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "228595696873A8F1"
+			rewards: [{
+				count: 5
+				id: "35F4A4B68D16FDE0"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3DBEE58367077C88"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:steel_motorcar"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Steel Frame"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "1CA0902732A89AB1"
+			rewards: [{
+				count: 5
+				id: "1928367D1D89EF15"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7556149959CA57AE"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:golden_motorcar"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Golden Frame"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			id: "30DB46777356DA91"
+			rewards: [{
+				count: 5
+				id: "3E659563D4E66B03"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E3616B95BE3AE34"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:bejeweled_motorcar"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Bejewled Frame"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "2D869340C82D9DA5"
+			rewards: [{
+				count: 5
+				id: "3E21DB9897DAF855"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0AAADB1D810E0043"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_white"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "White Frame"
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "578A8482B40CBA0A"
+			rewards: [{
+				count: 5
+				id: "62ECD8B6FFDF042E"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B0EE80842D3BDC5"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_orange"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Orange Frame"
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "427BFEB3723457FA"
+			rewards: [{
+				count: 5
+				id: "2370694128CF7E9D"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "61B2BFC836A30008"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_magenta"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Magenta Frame"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "71E9FB0149895BB2"
+			rewards: [{
+				count: 5
+				id: "49CF56A7DDDFD361"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "513B82AB2005F056"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_light_blue"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Light Blue Frame"
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			id: "74E1FA19A2217B2A"
+			rewards: [{
+				count: 5
+				id: "1148B2F06598B06F"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "393F2830EB15FDBD"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_yellow"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Yellow Frame"
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "4E4318A362408E6E"
+			rewards: [{
+				count: 5
+				id: "432A284A4D4C216C"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7EDB437516283451"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_lime"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Lime Frame"
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "5496EDE4A4EE7774"
+			rewards: [{
+				count: 5
+				id: "640F6119D230FDBB"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "013DA18A5082EFBE"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_gray"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Gray Frame"
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			id: "796E205EA8D86AC4"
+			rewards: [{
+				count: 5
+				id: "584B197D091A1DE3"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43AFC586864FF355"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_pink"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Pink Frame"
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "7F89E01D7E45B39D"
+			rewards: [{
+				count: 5
+				id: "510F7E8EACB638E6"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4245ADB9D92F3266"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_light_gray"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Light Gray Frame"
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "582D120EC2537215"
+			rewards: [{
+				count: 5
+				id: "209D926FF7EA4F75"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "67712D9F1CE4425E"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_cyan"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Cyan Frame"
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "3818C070D2BB6FED"
+			rewards: [{
+				count: 5
+				id: "09FA7285E1CFA922"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "40399E07959D1AEE"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_purple"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Purple Frame"
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			id: "7E5596F6879A1026"
+			rewards: [{
+				count: 5
+				id: "37806A289722DC70"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60800E7B9040CCF9"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_blue"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Blue Frame"
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			id: "6AED092BA3944BFB"
+			rewards: [{
+				count: 5
+				id: "71007A6FEBF0D5F1"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F737DD9006AE578"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_brown"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Brown Frame"
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			id: "39D77CA77928A3EF"
+			rewards: [{
+				count: 5
+				id: "253A96ACCF970F2C"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F1C54C04BB0DFCD"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_green"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Green Frame"
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			id: "5F54449283BF8D9C"
+			rewards: [{
+				count: 5
+				id: "422BEBEADB49C182"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43C4F64AC2493E1E"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_red"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Red Frame"
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			id: "4B5015327A6E61D8"
+			rewards: [{
+				count: 5
+				id: "3FD636708ADCC4A8"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A7A682D214147F5"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:standard_black"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Black Frame"
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			id: "678AA72006AC6EA0"
+			rewards: [{
+				count: 5
+				id: "24F284174C6CEF96"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0390EA4514294B57"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:amethyst_rickshaw"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Amethyst Frame"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "5468E93AE53F3241"
+			rewards: [{
+				count: 5
+				id: "563236DDB9133E57"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A73FA30FAD78D01"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:quartz_rickshaw"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Quartz Frame"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "5C0059BD87172D08"
+			rewards: [{
+				count: 5
+				id: "7F6A5C60E1738B1A"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "49403CAF1E21CA49"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:prismarine_rickshaw"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Prismarine Frame"
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "62722FC1CE3080F9"
+			rewards: [{
+				count: 5
+				id: "5030285930E569D4"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A616F77A26BAF10"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:echo_rickshaw"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Echo Frame"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "592CE9223795A793"
+			rewards: [{
+				count: 5
+				id: "45A380AA6B555972"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0901C361F3BD5CB1"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:red_tractor"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Red Tractor"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "7266EF3B93F07C6E"
+			rewards: [{
+				count: 5
+				id: "797FEDB668520367"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "215CCC200111F38E"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:yellow_tractor"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Yellow Tractor"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "3DAEB19C2CBA9D38"
+			rewards: [{
+				count: 5
+				id: "5BEDAF2A0340AAB8"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "24BE588A59A95195"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:green_tractor"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Green Tractor"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "34C8271DCF5DC1B6"
+			rewards: [{
+				count: 5
+				id: "03686D5DD336CF37"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51435D21CD3FD7C4"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:blue_tractor"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Blue Tractor"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "5432454781EDD313"
+			rewards: [{
+				count: 5
+				id: "2AA50536B655B877"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51599DC9811C69CC"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:shopping_cart"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Shopping Cart Frame"
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			id: "13DE512BB6A28F15"
+			rewards: [{
+				count: 5
+				id: "0A7BA55C5B6788BA"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7008587056249683"
+				item: {
+					Count: 1
+					id: "automobility:automobile_frame"
+					tag: {
+						frame: "automobility:pineapple"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Pineapple Frame"
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"22A13A7ED99D81C1"
+				"427BFEB3723457FA"
+				"592CE9223795A793"
+				"5432454781EDD313"
+				"3E0D18A78C326715"
+				"578A8482B40CBA0A"
+				"03349049788F1160"
+				"1CF810C9DD1351B1"
+				"2A8E12575DA1DCE0"
+				"3F1184CB8A69E3A9"
+				"580D8262323E37CD"
+				"1CA0902732A89AB1"
+				"7E5596F6879A1026"
+				"5A58A0B96FA01CE1"
+				"5C0059BD87172D08"
+				"4B80B7FE4531AC6C"
+				"7B69213E53627691"
+				"63A575A954D801F2"
+				"678AA72006AC6EA0"
+				"3EE6FE3D00FF338C"
+				"6AED092BA3944BFB"
+				"796E205EA8D86AC4"
+				"5468E93AE53F3241"
+				"6605C1829BC282F5"
+				"3DAEB19C2CBA9D38"
+				"7870B399950FE7D2"
+				"39D77CA77928A3EF"
+				"58272211392A5C21"
+				"091E92FC711C4743"
+				"3818C070D2BB6FED"
+				"34C8271DCF5DC1B6"
+				"43315AB95F51C2E6"
+				"4CDC26720CC4672A"
+				"13DE512BB6A28F15"
+				"7266EF3B93F07C6E"
+				"14CABD93D3CAD654"
+				"7F89E01D7E45B39D"
+				"2D869340C82D9DA5"
+				"4E4318A362408E6E"
+				"59949627F59998FB"
+				"7883FF0524AC4AF9"
+				"71E9FB0149895BB2"
+				"4B5015327A6E61D8"
+				"08BA07E77D388A30"
+				"6BF78F6CC60AA8C6"
+				"3E5807B52DDC09E8"
+				"2781B0C3C7329A29"
+				"135E8FC04101E07F"
+				"7E961468DDAEBF32"
+				"5A46B52B5DA5EFAD"
+				"582D120EC2537215"
+				"5F54449283BF8D9C"
+				"5496EDE4A4EE7774"
+				"6EC41D0CE1C238E3"
+				"30DB46777356DA91"
+				"63999091AC7F5819"
+				"228595696873A8F1"
+				"7CAB3E8A130C7C5D"
+				"01EC7EE1D5BE5EC3"
+				"74E1FA19A2217B2A"
+				"62722FC1CE3080F9"
+				"74F9AB5C44AB70F5"
+			]
+			icon: {
+				Count: 1
+				id: "automobility:automobile_engine"
+				tag: {
+					engine: "automobility:creative"
+				}
+			}
+			id: "36E6B406A37097DB"
+			rewards: [{
+				id: "43715EF4969E8076"
+				item: {
+					Count: 1
+					id: "automobility:automobile_engine"
+					tag: {
+						engine: "automobility:creative"
+					}
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			subtitle: "Completing all Automobility diary entries rewards you with a &dCreative Engine&r!"
+			tasks: [{
+				id: "608F76C0B8AD7956"
+				title: "Accept Rewards"
+				type: "checkmark"
+			}]
+			title: "&aAutomobile Mastery"
+			x: -5.0d
+			y: 0.0d
+		}
+	]
+	title: " &aA&futomobiles"
+}
