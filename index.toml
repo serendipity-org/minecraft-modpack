@@ -2310,6 +2310,11 @@ hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "fe2c08e00f407db274ced454f7eadcbcb0f04f094ac5d8543aafa050184f85b2"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true
@@ -3327,11 +3332,6 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys-fabric.pw.toml"
 hash = "28de8ad7587c7f3a35d6cbf08eea51d3788c11a87960c4240cd25e6570622b00"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "62fa9a283dd936e8c6863cfb5df10a9571746ddd605854d8c9ed05bca055c3c1"
 metafile = true
 
 [[files]]
@@ -4713,6 +4713,10 @@ hash = "c71c3e9a0179686f5dbcf6c5a0b1c54c9cae783436b2f04d3aadee3a2e3746c4"
 [[files]]
 file = "server/config/numismaticclaim.json5"
 hash = "f01ef6573d77e7e9e0e4c0add45419d75aedf3cc431dfcc302053f77fc4fb0f3"
+
+[[files]]
+file = "server/config/openpartiesandclaims-server.toml"
+hash = "e9f6bae1832f96b5f5757a0596b5c1f399c94e3f4db0878936edcbf75ee5cc50"
 
 [[files]]
 file = "server/config/overflowingbars-client.toml"
