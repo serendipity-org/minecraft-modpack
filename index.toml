@@ -1830,8 +1830,18 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.pw.toml"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
 file = "mods/auto-third-person.pw.toml"
 hash = "b795f82c6f1f34676cd52ee7acc49bf9ef2469762c25b707bc8e0f2d3dab27a2"
+metafile = true
+
+[[files]]
+file = "mods/autorun.pw.toml"
+hash = "66b3916052ccf9d06959db9faccd126aa2eccefc2b002f685d7a00a3b8a19549"
 metafile = true
 
 [[files]]
@@ -2120,6 +2130,11 @@ hash = "d36666b4aed81abab1afe3e3016f2002d252175925e759a1096653dfdef9fbb7"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "ba84a6676f1ab5ae9701bf8ad81903ff6c70ed2fe922da3cb1ffbcaf3218f34a"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "cbb5ef46dd5b5a364af28c745ace8ac7bca73b34d1f90654ac76166ed3bccdc5"
 metafile = true
@@ -2337,6 +2352,11 @@ metafile = true
 [[files]]
 file = "mods/edgeless-chat-screen.pw.toml"
 hash = "71e6244c015ace1bced37a9a29f539ab20d3baf0de5eddf83f20c4455d32dc25"
+metafile = true
+
+[[files]]
+file = "mods/effortless.pw.toml"
+hash = "99c572aa71f8f41338d8f3c10cec81bb82413688a1f06cbd2c42a4955169cff1"
 metafile = true
 
 [[files]]
@@ -2597,6 +2617,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "e515c01066af0c6273d54ea79449a99e723c460ac23a6490d7813188cbdb0b93"
 metafile = true
 
 [[files]]
@@ -2910,6 +2935,11 @@ hash = "7360de6463f20c08edaeff169419707f24c3ad7359e147fd717dedc70fd1c111"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "1b9f7838512f33b41d20ec1353893382767072e9587d7d30389f679225066a9f"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
@@ -2950,6 +2980,11 @@ hash = "95e872761eeedb28d1ec544578a719cbfd3a2a3ca3e794e92ef8e4e6cfc7746a"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "3cf08f5ee408f1ab8dd7ec2e596b3379ce42806a52623f96c8381fd0cf443d1d"
+metafile = true
+
+[[files]]
 file = "mods/mob-plaques.pw.toml"
 hash = "34aec2a6705b743eb96e7f4653cd591736f7124266f8c25d4e57ad47fc92c28c"
 metafile = true
@@ -2957,11 +2992,6 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
-metafile = true
-
-[[files]]
-file = "mods/modern-inhibited.pw.toml"
-hash = "8d974ff0fa9f892568646e90c74a3c42644d7eb715bfc3e0af3415d16a560af4"
 metafile = true
 
 [[files]]
@@ -4620,7 +4650,7 @@ hash = "3daa62159d430b28044aa44a40274a4e209ab756bfc7f038b3f02e0b1a8f2850"
 
 [[files]]
 file = "server/config/levelz.json5"
-hash = "d311d47987d38a4f7c0e97777aeebb077f7b90bae71cd0325173280b074dabf1"
+hash = "f9f2d1d9fb535f2dffb8ebacecf7f30682f7f36800c1dffb67f5391555c632ec"
 
 [[files]]
 file = "server/config/libgui.json5"
