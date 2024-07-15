@@ -3300,6 +3300,11 @@ hash = "cd345d97de598d81756ebb4d2ad44ac307bdabbfc4b01e66a726d20b149e35c6"
 metafile = true
 
 [[files]]
+file = "mods/shut-up-gl-error.pw.toml"
+hash = "20b3e6e3ecbb6ea0f2fd31f166a3cef23c0124f376c25fdc6613b3f674347ff3"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "7434dfd1c4b2c2c96d9555faac9859cb78649fb71ed840094117978c99c815ba"
 metafile = true
@@ -3367,11 +3372,6 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "b6fae935d6d993df29db5687bf2a0d6c65838ad9771e0496792c4f4631feee22"
-metafile = true
-
-[[files]]
-file = "mods/srdp.pw.toml"
-hash = "9fe06abd9e14700599e38d2b3aa6d54100128b04fb4fd2efb139831080d3b851"
 metafile = true
 
 [[files]]
