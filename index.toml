@@ -2310,11 +2310,6 @@ hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "dcea9652980fa97909dc9231878fa853f4b1da3d1a3967615f04b7f4d695e6e6"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a5bce60eb3d4feced5e0e932c53e2dfa5257722b8bd5f1ac3aba99411263b00d"
 metafile = true
@@ -2452,11 +2447,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
 
 [[files]]
