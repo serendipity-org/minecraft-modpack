@@ -2255,11 +2255,6 @@ hash = "35561c50fd128cff62577503b1c444753a255a4da0c297877efc71cce716b861"
 metafile = true
 
 [[files]]
-file = "mods/darktitlebar.pw.toml"
-hash = "1d23aa5ca75db1d13b206e7cb9f6205739662eba90cbafb6de78cd566bec72a6"
-metafile = true
-
-[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
