@@ -1,0 +1,13 @@
+name = "Cobblemizer"
+filename = "CobblemizerFabric-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x84daeIA/versions/2qdaJ1rU/CobblemizerFabric-2.0.1.jar"
+hash-format = "sha1"
+hash = "ec279eb6247e8e6274acbd90124330e22ad11ee8"
+
+[update]
+[update.modrinth]
+mod-id = "x84daeIA"
+version = "2qdaJ1rU"

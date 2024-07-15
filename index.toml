@@ -2050,6 +2050,11 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemizer.pw.toml"
+hash = "444a0e93f5f5fd91b04e118ae4d68257407367e39747afa150bf9bfa6902e26c"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "ea8db677ff0708fff6d58e47a8ff1fc70769c79d85c1ba1fadfbca72ecda944c"
 metafile = true
