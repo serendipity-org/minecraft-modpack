@@ -1,5 +1,5 @@
 {
-  "name": "serendipity-modpack",
+  "name": "serendipicraft",
   "module": "pack.toml",
   "scripts": {
     "add": "./bin/packwiz-linux modrinth install",
