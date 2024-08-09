@@ -1,0 +1,4 @@
+[logbegone]
+	regex = ["Disconnecting VANILLA connection attempt", "Found unifont_all_no_pua.*"]
+	phrases = ["Disconnecting VANILLA connection attempt"]
+

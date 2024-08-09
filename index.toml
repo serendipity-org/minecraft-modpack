@@ -1,2 +1,98 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "a0a2ba2a393344ceebc5e769a6b93bbabd88dcab9fb38352142ccba1432c2a94"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/crash-utilities.pw.toml"
+hash = "8b0e68470cf87f5165c7286b9675d9e644aa7ca36e8dd026606c1cc6a88f1edc"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "762467d0768b7d6620a358733b1e13dd61259e15023f19552e7bb03ef8825e2b"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "e5755503a6eabcdca52ad30c9badadf8427c51115a4d6c84defb7661f0a479cb"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "b3646d2ca37ec2b5c5d1a21cf09a589db0791558c7c670c6c92338af0db5ff6c"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "364f5232a086cb05097011b4e3204b91c6e0174bdd2c5c366b2a4602cb5218d1"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "da7459270716d11fa029fd0367f4b61ec74d3a626c344c1692691406e49f82a7"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e0ff6237f41b61f33ab261f1845bb588e134316d3dbb6433dfd0fde645e82bfd"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "f6da8aa98e45998c1bff9b9fb0238da4aa27ce4a453dcf088e11859120723ef7"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
+metafile = true
+
+[[files]]
+file = "mods/serendipicraft-1.0.0-forge-1.20.1.jar"
+hash = "c3ed8b8fad79fbcc697efd72a2103314d6c53fd304c177ef07655392dd5eb4b9"
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6c05b77030665d90ceffbc50d7fd6ed1dedefb20d333c39443c68704ec76f629"
+metafile = true
+
+[[files]]
+file = "mods/tellme-forge-1.20.1-0.10.0.jar"
+hash = "09b03e1cb92292eb288b71e013bb4f2bb70e8a9749ea451fbfdccd9ef1f8de1a"
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "7caa79debb3ea49fa9d2323ace302571c0dd25b71cae533d04816bc827a370ac"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "e80f4a4343bced226e77c05034318ad1466c0f3e783888eef44c3c72440c49eb"
+metafile = true
