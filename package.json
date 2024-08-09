@@ -1,6 +1,5 @@
 {
   "name": "serendipicraft",
-  "module": "pack.toml",
   "scripts": {
     "add": "./bin/packwiz-linux modrinth install",
     "add:cf": "./bin/packwiz-linux curseforge install",
@@ -10,6 +9,6 @@
     "up": "./bin/packwiz-linux update",
     "up:all": "./bin/packwiz-linux update --all",
     "settings": "./bin/packwiz-linux settings",
-    "clean:config": "rm -rf /mnt/c/Users/javin/AppData/Roaming/ATLauncher/instances/SerendipiCraft/config && rm -rf /mnt/c/Users/javin/AppData/Roaming/ATLauncher/instances/SerendipiCraft/configureddefaults"
+    "clean:config": "rm -rf /mnt/c/Users/javin/AppData/Roaming/ATLauncher/instances/PackwizForge/config && rm -rf /mnt/c/Users/javin/AppData/Roaming/ATLauncher/instances/PackwizForge/configureddefaults"
   }
 }
